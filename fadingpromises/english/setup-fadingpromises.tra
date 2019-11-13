@@ -26,4 +26,10 @@ Not Usable By:
 @4    = ~Aidan~
 @5    = ~Hail, traveler! What bringeth thee to this most sombre district?~ [baidan03]
 @6    = ~Selma~
-@7    = ~You spend the remainder of the night in quiet companionship, sometimes talking, sometimes just enjoying the comfortable, friendly silence of the night. It might be your imagination, but the stars are more brilliant and more beautiful than you have seen for a long time. At last, the indigo darkness of the eastern sky begins to lighten, first to cobalt, then to the subtle rose and gold of the approaching dawn.~ [BAIDAN22]
+@7    = ~You spend the remainder of the night in quiet companionship, sometimes talking, sometimes just enjoying the comfortable, friendly silence of the night. It might be your imagination, but the stars are more brilliant and more beautiful than you have seen for a long time. At last, the indigo darkness of the eastern sky begins to lighten, first to cobalt, then to the subtle rose and gold of the approaching dawn.~ [baidan22]
+
+
+/* journal entries */
+@10000 = ~An Ancient and Restless Spirit
+
+A woman told about a ghost that roams the Graveyard District during the night.~

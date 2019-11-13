@@ -1,13 +1,44 @@
 BACKUP ~fadingpromises/backup~
-AUTHOR ~berelinde@gmail.com~
+//AUTHOR ~berelinde@gmail.com~
+SUPPORT ~http://www.shsforums.net/forum/528-fading-promises/~
 
 //MODDER
 
-VERSION ~v7~
+VERSION ~v8~ //190204
 
 README ~fadingpromises/readmefadingpromises.html~
 
+ALWAYS
+
+  ACTION_IF NOT VARIABLE_IS_SET bg2_chapter THEN BEGIN // check to make this happen only once per install
+
+    ACTION_IF GAME_IS ~eet~ BEGIN
+      OUTER_SET bg2_chapter = 12
+    END ELSE BEGIN
+      OUTER_SET bg2_chapter = 0
+    END
+    OUTER_FOR (i=1; i<=10; i=i+1) BEGIN
+      OUTER_SET bg2_chapter = bg2_chapter + 1
+      OUTER_SPRINT name_source ~bg2_chapter_%i%~
+      OUTER_SET EVAL ~%name_source%~ = bg2_chapter
+    END
+
+  ACTION_DEFINE_ARRAY charsetsReloadArray BEGIN setup-fadingpromises END
+
+    LAF ~HANDLE_CHARSETS~
+      INT_VAR
+        infer_charsets = 1
+      STR_VAR
+        tra_path = EVAL ~%MOD_FOLDER%~
+        reload_array = charsetsReloadArray
+    END
+    LOAD_TRA ~fadingpromises/%LANGUAGE%/setup-fadingpromises-ee.tra~
+    
+  END
+END
+
 AUTO_TRA ~fadingpromises/%s~
+
 LANGUAGE ~English~  ~english~ ~fadingpromises/english/setup-fadingpromises.tra~
 LANGUAGE ~Espanol~  ~spanish~ ~fadingpromises/spanish/setup-fadingpromises.tra~
 LANGUAGE ~Deutsch~  ~german~  ~fadingpromises/german/setup-fadingpromises.tra~
@@ -20,52 +51,20 @@ BEGIN @0
 /* STATE.IDS patching adds custom IsValidForPartyDialogue state */
   APPEND ~STATE.IDS~ ~0x80101FEF CD_STATE_NOTVALID~ UNLESS ~CD_STATE_NOTVALID~
 
-/* kit.ids patching */
-COPY_EXISTING ~kit.ids~ ~override~
-  REPLACE_TEXTUALLY ~.*\bTRUECLASS\b~              ~0x4000 TRUECLASS~
-  REPLACE_TEXTUALLY ~.*\bBERSERKER\b~              ~0x4001 BERSERKER~
-  REPLACE_TEXTUALLY ~.*\bWIZARDSLAYER\b~           ~0x4002 WIZARDSLAYER~
-  REPLACE_TEXTUALLY ~.*\bKENSAI\b~                 ~0x4003 KENSAI~
-  REPLACE_TEXTUALLY ~.*\bCAVALIER\b~               ~0x4004 CAVALIER~
-  REPLACE_TEXTUALLY ~.*\bINQUISITOR\b~             ~0x4005 INQUISITOR~
-  REPLACE_TEXTUALLY ~.*\bUNDEADHUNTER\b~           ~0x4006 UNDEADHUNTER~
-  REPLACE_TEXTUALLY ~.*\bMAGESCHOOL_ABJURER\b~     ~0x0040 MAGESCHOOL_ABJURER~
-  REPLACE_TEXTUALLY ~.*\bMAGESCHOOL_CONJURER\b~    ~0x0080 MAGESCHOOL_CONJURER~
-  REPLACE_TEXTUALLY ~.*\bMAGESCHOOL_DIVINER\b~     ~0x0100 MAGESCHOOL_DIVINER~
-  REPLACE_TEXTUALLY ~.*\bMAGESCHOOL_ENCHANTER\b~   ~0x0200 MAGESCHOOL_ENCHANTER~
-  REPLACE_TEXTUALLY ~.*\bMAGESCHOOL_ILLUSIONIST\b~ ~0x0400 MAGESCHOOL_ILLUSIONIST~
-  REPLACE_TEXTUALLY ~.*\bMAGESCHOOL_INVOKER\b~     ~0x0800 MAGESCHOOL_INVOKER~
-  REPLACE_TEXTUALLY ~.*\bMAGESCHOOL_NECROMANCER\b~ ~0x1000 MAGESCHOOL_NECROMANCER~
-  REPLACE_TEXTUALLY ~.*\bMAGESCHOOL_TRANSMUTER\b~  ~0x2000 MAGESCHOOL_TRANSMUTER~
-  REPLACE_TEXTUALLY ~.*\bMAGESCHOOL_GENERALIST\b~  ~0x4000 MAGESCHOOL_GENERALIST~
-  REPLACE_TEXTUALLY ~.*\bFERALAN\b~                ~0x4007 FERALAN~
-  REPLACE_TEXTUALLY ~.*\bSTALKER\b~                ~0x4008 STALKER~
-  REPLACE_TEXTUALLY ~.*\bBEASTMASTER\b~            ~0x4009 BEASTMASTER~
-  REPLACE_TEXTUALLY ~.*\bASSASIN\b~                ~0x400A ASSASIN~
-  REPLACE_TEXTUALLY ~.*\bBOUNTYHUNTER\b~           ~0x400B BOUNTYHUNTER~
-  REPLACE_TEXTUALLY ~.*\bSWASHBUCKLER\b~           ~0x400C SWASHBUCKLER~
-  REPLACE_TEXTUALLY ~.*\bBLADE\b~                  ~0x400D BLADE~
-  REPLACE_TEXTUALLY ~.*\bJESTER\b~                 ~0x400E JESTER~
-  REPLACE_TEXTUALLY ~.*\bSKALD\b~                  ~0x400F SKALD~
-  REPLACE_TEXTUALLY ~.*\bGODTALOS\b~               ~0x4013 GODTALOS~
-  REPLACE_TEXTUALLY ~.*\bGODHELM\b~                ~0x4014 GODHELM~
-  REPLACE_TEXTUALLY ~.*\bGODLATHANDER\b~           ~0x4015 GODLATHANDER~
-  REPLACE_TEXTUALLY ~.*\bTOTEMIC\b~                ~0x4010 TOTEMIC~
-  REPLACE_TEXTUALLY ~.*\bSHAPESHIFTER\b~           ~0x4011 SHAPESHIFTER~
-  REPLACE_TEXTUALLY ~.*\bBEASTFRIEND\b~            ~0x4012 BEASTFRIEND~
-  REPLACE_TEXTUALLY ~.*\bBARBARIAN\b~              ~0x0000 BARBARIAN~
-  REPLACE_TEXTUALLY ~.*\bWILDMAGE\b~               ~0x0000 WILDMAGE~
-  BUT_ONLY_IF_IT_CHANGES
+ACTION_IF GAME_IS ~bg2 tob bgt~ THEN BEGIN
+  // Fixpack ids fixes
+  INCLUDE ~fadingpromises/lib/ids.tph~
+  CLEAR_IDS_MAP
+END
 
-APPEND ~kit.ids~ ~0x4000 TRUECLASS~
-  UNLESS ~\bTRUECLASS\b~
-APPEND ~kit.ids~ ~0x0000 BARBARIAN~
-  UNLESS ~\bBARBARIAN\b~
-APPEND ~kit.ids~ ~0x0000 WILDMAGE~
-  UNLESS ~\bWILDMAGE\b~
+ACTION_IF GAME_IS ~bg2ee eet~ THEN BEGIN
+  ADD_JOURNAL @25 @53 @75 @141 @144 @147 @161 @162 @163 @164 @165 @166 @167 @168 @169 @170 @171 @172 @173 @174 @175 @176 @191 @210 @217 @10000 USING ~fadingpromises/%LANGUAGE%/b!aidan.tra~
+
+  ADD_JOURNAL @10000 USING ~fadingpromises/%LANGUAGE%/setup-fadingpromises.tra~
+END
   
 /* compiling dialogue */
-COMPILE ~fadingpromises/dialogue/b!aidan.d~
+COMPILE EVALUATE_BUFFER ~fadingpromises/dialogue/b!aidan.d~
 COMPILE ~fadingpromises/dialogue/b!selma.d~
 COMPILE ~fadingpromises/dialogue/b!udtrap04.d~
 
@@ -90,25 +89,20 @@ COPY ~fadingpromises/item/b!amace.itm~ ~override~
   SAY UNIDENTIFIED_DESC @2
   SAY DESC @3
  
+
 /* sound */
 COPY ~fadingpromises/music~ ~override~
 
-COPY_EXISTING ~songlist.2da~ ~override~
-REPLACE_TEXTUALLY CASE_INSENSITIVE EXACT_MATCH
-~0       No_music        ****~
-~0       BLANK           blank.mus~
-
-ACTION_IF ("%WEIDU_ARCH%" STRING_COMPARE_CASE "x86" = 0) THEN BEGIN // if Windows
-
-  AT_NOW                   ~fadingpromises/fadingpromisesaudioinstall.bat~   // install...
-  AT_INTERACTIVE_UNINSTALL ~fadingpromises/fadingpromisesaudiouninstall.bat~ // ... and uninstall
-
-END ELSE BEGIN // linux or OS X
-
-  AT_NOW                   ~sh fadingpromises/fadingpromises-audio-install.sh~   // install...
-  AT_INTERACTIVE_UNINSTALL ~sh fadingpromises/fadingpromises-audio-uninstall.sh~ // ... and uninstall
-
+LAF HANDLE_AUDIO
+  STR_VAR
+  audio_path = ~fadingpromises/audio~
+  oggdec_path = ~fadingpromises/audio~
+  sox_path = ~fadingpromises/audio~
 END
+
+
+COPY_EXISTING ~songlist.2da~ ~override~
+  SET_2DA_ENTRY 0 2 3 ~Blank.mus~
 
 /* creatures */
 COPY ~fadingpromises/bmp~ ~override~
@@ -133,8 +127,8 @@ COPY_EXISTING ~kamir.cre~ ~override/b!aidan.cre~
   SAY NAME2 @4
   SAY INITIAL_MEETING @5 
 
-COPY_EXISTING ~UDTRAP04.cre~ ~override~
-  ADD_CRE_ITEM ~b!amace~ #0 #0 #0 ~IDENTIFIED~ ~INV16~
+//COPY_EXISTING ~UDTRAP04.cre~ ~override~
+//  ADD_CRE_ITEM ~b!amace~ #0 #0 #0 ~IDENTIFIED~ ~INV16~
 
 COPY_EXISTING ~CLMOM.cre~ ~override/b!selma.cre~
   ADD_CRE_ITEM ~misc07~ #5 #0 #0 ~IDENTIFIED~ ~INV16~
@@ -158,7 +152,7 @@ COPY ~fadingpromises/movie/b!aidtxt.2da~
      ~override/b!aidtxt.2da~
     REPLACE ~9599~ @7
 
-/* Compatibility with Vic's BG2 Improvements */ 
+/* Compatibility with Vic's BG2 Improvements (Victor's Improvements Pack http://forums.blackwyrmlair.net/index.php?showforum=87) */ 
 
 ACTION_IF FILE_EXISTS_IN_GAME ~lyddial.dlg~ THEN BEGIN 
     COPY_EXISTING ~udtrap04.cre~ ~override/viclydia.cre~ 
@@ -166,9 +160,12 @@ ACTION_IF FILE_EXISTS_IN_GAME ~lyddial.dlg~ THEN BEGIN
         ADD_CRE_ITEM ~b!amace~ #0 #0 #0 ~IDENTIFIED~ ~INV16~
     
     COPY_EXISTING ~dwface04.bcs~ ~override~ 
-        DECOMPILE_BCS_TO_BAF 
+        DECOMPILE_AND_PATCH BEGIN  
             REPLACE_TEXTUALLY CASE_INSENSITIVE ~TriggerActivation("Face4",FALSE)~ ~~ 
-        COMPILE_BAF_TO_BCS 
+        END 
         
     EXTEND_BOTTOM ~dwface04.bcs~ ~fadingpromises/script/b!dwface04.baf~ 
-END 
+END ELSE BEGIN
+    COPY_EXISTING ~UDTRAP04.cre~ ~override~
+        ADD_CRE_ITEM ~b!amace~ #0 #0 #0 ~IDENTIFIED~ ~INV16~
+END

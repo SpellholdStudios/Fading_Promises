@@ -48,7 +48,7 @@ BEGIN ~B!AIDAN~
 CHAIN
 IF ~Global("B!AidanTalk","GLOBAL",0)~ THEN ~B!AIDAN~ BA0.0
 @0 
-DO ~SetGlobal("B!AidanTalk","GLOBAL",1) SetGlobalTimer("B!AidanTime","GLOBAL",ONE_DAY)~
+DO ~SetGlobal("B!AidanTalk","GLOBAL",1) SetGlobalTimer("B!AidanTime","GLOBAL",ONE_DAY) EraseJournalEntry(@10000)~
 END
 ++ @1 EXTERN ~B!AIDAN~ BA0.1
 ++ @2 EXTERN ~B!AIDAN~ BA0.1
@@ -1111,7 +1111,11 @@ END
 
 IF ~~ BA3.8
 SAY @394
-IF ~~ THEN EXIT
+++ @388 + BA3.13
+++ @390 + BA3.14
+++ @391 + BA3.15
+++ @392 + BA3.16
+++ @393 + BA3.17
 END
 
 IF ~~ BA3.9
@@ -1186,7 +1190,8 @@ END
 
 IF ~~ BA3.21
 SAY @418
-IF ~~ THEN EXIT
+IF ~~ THEN DO ~AddJournalEntry(@169,QUEST) 
+DestroySelf()~ EXIT
 END
 
 IF ~~ BA3.22
@@ -1434,11 +1439,11 @@ END
 
 IF ~~ BA4.30
 SAY @515
-+ ~GlobalLT("Chapter","GLOBAL",5) Global("B!AidanIrenicus","LOCALS",0)~ + @516 DO ~SetGlobal("B!AidanIrenicus","LOCALS",1)~ + BA4.18
-+ ~GlobalGT("Chapter","GLOBAL",4) Global("B!AidanIrenicus","LOCALS",0)~ + @517 DO ~SetGlobal("B!AidanIrenicus","LOCALS",1)~ + BA4.19
-+ ~GlobalLT("Chapter","GLOBAL",5) Global("B!AidanImoen","LOCALS",0)~ + @518 DO ~IncrementGlobal("B!AidanLove","GLOBAL",1) SetGlobal("B!AidanImoen","LOCALS",1)~ + BA4.20
-+ ~GlobalGT("Chapter","GLOBAL",4) Global("B!AidanImoen","LOCALS",0)~ + @519 DO ~IncrementGlobal("B!AidanLove","GLOBAL",1) SetGlobal("B!AidanImoen","LOCALS",1)~ + BA4.21
-+ ~Global("Chapter","GLOBAL",6) Global("B!AidanRhynnLanthorn","LOCALS",0)~ + @520 DO ~SetGlobal("B!AidanRhynnLanthorn","LOCALS",1)~ + BA4.22
++ ~GlobalLT("Chapter","GLOBAL",%bg2_chapter_5%) Global("B!AidanIrenicus","LOCALS",0)~ + @516 DO ~SetGlobal("B!AidanIrenicus","LOCALS",1)~ + BA4.18
++ ~GlobalGT("Chapter","GLOBAL",%bg2_chapter_4%) Global("B!AidanIrenicus","LOCALS",0)~ + @517 DO ~SetGlobal("B!AidanIrenicus","LOCALS",1)~ + BA4.19
++ ~GlobalLT("Chapter","GLOBAL",%bg2_chapter_5%) Global("B!AidanImoen","LOCALS",0)~ + @518 DO ~IncrementGlobal("B!AidanLove","GLOBAL",1) SetGlobal("B!AidanImoen","LOCALS",1)~ + BA4.20
++ ~GlobalGT("Chapter","GLOBAL",%bg2_chapter_4%) Global("B!AidanImoen","LOCALS",0)~ + @519 DO ~IncrementGlobal("B!AidanLove","GLOBAL",1) SetGlobal("B!AidanImoen","LOCALS",1)~ + BA4.21
++ ~Global("Chapter","GLOBAL",%bg2_chapter_6%) Global("B!AidanRhynnLanthorn","LOCALS",0)~ + @520 DO ~SetGlobal("B!AidanRhynnLanthorn","LOCALS",1)~ + BA4.22
 + ~Global("B!AidanDarkForces","LOCALS",0)~ + @521 DO ~IncrementGlobal("B!AidanLove","GLOBAL",1) SetGlobal("B!AidanDarkForces","LOCALS",1)~ + BA4.23
 + ~Kit(Player1,GODLATHANDER) Global("B!AidanUndeadLegion","LOCALS",0)~ + @522 DO ~SetGlobal("B!AidanUndeadLegion","LOCALS",1)~ + BA4.24
 + ~Global("B!AidanStayAlive","LOCALS",0)~ + @523 DO ~SetGlobal("B!AidanStayAlive","LOCALS",1)~ + BA4.25
@@ -1574,7 +1579,7 @@ END
 
 IF ~~ BA4.55
 SAY @557
-IF ~~ THEN EXIT
+IF ~~ THEN + BA4.59
 END
 
 IF ~~ BA4.56

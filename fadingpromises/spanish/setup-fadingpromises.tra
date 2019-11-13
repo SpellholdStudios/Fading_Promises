@@ -1,4 +1,4 @@
-@0    = ~Promesas Marchitas (Fading Promises) version 1 - 23Dec2007~
+@0    = ~Promesas Marchitas (Fading Promises)~
 @1    = ~Puño de Amaunator~
 @2    = ~La maza es una descendiente directa del garrote básico, siendo solamente una vara de madera con una cabeza de piedra o hierro montada al final.  El diseño de la cabeza varía; algunas tienen pinchos, otras muescas, y otras incluso tienen protuberancias piramidales.~
 @3    = ~El Puño de Amaunator
@@ -26,4 +26,10 @@ No lo puede usar:
 @4    = ~Aidan~
 @5    = ~¡Saludos! ¿Qué os trae por este distrito tan sombrío?~ [baidan03]
 @6    = ~Selma~
-@7    = ~Pasaréis lo que queda de la noche con una compañía tranquila, a veces habladora, a veces solo disfrutando de la comodidad y el silencio amistoso de la noche. Podría ser vuestra imaginación, pero las estrellas son más brillantes y más hermosas de lo que las que habéis visto desde hace tiempo. Al menos, la oscuridad añil de los cielos del este se asoma, primero en color cobalto, y después en un rosa atenuado seguido del dorado color del alba.~ [BAIDAN22]
+@7    = ~Pasaréis lo que queda de la noche con una compañía tranquila, a veces habladora, a veces solo disfrutando de la comodidad y el silencio amistoso de la noche. Podría ser vuestra imaginación, pero las estrellas son más brillantes y más hermosas de lo que las que habéis visto desde hace tiempo. Al menos, la oscuridad añil de los cielos del este se asoma, primero en color cobalto, y después en un rosa atenuado seguido del dorado color del alba.~ [baidan22]
+
+
+/* journal entries */
+@10000 = ~Un Antiguo Espíritu sin Descanso
+
+Una mujer habló de un fantasma que vaga de noche por el distrito del cementerio.~

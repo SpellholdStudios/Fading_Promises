@@ -1,0 +1,22 @@
+
+@3    = ~This mace was forged by the servants of Amaunator, the ancient Netherese sun god, to combat the forces of the evil undead.  The enchantments of this relic enable the wielder to call forth the Sunray, whose pure life energy is the bane of the unliving.
+
+STATISTICS:
+
+Charge abilities:
+– Sunray once per day
+ Damage: 3d6 (Save vs. Spell or be blinded for 10 rounds)
+ Undead: An additional 1d6 points of damage per level of caster (Save vs. Spell or be destroyed)
+ Range: 20 ft.
+ Area: 20-ft. radius
+
+THAC0: +2, +4 vs. evil creatures
+Damage: 1d8+2, +4 vs. evil creatures, does double damage against undead
+Damage type:  Crushing
+Speed Factor: 3
+Proficiency Type: Mace
+Type: One-handed
+Requires:
+ 6 Strength
+
+Weight: 2~

@@ -27,4 +27,11 @@ Non utilizzabile da:
 @4    = ~Aidan~
 @5    = ~Salve, viaggiatore! Cosa ti porta in questo quartiere così cupo?~ [baidan03]
 @6    = ~Selma~
-@7    = ~Passi il resto della notte in tranquilla compagnia, a volte a parlare, a volte solo a godere del confortevole, silenzio amichevole della notte. Potrebbe essere la tua immaginazione, ma le stelle sono le più brillanti e le più belle che hai visto da molto tempo. Infine, il buio indaco del cielo orientale comincia a schiarire, prima verso il cobalto, poi verso il delicato rosa e oro dell'alba che si avvicina.~ [BAIDAN22]
+@7    = ~Passi il resto della notte in tranquilla compagnia, a volte a parlare, a volte solo a godere del confortevole, silenzio amichevole della notte. Potrebbe essere la tua immaginazione, ma le stelle sono le più brillanti e le più belle che hai visto da molto tempo. Infine, il buio indaco del cielo orientale comincia a schiarire, prima verso il cobalto, poi verso il delicato rosa e oro dell'alba che si avvicina.~ [baidan22]
+
+
+/* journal entries */
+@10000 = ~Un Antico Spirito Senza riposo
+
+Una donna ha detto che un fantasma si aggira di notte nel quartiere del cimitero.~
+

@@ -1,4 +1,4 @@
-@0    = ~Hail, traveler! What bringeth thee to this most sombre district?~ [BAIDAN03]
+@0    = ~Hail, traveler! What bringeth thee to this most sombre district?~ [baidan03]
 @1    = ~Who are you?~
 @2    = ~What are you?~
 @3    = ~I've always found graveyards restful.~
@@ -23,7 +23,7 @@
 @22   = ~Even so, it was not my will to distress her.~
 @23   = ~Peace will long be denied me, I fear, through my own folly.~
 @24   = ~(sigh) As you wish. Time means nothing to a ghost, with all of eternity before him. Perhaps it is folly to dwell among the living. I shall seek the solitude of the wilderness, and trouble you no more.~
-@25   = ~An Ancient and Restless Spirit -
+@25   = ~An Ancient and Restless Spirit
 
 I met a ghost in the Graveyard District tonight. He wanted something from me, I'm sure, but I have sent him away.~
 @26   = ~What could the living do to the dead? Indeed, a priest of great power might banish me through force of his will, but that would not be my choice. Would that my last task might be completed, that I might join my dead god in the forgetfulness of oblivion!~
@@ -53,11 +53,11 @@ I met a ghost in the Graveyard District tonight. He wanted something from me, I'
 @50   = ~I've barely time to help the living. I certainly have no time to waste on the dead.~
 @51   = ~Aw, well, gotta run.~
 @52   = ~I am most grateful! Lest my sudden appearance startle thee to an early grave, chimes will herald my coming.~
-@53   = ~An Ancient and Restless Spirit -
+@53   = ~An Ancient and Restless Spirit
 
 I met a peculiar ghost in the Graveyard District. He spoke of a quest he would like me to undertake. He promises to call on me again at midnight.~
 @54   = ~I will speak to thee anon. If thou wouldst help me, I will refuse no aid. Nor will I persist, should other cares make my request inconvenient. Chimes will herald my coming.~
-@55   = ~Glad tidings, my <PRO_LADYLORD>! Thou hast found the Fist of Amaunator!~ [BAIDAN04]
+@55   = ~Glad tidings, my <PRO_LADYLORD>! Thou hast found the Fist of Amaunator!~ [baidan04]
 @56   = ~No kidding.~
 @57   = ~Getting it was no easy victory, let me tell you!~
 @58   = ~So, what's it worth to you?~
@@ -77,7 +77,7 @@ I met a peculiar ghost in the Graveyard District. He spoke of a quest he would l
 @72   = ~I'm not doing this for your sake! I'm doing it just so you'll leave me the hells alone!~
 @73   = ~Thou base villain! To abuse my confidence thus! Would that I had never told thee where it might be found!~
 @74   = ~Were it within my power, I would damn thee to eternal torment, but as my power hath waned even as my essence, I can do naught but wish the unrest of undeath find thee in thy time.~
-@75   = ~An Ancient and Restless Spirit -
+@75   = ~An Ancient and Restless Spirit
 
 That fool of a ghost practically led me to the Fist of Amaunator! How fortunate to have acquired such a powerful weapon. Aidan didn't seem too happy about my decision to keep it, but I can hardly be bothered by his idle threats. He can drift on in nothingness like his dead god.~
 @76   = ~Art thou able to wield it?~
@@ -104,7 +104,7 @@ That fool of a ghost practically led me to the Fist of Amaunator! How fortunate 
 @97   = ~Thy answer pleaseth me. It is a fine thing, to have found thy friendship at the end of my wanderings. But the night weareth on, and I must depart.~
 @98   = ~Farewell, then.~
 @99   = ~Farewell, until our next meeting!~
-@100  = ~Thou hast defeated a mighty foe. Art thou hale?~ [BAIDAN05]
+@100  = ~Thou hast defeated a mighty foe. Art thou hale?~ [baidan05]
 @101  = ~It was no easy battle.~
 @102  = ~The price has been high, Aidan. I bear the corpse of my lover.~
 @103  = ~Just another day in the life of the boldest adventurer in Faerun.~
@@ -145,20 +145,20 @@ That fool of a ghost practically led me to the Fist of Amaunator! How fortunate 
 @138  = ~Appeal?! Thy perversions rule thee! But I shall think no more on the lusts thou dost harbor.~
 @139  = ~Indeed! Nevertheless, perchance thou mayest happen upon a means of doing both. But I shall say no more on that.~
 @140  = ~Farewell, my boon companion, and may thy steps guide thee to the fallen temple of Amaunator in the Umar Hills, where the Fist of Amaunator shall rest in the arms of the statue forevermore.~
-@141  = ~An Ancient and Restless Spirit -
+@141  = ~An Ancient and Restless Spirit
 
 Now that Bodhi is defeated and I have the Fist of Amaunator, Aidan tells me it is time to complete the quest he set upon me so long ago. I am to journey to the fallen temple of Amaunator in the Umar Hills and place the mace in the arms of the statue.~
 @142  = ~Then thou hast my thanks!~
 @143  = ~Thou dost torment me! If thou wouldst complete my quest, do so, but tell me no more of thy plans to betray me, I beg of thee! I go.~
-@144  = ~An Ancient and Restless Spirit -
+@144  = ~An Ancient and Restless Spirit
 
 I might have pushed Aidan a little too far. I told him that I might just decide to keep the mace, after all. It upset him greatly, and he left. I should probably not expect to see him again.~
 @145  = ~Alas! To be so close, and fail through thy avarice! Alas, my prowess hath fled, and I am impotent in my rage.~
 @146  = ~May the curse of undeath find thee in thy time, and may thy quest prove as fruitless as mine.~
-@147  = ~An Ancient and Restless Spirit -
+@147  = ~An Ancient and Restless Spirit
 
 Now that Bodhi is defeated, Aidan has asked me to complete his quest and restore the Fist of Amaunator to the ruined temple in the Umar Hills. The idiot! Can he have really thought I'd go through with it? No matter, his threats and curses are as powerless as he is.~
-@148  = ~In happy hour, I come to thee, for thou hast fulfilled my quest! At last, I may find peace.~ [BAIDAN06]
+@148  = ~In happy hour, I come to thee, for thou hast fulfilled my quest! At last, I may find peace.~ [baidan06]
 @149  = ~It was the least I could do.~
 @150  = ~We've been through so much together, I could hardly refuse to help you now.~
 @151  = ~I have to confess that part of me is sad about not seeing you anymore.~
@@ -171,52 +171,52 @@ Now that Bodhi is defeated, Aidan has asked me to complete his quest and restore
 @158  = ~Thou knowest this not, but the light of the sun would destroy me. Even so, I have not seen that beloved sight for years uncounted. I would see it one last time, with thee as my companion, at this, the very end.~
 @159  = ~(You spend the remainder of the night in quiet companionship, sometimes talking, sometimes just enjoying the comfortable, friendly silence of the night. It might be your imagination, but the stars are more brilliant and more beautiful than you have seen for a long time. At last, the indigo darkness of the eastern sky begins to lighten, first to cobalt, then to the subtle rose and gold of the approaching dawn.)~
 @160  = ~Thank thee for giving me peace at last.~
-@161  = ~An Ancient and Restless Spirit -
+@161  = ~An Ancient and Restless Spirit
 
 I have promised Aidan, the fallen paladin that I will complete his quest and place the Fist of Amaunator in the arms of the statue in the temple ruins. I must remember to keep my word.~
-@162  = ~An Ancient and Restless Spirit -
+@162  = ~An Ancient and Restless Spirit
 
 The ghost appeared to me again today, but I cannot make time for his quest. I have enough to do, fetching and carrying for the living.~
-@163  = ~An Ancient and Restless Spirit -
+@163  = ~An Ancient and Restless Spirit
 
 It would seem that Aidan, the ghost I met in the Graveyard District, allowed himself to be distracted by dryads and failed to complete his last assignment, the delivery of a holy mace, the Fist of Amaunator, to the temple of Amaunator. I have agreed.~
-@164  = ~An Ancient and Restless Spirit -
+@164  = ~An Ancient and Restless Spirit
 
 Aidan, the ghostly fallen paladin, has appeared to me again. Although I had agreed to help him, I now find this task to be inconvenient. I have withdrawn my offer of aid. He seemed to take it well.~
-@165  = ~An Ancient and Restless Spirit -
+@165  = ~An Ancient and Restless Spirit
 
 At last, more information on Aidan's thief. He was a mage named Alchra Diagott in life, although Aidan suggest that he has become a lich. He was last seen entering a realm of great darkness, but Aidan was uncertain of whether Diagott was still there. He said that I should keep my eyes open.~
-@166  = ~An Ancient and Restless Spirit -
+@166  = ~An Ancient and Restless Spirit
 
 It was kind of Aidan to give me so much information about the Fist of Amaunator, although he didn't seem pleased that I should want to keep it for myself. He has wished the curse of undeath upon me, but his curses hold little threat. At least I'll never see him again.~
-@167  = ~An Ancient and Restless Spirit - 
+@167  = ~An Ancient and Restless Spirit 
 
 I met with Aidan, the ghostly fallen paladin, again tonight. He still wanted me to perform his quest for him, and restore the Fist of Amaunator to its home in the temple of the same name, but I had to decline.~
-@168  = ~An Ancient and Restless Spirit -
+@168  = ~An Ancient and Restless Spirit
 
 I am still bound to my quest to retrieve the Fist of Amaunator for Aidan, the ghostly fallen paladin, but I have discouraged him from appearing to me again until the quest is complete.~
-@169  = ~An Ancient and Restless Spirit -
+@169  = ~An Ancient and Restless Spirit
 
 Aidan told me more of the Fist of Amaunator. It is a large, heavy golden-headed mace whose shaft is wrapped in silver cord. He said something about runes on the handle. I'm sure I'll recognize it easily enough.~
-@170  = ~An Ancient and Restless Spirit -
+@170  = ~An Ancient and Restless Spirit
 
 The fallen paladin Aidan has repeated the information he gave me earlier, that the Fist of Amaunator is held by Diagott, and that he was last seen entering a 'land of eternal night.' I have no desire to become better acquainted with him, though, so he has agreed not to visit me any more.~
-@171  = ~An Ancient and Restless Spirit -
+@171  = ~An Ancient and Restless Spirit
 
 That accursed ghost showed up again, wanting a chat, but I sent him away. I have no desire to become better acquainted with him, and he has agreed not to visit me any more.~
-@172  = ~An Ancient and Restless Spirit -
+@172  = ~An Ancient and Restless Spirit
 
 In our conversation tonight, Aidan advised me to take the statue to the "ruined temple of Amaunator, that once stood among the hills," and place the mace in the arms of the statue. It shouldn't be too hard to find.~
-@173  = ~An Ancient and Restless Spirit -
+@173  = ~An Ancient and Restless Spirit
 
 When I told Aidan I would help him get his mace back, I could hardly have anticipated that he would use the opportunity to dog my steps. Tonight was too much. I sent him away, and left him with no assurances that I would even complete his quest.~
-@174  = ~An Ancient and Restless Spirit -
+@174  = ~An Ancient and Restless Spirit
 
 That ghost called again tonight, the fallen paladin of Amaunator. He was complaining, as usual, of his sad fate, and my patience was finally exhausted. I do not think I will be troubled by him again.~
-@175  = ~An Ancient and Restless Spirit -
+@175  = ~An Ancient and Restless Spirit
 
 That ghost called again tonight, the fallen paladin of Amaunator. He wore me down with his tragic airs and ideas of moral superiority, and I finally had to dismiss him. I do not think I will be troubled by him again.~
-@176  = ~An Ancient and Restless Spirit - 
+@176  = ~An Ancient and Restless Spirit 
 
 At last Aidan, one-time paladin of Amaunator is free. I have helped him complete his last quest, and have placed the sacred mace, the Fist of Amaunator, in the arms of the statue in the ruined temple of his dead god. With any luck, he goes to face a fate kinder than his long, lonely wandering.~
 @177  = ~Wouldst thou bear me company in this last vigil?~
@@ -224,8 +224,8 @@ At last Aidan, one-time paladin of Amaunator is free. I have helped him complete
 @179  = ~I'd love to, Aidan, but I really must go.~
 @180  = ~I can't.~
 @181  = ~Dearest <PRO_LADYLORD> <CHARNAME>, it is time.~ [b!blank]
-@182  = ~My friend, thank thee for giving me peace at last, and bearing watch with me over my last sunrise. May the gods be kind to thee, and keep thee well, my dearest friend. Farewell.~ [BAIDAN20]
-@183  = ~Greetings, my <PRO_LADYLORD> <CHARNAME>! My last hope had abandoned me, but thou hast fulfilled my quest, and set me free at last!~ [BAIDAN07]
+@182  = ~My friend, thank thee for giving me peace at last, and bearing watch with me over my last sunrise. May the gods be kind to thee, and keep thee well, my dearest friend. Farewell.~ [baidan20]
+@183  = ~Greetings, my <PRO_LADYLORD> <CHARNAME>! My last hope had abandoned me, but thou hast fulfilled my quest, and set me free at last!~ [baidan07]
 @184  = ~That doesn't make us friends or anything.~
 @185  = ~It seemed like a good idea at the time.~
 @186  = ~After a lot of soul-searching, I decided it was the right thing to do.~
@@ -233,10 +233,10 @@ At last Aidan, one-time paladin of Amaunator is free. I have helped him complete
 @188  = ~I am glad thy impulsive nature hath had this happy result. And my gratitude is boundless.~
 @189  = ~I thank thee for thy generosity, and thy kindness. I fear I have missed out on a worthy friend, but if the blessings of a ghost mean aught to thee, take mine to thy own end.~
 @190  = ~May the gods bless thee, and keep thee safe. Farewell.~
-@191  = ~An Ancient and Restless Spirit - 
+@191  = ~An Ancient and Restless Spirit 
 
 At last Aidan, one-time paladin of Amaunator is free. Despite my earlier assertion that I would do no such thing, I have helped him complete his last quest, and have placed the sacred mace, the Fist of Amaunator, in the arms of the statue in the ruined temple of his dead god. With any luck, he goes to face a fate kinder than his long, lonely wandering.~
-@192  = ~Greetings, my <PRO_LADYLORD>! Thou knowest me not, but thou hast done me a great service, and I would acquaint thee of it ere I depart.~ [BAIDAN08]
+@192  = ~Greetings, my <PRO_LADYLORD>! Thou knowest me not, but thou hast done me a great service, and I would acquaint thee of it ere I depart.~ [baidan08]
 @193  = ~It seemed like the right thing to do at the time.~
 @194  = ~Imagine that!~
 @195  = ~What have I done?~
@@ -254,21 +254,21 @@ At last Aidan, one-time paladin of Amaunator is free. Despite my earlier asserti
 @207  = ~Aged and crumbling that text must have been, to contain aught of so ancient and unregarded a relic. Yet I thank whatever providence hath directed thy actions.~
 @208  = ~Then I thank the kind fate that guideth thy hand, for in thy carelessness, thou hast spared me.~
 @209  = ~I thank thee for my freedom, and wish thee health and happiness to the end of thy days.~
-@210  = ~An Ancient and Restless Spirit - 
+@210  = ~An Ancient and Restless Spirit 
 
 My intuition has paid off. I have helped Aidan, once a paladin of Amaunator complete his last quest, and have placed the sacred mace, the Fist of Amaunator, in the arms of the statue in the ruined temple of his dead god. I will laugh thinking back on his surprise for quite some time.~
-@211  = ~My <PRO_LADYLORD> <CHARNAME>, wilt thou betray me even now? Thou hast been to the temple, yet thou hast still the mace.~ [BAIDAN09]
+@211  = ~My <PRO_LADYLORD> <CHARNAME>, wilt thou betray me even now? Thou hast been to the temple, yet thou hast still the mace.~ [baidan09]
 @212  = ~That was the plan, yes.~
 @213  = ~Can I rest first?~
 @214  = ~No, I plan to return, but there's something I need to do with it first.~
 @215  = ~Sorry, Aidan, I forgot! I'll go back and put it there now.~
 @216  = ~Thou vile wretch! May the curses of all the gods find thee!~
-@217  = ~An Ancient and Restless Spirit -
+@217  = ~An Ancient and Restless Spirit
 
 I can hardly believe that Aidan, the fallen paladin of Amaunator would have been gullible enough to believe I would go through with his idiotic quest. I have kept the mace for myself, and have sent Aidan away. He does not seem well pleased.~
 @218  = ~Then I shall be patient a little longer.~
 @219  = ~Of course. I shall be patient a wile longer.~
-@220  = ~Greetings, <PRO_LADYLORD> <CHARNAME>. Might I speak with thee of my woe?~ [BAIDAN10]
+@220  = ~Greetings, <PRO_LADYLORD> <CHARNAME>. Might I speak with thee of my woe?~ [baidan10]
 @221  = ~No, I've changed my mind. Everyone wants me to solve their problems for them, and I am tired of it.~
 @222  = ~This isn't the best time for a chat.~
 @223  = ~I began to think you might never show up. What can I do for you?~
@@ -339,7 +339,7 @@ I can hardly believe that Aidan, the fallen paladin of Amaunator would have been
 @288  = ~Yea, my <PRO_LADYLORD>, and well thou mayest, for I though I grieve all of those things, they were none of my making, save the first. It is the eternity before me that I lament, and the fear that hath kept me from sleep these many long years.~
 @289  = ~Wouldst thou know aught else?~
 @290  = ~No, that was all.~
-@291  = ~Hail to thee, <PRO_LADYLORD>. May I tell thee more of the Fist of Amaunator?~ [BAIDAN11]
+@291  = ~Hail to thee, <PRO_LADYLORD>. May I tell thee more of the Fist of Amaunator?~ [baidan11]
 @292  = ~You startled me!~
 @293  = ~Yes, tell me.~
 @294  = ~Can't you call at a more convenient time?~
@@ -411,7 +411,7 @@ I can hardly believe that Aidan, the fallen paladin of Amaunator would have been
 @360  = ~But come! Thou art patient indeed to listen to the ramblings of a melancholy shadow! Thou shouldst rest while thou art able, else daybreak will be upon us, and I will vanish into mist.~
 @361  = ~(sigh) Thou knowest naught of such things. And as I must endure my shame, I shall not reprove thee.~
 @362  = ~Perchance some other time...~
-@363  = ~My <PRO_LADYLORD>, greetings. May I tell thee of the Fist of Amaunator?~ [BAIDAN12]
+@363  = ~My <PRO_LADYLORD>, greetings. May I tell thee of the Fist of Amaunator?~ [baidan12]
 @364  = ~That is why you have come, isn't it?~
 @365  = ~Yes, please do.~
 @366  = ~Since you never agree to come at a more hospitable hour, I suppose you had better.~
@@ -485,7 +485,7 @@ I can hardly believe that Aidan, the fallen paladin of Amaunator would have been
 @434  = ~It hath been long since last I spoke of that doomed realm. It is good to remember...~
 @435  = ~But the hour grows late, and thou art no doubt weary.~
 @436  = ~I must bid thee farewell. Listen for the chimes to mark my next coming.~
-@437  = ~Greetings, my <PRO_LADYLORD>! Art thou well?~ [BAIDAN13]
+@437  = ~Greetings, my <PRO_LADYLORD>! Art thou well?~ [baidan13]
 @438  = ~I am. You?~
 @439  = ~Do I detect an attempt at polite conversation?~
 @440  = ~What business is it of yours?~
@@ -610,7 +610,7 @@ I can hardly believe that Aidan, the fallen paladin of Amaunator would have been
 @559  = ~In faith! And never sooner than when thou shouldst fix thyself on a righteous course.~
 @560  = ~For shame, that thou shouldst be so aimless.~
 @561  = ~But come, wouldst thou still speak?~
-@562  = ~My <PRO_LADYLORD>, I am come to bid thee greetings.~ [BAIDAN14]
+@562  = ~My <PRO_LADYLORD>, I am come to bid thee greetings.~ [baidan14]
 @563  = ~And what will be the topic of our conversation today?~
 @564  = ~Do you have news?~
 @565  = ~Again?~
@@ -680,7 +680,7 @@ I can hardly believe that Aidan, the fallen paladin of Amaunator would have been
 @629  = ~And perhaps undeath has given me the wisdom that I lacked in life, of judging by deeds, rather than by blood or those leanings of character my powers detected. My friendship of thee is unabated.~
 @630  = ~Yet even now, the hour grows late.~
 @631  = ~Is that relief in thy voice? Thou shouldst have no cause of vexation in any case. In life, I might have pursued thee to purge thy mortal flesh of the evil of thy blood, but such passions are possible no longer.~
-@632  = ~Good evening, my <PRO_LADYLORD>!~ [BAIDAN15]
+@632  = ~Good evening, my <PRO_LADYLORD>!~ [baidan15]
 @633  = ~What is so good about it?~
 @634  = ~It is. The weather is fine, the night is mild, and the stars are out.~
 @635  = ~Is it? I haven't been outside in a while.~
@@ -750,7 +750,7 @@ I can hardly believe that Aidan, the fallen paladin of Amaunator would have been
 @699  = ~I hardly know. But thou growest weary of my company, and the hour grows late. Some other night.~
 @700  = ~My friend, when the last of the stars are put out, and the last long night falleth, we all enter that joyous expectation, that anticipation of the unknown. And that is my hope.~
 @701  = ~But once more, the night grows old, and our time together is spent. Farewell, my <PRO_LADYLORD>.~
-@702  = ~I greet thee again, my <PRO_LADYLORD>. Wouldst thou indulge me once again, and tell me of thy mind?~ [BAIDAN16]
+@702  = ~I greet thee again, my <PRO_LADYLORD>. Wouldst thou indulge me once again, and tell me of thy mind?~ [baidan16]
 @703  = ~Don't you know everything there is to know about me yet?~
 @704  = ~This isn't the best time, Aidan.~
 @705  = ~Gods, will I never be rid of you?~
@@ -823,7 +823,7 @@ I can hardly believe that Aidan, the fallen paladin of Amaunator would have been
 @772  = ~Then thou wouldst do well to discover it! Nourish it now, while there is time!~
 @773  = ~Alas! But thou sayest not that there is none. Nourish it, my friend, lest the weeds choke the rose that lieth hidden. Pluck out the malice and the meanness, and do away all evil.~
 @774  = ~Farewell. I shall see thee anon.~
-@775  = ~Knowest thou friendship, my <PRO_LADYLORD>?~ [BAIDAN17]
+@775  = ~Knowest thou friendship, my <PRO_LADYLORD>?~ [baidan17]
 @776  = ~I know yours.~
 @777  = ~I've got friends enough.~
 @778  = ~Haven't we been through this?~
@@ -864,7 +864,7 @@ I can hardly believe that Aidan, the fallen paladin of Amaunator would have been
 @813  = ~But once more, the hour of midnight hath fled, and I must depart. I thank thee for awakening me once more to the emotions I took for granted in life, both the sweet and the bitter.~
 @814  = ~Then I am grieved. For thy company hath given me solace, as well. Even the rekindled pain of my solitude is most welcome, after long years of being dead to every emotion.~
 @815  = ~But thou hast appealed to the compassion that slumbered along with every other feeling, and I will disturb thee not again until the task is complete.~
-@816  = ~I come to thee in a restless hour, my <PRO_LADYLORD>, for fear oppresseth me.~ [BAIDAN18]
+@816  = ~I come to thee in a restless hour, my <PRO_LADYLORD>, for fear oppresseth me.~ [baidan18]
 @817  = ~What? Again?~
 @818  = ~What is wrong?~
 @819  = ~Is there anything I can do to help?~
@@ -909,7 +909,7 @@ I can hardly believe that Aidan, the fallen paladin of Amaunator would have been
 @858  = ~No, it is me, not thee.~
 @859  = ~I greet thee with mewling lamentations upon my undead lips, and expect thy heart to melt before me, and understanding to flow out like its lifeblood. I thank thee for thy forbearance.~
 @860  = ~I deem now that I must take it on faith that there is aught beyond the Void.~
-@861  = ~<PRO_LADYLORD> <CHARNAME>, knowest thou what it is to love?~ [BAIDAN19]
+@861  = ~<PRO_LADYLORD> <CHARNAME>, knowest thou what it is to love?~ [baidan19]
 @862  = ~My lover walks by my side.~
 @863  = ~I have known love, yes.~
 @864  = ~My lover is dead.~

@@ -1,4 +1,4 @@
-@0    = ~Salutations, voyageur ! Quel dessein vous mène-t-il en ce district des plus sombres ?~ [BAIDAN03] ~Salutations, voyageuse ! Quel dessein vous mène-t-il en ce district des plus sombres ?~ [BAIDAN03]
+@0    = ~Salutations, voyageur ! Quel dessein vous mène-t-il en ce district des plus sombres ?~ [baidan03] ~Salutations, voyageuse ! Quel dessein vous mène-t-il en ce district des plus sombres ?~ [baidan03]
 @1    = ~Qui es-tu ?~
 @2    = ~Qu'es-tu ?~
 @3    = ~J'ai toujours trouvé les cimetières reposants.~
@@ -57,7 +57,7 @@ J'ai rencontré un fantôme dans le quartier du Cimetière, ce soir. Il attendait q
 
 J'ai rencontré un fantôme étrange dans le Quartier du Cimetière. Il a parlé d'une quête qu'il aimerait que j'entreprenne. Il a promis de me retrouver à minuit.~
 @54   = ~Je vous parlerai plus tard. Si vous désirez m'aider, je ne le refuserai point. Pas plus que je ne persisterai, si d'autres devoirs rendent ma requête malaisée. Un carillon vous préviendra de ma venue.~
-@55   = ~Heureuse nouvelle, <PRO_LADYLORD> ! Vous avez trouvé le Poing d'Amaunator !~ [BAIDAN04]
+@55   = ~Heureuse nouvelle, <PRO_LADYLORD> ! Vous avez trouvé le Poing d'Amaunator !~ [baidan04]
 @56   = ~Sans blague.~
 @57   = ~Le récupérer n'a pas été facile, permets-moi de te le dire !~
 @58   = ~Bon, combien vaut-il pour toi ?~
@@ -104,7 +104,7 @@ Cet imbécile de fantôme m'a pratiquement guidé jusqu'au Poing d'Amaunator ! Quel
 @97   = ~Votre réponse me procure grand plaisir. C'est chose merveilleuse que d'avoir trouvé votre amitié au terme de mes errances. Mais la nuit poursuit sa course, et je dois m'en aller.~
 @98   = ~Adieu, dès lors.~
 @99   = ~Adieu, jusqu'à notre prochaine rencontre !~
-@100  = ~Vous avez défait un puissant adversaire. Etes-vous sauf ?~ [BAIDAN05] ~Vous avez défait un puissant adversaire. Etes-vous sauve ?~ [BAIDAN05]
+@100  = ~Vous avez défait un puissant adversaire. Etes-vous sauf ?~ [baidan05] ~Vous avez défait un puissant adversaire. Etes-vous sauve ?~ [baidan05]
 @101  = ~Ce n'était pas un combat facile.~
 @102  = ~Le prix a été élevé, Aidan. Je porte le corps de mon aimée.~ ~Le prix a été élevé, Aidan. Je porte le corps de mon aimé.~
 @103  = ~Un jour comme un autre dans la vie de l'aventurier le plus brave de Féérune.~ ~Un jour comme un autre dans la vie de l'aventurière la plus brave de Féérune.~ 
@@ -158,7 +158,7 @@ J'ai peut-être été un peu trop loin avec Aidan. Je lui ai dit que je pourrais pe
 @147  = ~Un esprit ancien et sans repos
 
 A présent que Bodhi est vaincue, Aidan m'a demandé de mettre un terme à sa quête et de ramener le Poing d'Amaunator au temple en ruines des Collines d'Umar. L'imbécile ! A-t-il vraiment cru que j'irais jusqu'au bout ? Peu importe, ses menaces et malédictions sont aussi impuissantes que lui.~
-@148  = ~En cette heure radieuse, je viens à vous, car vous avez accompli ma quête ! Enfin, je peux trouver la paix.~ [BAIDAN06]
+@148  = ~En cette heure radieuse, je viens à vous, car vous avez accompli ma quête ! Enfin, je peux trouver la paix.~ [baidan06]
 @149  = ~C'était le moins que je puisse faire.~
 @150  = ~Nous avons traversé tant de choses ensemble, je pouvais difficilement refuser de t'aider aujourd'hui.~
 @151  = ~Je dois avouer qu'une part de moi est triste car nous n'allons plus nous voir, désormais.~
@@ -224,8 +224,8 @@ Enfin, Aidan, autrefois paladin d'Amaunator, est libre. Je l'ai aidé à terminer 
 @179  = ~J'aimerais vraiment, Aidan, mais je dois vraiment y aller.~
 @180  = ~Je ne peux pas.~
 @181  = ~Très cher seigneur <CHARNAME>, il est l'heure.~ [b!blank] ~Très chère dame <CHARNAME>, il est l'heure.~ [b!blank]
-@182  = ~Mon ami, je vous remercie de m'avoir enfin donné la paix, et pour avoir veillé à mes côtés jusqu'à cette ultime aurore. Que les dieux vous soient propices et vous préservent, très cher ami. Adieu.~ [BAIDAN20] ~Mon amie, je vous remercie de m'avoir enfin donné la paix, et pour avoir veillé à mes côtés jusqu'à cette ultime aurore. Que les dieux vous soient propices et vous préservent, très chère amie. Adieu.~ [BAIDAN20]
-@183  = ~Salutations, <PRO_LADYLORD> <CHARNAME> ! J'avais abandonné tout espoir mais vous avez accompli ma quête, et m'avez enfin libéré !~ [BAIDAN07]
+@182  = ~Mon ami, je vous remercie de m'avoir enfin donné la paix, et pour avoir veillé à mes côtés jusqu'à cette ultime aurore. Que les dieux vous soient propices et vous préservent, très cher ami. Adieu.~ [baidan20] ~Mon amie, je vous remercie de m'avoir enfin donné la paix, et pour avoir veillé à mes côtés jusqu'à cette ultime aurore. Que les dieux vous soient propices et vous préservent, très chère amie. Adieu.~ [baidan20]
+@183  = ~Salutations, <PRO_LADYLORD> <CHARNAME> ! J'avais abandonné tout espoir mais vous avez accompli ma quête, et m'avez enfin libéré !~ [baidan07]
 @184  = ~Cela ne fait pas de nous des amis ou quoi que ce soit.~
 @185  = ~Ça m'a eu l'air d'être une bonne idée, sur le moment.~
 @186  = ~Après de nombreuses réflexions, j'ai décidé que c'était la bonne chose à faire.~
@@ -236,7 +236,7 @@ Enfin, Aidan, autrefois paladin d'Amaunator, est libre. Je l'ai aidé à terminer 
 @191  = ~Un esprit ancien et sans repos
 
 Enfin, Aidan, autrefois paladin d'Amaunator, est libre. Malgré mes affirmations antérieures comme quoi je ne le ferais pas, je l'ai aidé à accomplir sa dernière quête, et j'ai placé la masse sacrée, le Poing d'Amaunator, dans les bras de la statue du temple en ruines de son dieu mort. Avec un peu de chance, il sera à présent confronté à un destin plus clément que sa longue errance solitaire.~
-@192  = ~Salutations, <PRO_LADYLORD> ! Vous ne me connaissez point, mais vous m'avez rendu un grand service, et je voulais vous en avertir avant de partir.~ [BAIDAN08]
+@192  = ~Salutations, <PRO_LADYLORD> ! Vous ne me connaissez point, mais vous m'avez rendu un grand service, et je voulais vous en avertir avant de partir.~ [baidan08]
 @193  = ~Ça m'a semblé être la bonne chose à faire, sur le moment.~
 @194  = ~Ça alors !~
 @195  = ~Qu'est-ce que j'ai fait ?~
@@ -257,7 +257,7 @@ Enfin, Aidan, autrefois paladin d'Amaunator, est libre. Malgré mes affirmations 
 @210  = ~Un esprit ancien et sans repos
 
 Mon intuition a porté ses fruits. J'ai aidé Aidan, autrefois paladin d'Amaunator, à terminer sa dernière quête, et j'ai placé la masse sacrée, le Poing d'Amaunator, dans les bras de la statue du temple en ruines de son dieu mort. Je rirai en repensant à sa surprise pendant un certain temps.~
-@211  = ~<PRO_LADYLORD> <CHARNAME>, me trahiriez-vous même à présent ? Vous avez été jusqu'au temple, et pourtant vous avez toujours la masse.~ [BAIDAN09]
+@211  = ~<PRO_LADYLORD> <CHARNAME>, me trahiriez-vous même à présent ? Vous avez été jusqu'au temple, et pourtant vous avez toujours la masse.~ [baidan09]
 @212  = ~C'était le plan, oui.~
 @213  = ~Puis-je me reposer, d'abord ?~
 @214  = ~Non, j'ai l'intention d'y retourner, mais il y a autre chose que je dois faire avec elle d'abord.~
@@ -268,7 +268,7 @@ Mon intuition a porté ses fruits. J'ai aidé Aidan, autrefois paladin d'Amaunator
 J'ai peine à croire qu'Aidan, le paladin déchu d'Amaunator, ait pu être assez crédule pour penser que je réaliserais sa stupide quête. J'ai gardé la masse pour moi et l'ai renvoyé. Il n'a pas eu l'air très content.~
 @218  = ~Alors je patienterai un peu plus longtemps.~
 @219  = ~Bien sûr. Je patienterai un peu plus longtemps.~
-@220  = ~Salutations, <PRO_LADYLORD> <CHARNAME>. Puis-je vous parler de mes malheurs ?~ [BAIDAN10]
+@220  = ~Salutations, <PRO_LADYLORD> <CHARNAME>. Puis-je vous parler de mes malheurs ?~ [baidan10]
 @221  = ~Non, j'ai changé d'avis. Tout le monde veut que je résolve ses problèmes à sa place, et j'en ai ras le bol.~
 @222  = ~Ce n'est pas le meilleur moment pour une conversation.~
 @223  = ~J'avais commencé à croire que tu ne te montrerais jamais. Que puis-je faire pour toi ?~
@@ -339,7 +339,7 @@ J'ai peine à croire qu'Aidan, le paladin déchu d'Amaunator, ait pu être assez cr
 @288  = ~Oui, <PRO_LADYLORD>, et la question est légitime, car bien que je porte le deuil de toutes ces choses, aucune n'est de mon fait, hormis la première. C'est l'éternité qui se dresse devant moi qui m'accable, et la peur qui m'a empêché de trouver le repos toutes ces longues années.~
 @289  = ~Voudriez-vous savoir autre chose ?~
 @290  = ~Non, c'est tout.~
-@291  = ~Salutations à vous, <PRO_LADYLORD>. Puis-je vous en apprendre davantage au sujet du Poing d'Amaunator ?~ [BAIDAN11]
+@291  = ~Salutations à vous, <PRO_LADYLORD>. Puis-je vous en apprendre davantage au sujet du Poing d'Amaunator ?~ [baidan11]
 @292  = ~Tu m'as fait peur !~
 @293  = ~Oui, raconte-moi.~
 @294  = ~Ne peux-tu pas venir à un moment plus propice ?~
@@ -411,7 +411,7 @@ J'ai peine à croire qu'Aidan, le paladin déchu d'Amaunator, ait pu être assez cr
 @360  = ~Mais venez ! Vous êtes patient, en vérité, de prêter l'oreille aux divagations d'une ombre mélancolique ! Vous devriez vous reposer tant que cela vous est possible, car l'aube ne tardera pas à nous surprendre, et je m'évanouirai dans la brume.~ ~Mais venez ! Vous êtes patiente, en vérité, de prêter l'oreille aux divagations d'une ombre mélancolique ! Vous devriez vous reposer tant que cela vous est possible, car l'aube ne tardera pas à nous surprendre, et je m'évanouirai dans la brume.~
 @361  = ~(soupir) Vous ne savez rien de telles choses. Mais comme je dois endurer ma honte, je ne vous reprocherai rien.~
 @362  = ~Peut-être une autre fois...~
-@363  = ~<PRO_LADYLORD>, mes salutations. Puis-je vous entretenir du Poing d'Amaunator ?~ [BAIDAN12]
+@363  = ~<PRO_LADYLORD>, mes salutations. Puis-je vous entretenir du Poing d'Amaunator ?~ [baidan12]
 @364  = ~C'est pour ça que tu es venu, non ?~
 @365  = ~Oui, je t'en prie.~
 @366  = ~Puisque tu n'es pas prêt à venir à une heure plus agréable, je suppose que tu as plutôt intérêt.~
@@ -485,7 +485,7 @@ J'ai peine à croire qu'Aidan, le paladin déchu d'Amaunator, ait pu être assez cr
 @434  = ~Cela faisait longtemps que je n’avais plus parlé de ce royaume maudit. Il est bon de se souvenir...~
 @435  = ~Mais il se fait tard et vous êtes sans nul doute épuisé.~ ~Mais il se fait tard et vous êtes sans nul doute épuisée.~
 @436  = ~Je dois vous dire au revoir. Guettez le carillon qui marquera ma prochaine visite.~
-@437  = ~Salutations, <PRO_LADYLORD> ! Vous portez-vous bien ?~ [BAIDAN13]
+@437  = ~Salutations, <PRO_LADYLORD> ! Vous portez-vous bien ?~ [baidan13]
 @438  = ~Très bien. Et toi ?~
 @439  = ~Détecterais-je une tentative de faire la conversation ?~
 @440  = ~En quoi est-ce que ça te regarde ?~
@@ -610,7 +610,7 @@ J'ai peine à croire qu'Aidan, le paladin déchu d'Amaunator, ait pu être assez cr
 @559  = ~En effet ! Et jamais plus tôt que lorsque vous vous choisirez une voie vertueuse !~
 @560  = ~Quelle honte, que vous deviez être si désoeuvré.~
 @561  = ~Mais voulez-vous encore parler ?~
-@562  = ~<PRO_LADYLORD>, je viens pour vous saluer.~ [BAIDAN14]
+@562  = ~<PRO_LADYLORD>, je viens pour vous saluer.~ [baidan14]
 @563  = ~Et quel sera le sujet de notre conversation aujourd'hui ?~
 @564  = ~As-tu des nouvelles ?~
 @565  = ~Encore ?~
@@ -680,7 +680,7 @@ J'ai peine à croire qu'Aidan, le paladin déchu d'Amaunator, ait pu être assez cr
 @629  = ~Et peut-être la non-mort m’a-t-elle octroyé la sagesse qui me faisait défaut de mon vivant, à savoir de juger les êtres selon leurs actes, et non leur sang ou les failles de leur personnalité, que mes pouvoirs détectaient. Mon amitié pour vous est intacte.~
 @630  = ~Et pourtant, il se fait tard.~
 @631  = ~Est-ce du soulagement dans votre voix ? Vous ne devriez ressentir nulle inquiétude, en aucun cas. En vie, j’aurais pu vous poursuivre pour purger votre chair mortelle de la vilénie de votre sang, mais de telles passions  me sont étrangères, désormais.~
-@632  = ~Beau soir, <PRO_LADYLORD> !~ [BAIDAN15]
+@632  = ~Beau soir, <PRO_LADYLORD> !~ [baidan15]
 @633  = ~Qu’est-ce qu’il a de beau, au juste ?~
 @634  = ~Tout juste. Le temps est clément, la nuit est douce, et les étoiles sont de sortie.~
 @635  = ~Vraiment ? Je ne suis pas sorti depuis un bout de temps.~ ~Vraiment ? Je ne suis pas sortie depuis un bout de temps.~
@@ -750,7 +750,7 @@ J'ai peine à croire qu'Aidan, le paladin déchu d'Amaunator, ait pu être assez cr
 @699  = ~Je ne sais pas. Mais vous vous lassez de ma compagnie et il se fait tard. Une autre nuit, peut-être.~
 @700  = ~Mon ami, quand s'éteint la dernière des étoiles, quand tombe la dernière longue nuit, nous ressentons tous cette joyeuse espérance, cette attente de l’inconnu. Et c’est mon espoir.~ ~Mon amie, quand s'éteint la dernière des étoiles, quand tombe la dernière longue nuit, nous ressentons tous cette joyeuse espérance, cette attente de l’inconnu. Et c’est mon espoir.~ 
 @701  = ~Mais une fois de plus, la nuit se déroule, et notre temps partagé touche à son terme. Au revoir, <PRO_LADYLORD>.~
-@702  = ~Je vous salue à nouveau, <PRO_LADYLORD>. Me feriez-vous plaisir à nouveau, et partageriez-vous vos pensées avec moi ?~ [BAIDAN16]
+@702  = ~Je vous salue à nouveau, <PRO_LADYLORD>. Me feriez-vous plaisir à nouveau, et partageriez-vous vos pensées avec moi ?~ [baidan16]
 @703  = ~Est-ce que tu ne sais pas déjà tout ce qu’il y a à savoir me concernant ?~
 @704  = ~Ce n’est pas le meilleur moment, Aidan.~
 @705  = ~Par les dieux, ne serai-je jamais débarrassé de toi ?~ ~Par les dieux, ne serai-je jamais débarrassée de toi ?~
@@ -823,7 +823,7 @@ J'ai peine à croire qu'Aidan, le paladin déchu d'Amaunator, ait pu être assez cr
 @772  = ~Alors vous feriez mieux de la découvrir ! Nourrissez-la maintenant, tant qu’il est encore temps !~
 @773  = ~Hélas ! Mais vous ne dites pas qu’il n’y en a point. Nourrissez-la, mon ami, avant que les mauvaises herbes n’étranglent la rose qui pousse, cachée. Arrachez la malice et la méchanceté, et débarrassez vous de tout Mal.~ ~Hélas ! Mais vous ne dites pas qu’il n’y en a point. Nourrissez-la, mon ami, avant que les mauvaises herbes n’étranglent la rose qui pousse, cachée. Arrachez la malice et la méchanceté, et débarrassez vous de tout Mal.~ 
 @774  = ~Adieu. Je vous verrai bientôt.~
-@775  = ~Connaissez-vous l’amitié, <PRO_LADYLORD> ?~ [BAIDAN17]
+@775  = ~Connaissez-vous l’amitié, <PRO_LADYLORD> ?~ [baidan17]
 @776  = ~Je connais la tienne.~
 @777  = ~J’ai assez d’amis.~
 @778  = ~On n’a pas déjà parlé de ça ?~
@@ -864,7 +864,7 @@ J'ai peine à croire qu'Aidan, le paladin déchu d'Amaunator, ait pu être assez cr
 @813  = ~Mais une fois de plus, la mi-nuit s'est enfuie, et je dois m’en aller. Je vous remercie de m’avoir éveillé à nouveau aux émotions que je prenais pour acquises lorsque j’étais vivant, les douces comme les amères.~
 @814  = ~Alors je suis chagriné. Car votre compagnie m’a donné grand réconfort, également. Même la douleur ravivée de ma solitude est bienvenue, après être resté mort à toute émotion pendant des années.~
 @815  = ~Mais vous en avez appelé à ma compassion, laquelle végétait alors avec tout autre sentiment, et je ne vous dérangerai plus jusqu’à ce que votre quête soit accomplie.~
-@816  = ~Je viens à vous bien agité, <PRO_LADYLORD>, car la peur m’oppresse.~ [BAIDAN18]
+@816  = ~Je viens à vous bien agité, <PRO_LADYLORD>, car la peur m’oppresse.~ [baidan18]
 @817  = ~Quoi ? Encore ?~
 @818  = ~Qu’est-ce qui ne va pas ?~
 @819  = ~Puis-je faire quoi que ce soit pour t’aider ?~
@@ -909,7 +909,7 @@ J'ai peine à croire qu'Aidan, le paladin déchu d'Amaunator, ait pu être assez cr
 @858  = ~Non, c’est moi, pas vous.~
 @859  = ~Je vous salue de lamentations gémissantes sur mes lèvres non-mortes et je m’attends à ce que votre coeur fonde devant moi, et la compréhension d’en couler comme son sang vital. Je vous remercie pour votre patience.~
 @860  = ~Il me semble à présent que je dois avoir foi dans le fait qu’il existe quelque chose au-delà du Néant.~
-@861  = ~<PRO_LADYLORD> <CHARNAME>, savez-vous ce que c’est qu’aimer ?~ [BAIDAN19]
+@861  = ~<PRO_LADYLORD> <CHARNAME>, savez-vous ce que c’est qu’aimer ?~ [baidan19]
 @862  = ~Mon aimée marche à mes côtés.~ ~Mon aimé marche à mes côtés.~
 @863  = ~J’ai connu l’amour, oui.~
 @864  = ~La personne que j'aimais est morte.~

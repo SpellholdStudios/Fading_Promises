@@ -1,0 +1,23 @@
+
+@3    = ~Dieser Streitkolben wurde von Dienern des Amaunator erschaffen, um gegen die Mächte der Untoten anzutreten. Er war der alte Sonnengott aus Netheril. Die Verzauberungen diese Relikts erlauben es dem Träger einen Sonnenstrahl zu erschaffen, dessen pure Energie das Verderben für die Untoten darstellt.
+
+EIGENSCHAFTEN:
+
+Sonnenstrahl (1x täglich)
+ Schaden: 3W6, zusätzlich 1W6 pro Stufe des Anwenders gg. Untote
+ Die Opfer werden für 1 Phase geblendet (Rettungswurf gg. Zauber).
+ Untote werden sofort zerstört (Rettungswurf gg. Zauber).
+ Reichweite: 6 m
+ Bereich: 6 m Radius
+
+ETW0-Bonus: -2, -4 gg. böse Wesen
+Schaden:
+ 1W8 +2 (Wucht)
+ 1W8 +4 gg. böse Wesen
+ Doppelt gg. Untote
+Initiativefaktor: 3
+Fertigkeit: Streitkolben
+Typ: 1-händig
+Mindeststärke: 6
+
+Gewicht: 2~

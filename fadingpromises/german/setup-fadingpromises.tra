@@ -1,4 +1,4 @@
-@0    = ~Fading Promises Version 2 - 23Dec2007~
+@0    = ~Fading Promises~
 @1    = ~Faust des Amaunator~
 @2    = ~Der Streitkolben ist eine direkte Ableitung der einfachen Keule und besteht lediglich aus einem Holzschaft, auf den ein Stein- oder Eisenkopf aufgesetzt ist. Der Kopf kann entweder mit Spitzen versehen, geflanscht oder aber auch pyramidenförmig ausgearbeitet sein.~
 @3    = ~Die Faust des Amaunator
@@ -31,4 +31,9 @@ Nicht verwendbar von:
 @4    = ~Aidan~
 @5    = ~Heil, Reisender! Was bringt Euch in dieses düstere Viertel?~ [baidan03]
 @6    = ~Selma~
-@7    = ~Ihr verbringt den Rest der Nacht in ruhiger Gesellschaft, manchmal redet ihr miteinander, manchmal geniesst ihr nur einfach die angenehme, friedliche Stille der Nacht. Es könnte vielleicht nur Eure Einbildung sein, aber die Sterne scheinen heller zu leuchten und schöner zu sein, als Ihr es jemals zuvor gesehen habt. Endlich beginnt die indigofarbene Dunkelheit vom östlichen Himmel sich zu erhellen, erst zu Kobalt, dann zu subtilem Rose und schliesslich zu subtilem Gold des sich näherndenen Sonnenaufganges.~ [BAIDAN22]
+@7    = ~Ihr verbringt den Rest der Nacht in ruhiger Gesellschaft, manchmal redet ihr miteinander, manchmal geniesst ihr nur einfach die angenehme, friedliche Stille der Nacht. Es könnte vielleicht nur Eure Einbildung sein, aber die Sterne scheinen heller zu leuchten und schöner zu sein, als Ihr es jemals zuvor gesehen habt. Endlich beginnt die indigofarbene Dunkelheit vom östlichen Himmel sich zu erhellen, erst zu Kobalt, dann zu subtilem Rose und schliesslich zu subtilem Gold des sich näherndenen Sonnenaufganges.~ [baidan22]
+
+/* journal entries */
+@10000 = ~Ein uralter und ruheloser Geist
+
+Eine Frau erzählte und von einem Geist, der nachts das Friedhofsviertel unsicher macht.~

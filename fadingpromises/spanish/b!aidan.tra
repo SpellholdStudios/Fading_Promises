@@ -1,4 +1,4 @@
-@0    = ~¡Hola viajero! ¿Qué os trae por este distrito tan sombrío?~ [BAIDAN03] ~¡Hola viajera! ¿Qué os trae por este distrito tan sombrío?~ [BAIDAN03]
+@0    = ~¡Hola viajero! ¿Qué os trae por este distrito tan sombrío?~ [baidan03] ~¡Hola viajera! ¿Qué os trae por este distrito tan sombrío?~ [baidan03]
 @1    = ~¿Quién sois vos?~
 @2    = ~¿Qué sois vos?~
 @3    = ~Siempre he encontrado los cementerios relajantes.~
@@ -23,7 +23,7 @@
 @22   = ~De todas formas, no era mi deseo apenarla.~
 @23   = ~Durante tiempo la paz me ha sido negada, me temo, debido a mi propia insensatez.~
 @24   = ~(suspiro) Como deseéis. El tiempo no significa nada para un fantasma, con toda la eternidad por delante. Quizás sea una insensatez morar entre los vivos. Debería buscar la soledad en campo abierto, y no causaros más problemas.~
-@25   = ~Un Antiguo Espíritu sin Descanso -
+@25   = ~Un Antiguo Espíritu sin Descanso
 
 Esta noche me he encontrado con un fantasma en el Distrito del Cementerio. Quería algo de mi, seguro, pero le he dado largas.~
 @26   = ~¿Qué pueden los vivos hacer a los muertos? Efectivamente, un sacerdote de gran poder podría desterrarme con la fuerza de su voluntad, pero esa no es mi opción. Para eso se debería completar mi última tarea, ¡para que me pueda unir a mi dios muerto en la desmemoria del olvido!~
@@ -53,11 +53,11 @@ Esta noche me he encontrado con un fantasma en el Distrito del Cementerio. Querí
 @50   = ~Apenas tengo tiempo de ayudar a los vivos. Y desde luego no tengo tiempo para perder con los muertos.~
 @51   = ~A, bueno, marchad.~
 @52   = ~¡Estoy muy agradecido! Las campanadas anunciarán mi retorno, no fuera que mi súbita aparición os sobrecogiera y os llevara a la tumba del susto.~
-@53   = ~Un Antiguo Espíritu sin Descanso -
+@53   = ~Un Antiguo Espíritu sin Descanso
 
 Conocí a un fantasma algo peculiar en el Distrito del Cementerio. Habló de una misión que le gustaría que emprendiera. Promete que me llamará de nuevo a la medianoche.~
 @54   = ~Hablaré pronto con vos. Si queréis ayudarme, no la rechazaré. Ni insistiré en que los inconvenientes de mi petición sean la preocupación de otro. Las campanas anunciarán mi llegada.~
-@55   = ~¡Buenas nuevas, mi señor! Habéis encontrado el Puño de Amaunator!~ [BAIDAN04] ~¡Buenas nuevas, mi dama! Habéis encontrado el Puño de Amaunator!~ [BAIDAN04]
+@55   = ~¡Buenas nuevas, mi señor! Habéis encontrado el Puño de Amaunator!~ [baidan04] ~¡Buenas nuevas, mi dama! Habéis encontrado el Puño de Amaunator!~ [baidan04]
 @56   = ~No bromeo.~
 @57   = ~¡Dejad que os diga que conseguirlo no fue una victoria fácil!~
 @58   = ~¿Entonces, sirve de algo para vos?~
@@ -77,7 +77,7 @@ Conocí a un fantasma algo peculiar en el Distrito del Cementerio. Habló de una m
 @72   = ~¡No hago esto por vuestro bien! ¡Estoy haciendo esto solo para que me dejéis en paz de una maldita vez!~
 @73   = ~¡Sois un villano infame! ¡Abusar de mi confianza! ¡Por eso nunca os he dicho donde lo podríais encontrar!~
 @74   = ~Si estuviera en mi poder, os condenaba a un tormento eterno, pero como mi poder se ha desvanecido como mi esencia, No puedo hacer nada más que desear que el malestar de los no muertos os encuentren a tiempo.~
-@75   = ~Un Antiguo Espíritu sin Descanso -
+@75   = ~Un Antiguo Espíritu sin Descanso
 
 ¡Este necio fantasma practicamente me lleva al Puño de Amaunator! Qué suerte hubiera tenido de haber conseguido un arma tan poderosa. Aidan no parecía demasiado contento con mi decisión de guardármelo, pero difícilmente pueden molestarme sus vanas amenazas. Vagará en la deriva de la nada como su dios muerto.~
 @76   = ~¿Estáis dispuesto a llevarlo?~
@@ -104,7 +104,7 @@ Conocí a un fantasma algo peculiar en el Distrito del Cementerio. Habló de una m
 @97   = ~Vuestra respuesta me complace. Es bueno haber encontrado vuestra amistad al final de mi camino. Pero la noche se ha puesto, y yo debo partir.~
 @98   = ~Adiós, entonces.~
 @99   = ~¡Adiós, hasta nuestro próximo encuentro!~
-@100  = ~Habéis derrotado un enemigo poderoso. ¿Estáis bien?~ [BAIDAN05]
+@100  = ~Habéis derrotado un enemigo poderoso. ¿Estáis bien?~ [baidan05]
 @101  = ~No fue una batalla fácil.~
 @102  = ~Se ha pagado un alto precio, Aidan. Llevo el cuerpo de mi amada.~
 @103  = ~Otro día más en la vida del aventurero más valiente de Faerun.~ ~Otro día más en la vida de la aventurera más valiente de Faerun.~
@@ -145,20 +145,20 @@ Conocí a un fantasma algo peculiar en el Distrito del Cementerio. Habló de una m
 @138  = ~¡¿Atractivo?! ¡Vuestras perversiones os gobiernan! Pero no debería pensar más en la lujuria que abrigáis.~
 @139  = ~¡Efectivamente! Sin embargo, quizás deberías encontrar la manera de hacer ambas. Pero no debería decir más de eso.~
 @140  = ~Adiós, mi buen compañero, y que vuestros pasos os guíen al templo caído de Amaunator en las Colinas de Umar, donde el Puño de Amaunator debería descansar en los brazos de la estatua por siempre jamás.~ ~Adiós, mi buena compañera, y que vuestros pasos os guíen al templo caído de Amaunator en las Colinas de Umar, donde el Puño de Amaunator debería descansar en los brazos de la estatua por siempre jamás.~
-@141  = ~Un Antiguo Espíritu sin Descanso -
+@141  = ~Un Antiguo Espíritu sin Descanso
 
 Ahora que Bodhi ha sido derrotado y tengo el Puño de Amaunator, Aidan me dice que es el momento de terminar la misión que me entregó hace tanto tiempo. Estoy de viaje al templo caído de Amaunator en las Colinas de Umar para poner la maza en brazos de la estatua.~
 @142  = ~¡Entonces tenéis mi agradecimiento!~
 @143  = ~¡Me atormentáis! Si queréis terminar mi misión, hacedlo, pero no me habléis más de vuestros planes de traición, ¡os lo pido! Me voy.~
-@144  = ~Un Antiguo Espíritu sin Descanso -
+@144  = ~Un Antiguo Espíritu sin Descanso
 
 Me he metido demasiado con Aidan. Después de todo, solo le dije que había decidido guardarme la maza. Eso le sentó bastante mal y se marchó. Probablemente no debería esperar volverle a ver.~
 @145  = ~¡Ay de mí! ¡Estar tan cerca, y caer en vuestra avaricia! Ay, valiente huida, e impotencia con mi rabia.~
 @146  = ~Quizás la maldición de los no muertos os encuentre en algún momento, y quizás vuestra misión resulte tan infructuosa como la mía.~
-@147  = ~Un Antiguo Espíritu sin Descanso -
+@147  = ~Un Antiguo Espíritu sin Descanso
 
 Ahora que Bodhi ha sido derrotado, Aidan me ha pedido que termine su misión y devuelva el Puño de Amaunator al templo en ruinas de las Colinas de Umar. ¡Qué idiota! ¿Cómo puede haber pensado que iría allí? No importa, sus amenazas y maldiciones son tan ineficaces como él.~
-@148  = ~En buena hora vengo a vos, ¡por que habéis cumplido mi misión! Al menos, podré encontrar la paz.~ [BAIDAN06]
+@148  = ~En buena hora vengo a vos, ¡por que habéis cumplido mi misión! Al menos, podré encontrar la paz.~ [baidan06]
 @149  = ~Era lo mínimo que podía hacer.~
 @150  = ~Ya hemos pasado por mucho juntos, ahora difícilmente rechazaría ayudaros.~
 @151  = ~Tengo que confesar que parte de mi está triste al no poder veros nunca más.~
@@ -171,52 +171,52 @@ Ahora que Bodhi ha sido derrotado, Aidan me ha pedido que termine su misión y de
 @158  = ~Vos esto no lo sabéis, pero la luz del sol me destruiría. Aún así, no he visto esta querida mirada durante incontables años. Me gustaría verla una última vez, con vos como compañero, en estos últimos momentos.~ ~Vos esto no lo sabéis, pero la luz del sol me destruiría. Aún así, no he visto esta querida mirada durante incontables años. Me gustaría verla una última vez, con vos como compañera, en estos últimos momentos.~
 @159  = ~(Os quedáis lo que queda de la noche con una compañía tranquila, a veces hablando, a veces solo disfrutando de la comodidad y el silencio amistoso de la noche. Podría ser vuestra imaginación, pero las estrellas son más brillantes y más hermosas de lo que las que habéis visto desde hace tiempo. Al menos, la oscuridad añil de los cielos del este se asoma, primero en color cobalto, y después en un rosa atenuado seguido del dorado color del alba.)~
 @160  = ~Gracias por dejar que descanse en paz, al fin.~
-@161  = ~Un Antiguo Espíritu sin Descanso -
+@161  = ~Un Antiguo Espíritu sin Descanso
 
 He prometido a Aidan, el paladín caído, que terminaría su misión y pondría el Puño de Amaunator en brazos de la estatua en las ruinas del templo. Debo recordar mantener mi palabra.~
-@162  = ~Un Antiguo Espíritu sin Descanso -
+@162  = ~Un Antiguo Espíritu sin Descanso
 
 Hoy el fantasma se me ha aparecido de nuevo, pero no tengo tiempo para su misión. Ya tengo bastantes cosas que hacer, llevando y trayendo de los vivos.~
-@163  = ~Un Antiguo Espíritu sin Descanso -
+@163  = ~Un Antiguo Espíritu sin Descanso
 
 Parece que Aidan, el fantasma que conocí en el Distrito del Cementerio, se permitió una distracción de las dríadas y falló en completar su última tarea, la entrega de una maza sagrada, el Puño de Amaunator, en el templo de Amaunator. He aceptado.~
-@164  = ~Un Antiguo Espíritu sin Descanso -
+@164  = ~Un Antiguo Espíritu sin Descanso
 
 Aidan, el paladín caído fantasma, se me ha aparecido de nuevo. Aunque he aceptado ayudarle, encuentro que ahora no es el momento oportuno para hacer su tarea. He retraído mi oferta de ayudarle. Parecía habérselo tomado bien.~
-@165  = ~Un Antiguo Espíritu sin Descanso -
+@165  = ~Un Antiguo Espíritu sin Descanso
 
 Por fin, más información del ladrón de Aidan. En vida era un mago llamado Alchra Diagott, aunque Aidan sugiere que se ha vuelto un liche. Se le vio por última vez entrando en el reino de la gran oscuridad, pero Aidan no sabe si Diagott todavía está allí. Dijo que mantuviera los ojos bien abiertos.~
-@166  = ~Un Antiguo Espíritu sin Descanso -
+@166  = ~Un Antiguo Espíritu sin Descanso
 
 Fue muy amable por parte de Aidan darme tanta información del Puño de Amaunator, aunque no parecía agradarle que quisiera guardarlo para mi. Ha deseado que la maldición de los no muertos caiga sobre mi, pero sus maldiciones son poco amenazadoras. Al menos nunca le volveré a ver.~
-@167  = ~Un Antiguo Espíritu sin Descanso - 
+@167  = ~Un Antiguo Espíritu sin Descanso
 
 Me encontré con Aidan, el paladín caído fantasma, de nuevo esta noche. Todavía quería que llevara a cabo su misión, y devolviera el Puño de Amaunator a su lugar, en el templo con el mismo nombre, pero me he tenido que negar.~
-@168  = ~Un Antiguo Espíritu sin Descanso -
+@168  = ~Un Antiguo Espíritu sin Descanso
 
 Todavía estoy atado a la misión de recuperar el Puño de Amaunator para Aidan, el paladín caído fantasma, pero lo he desanimado para que no aparezca hasta que la misión esté terminada.~
-@169  = ~Un Antiguo Espíritu sin Descanso -
+@169  = ~Un Antiguo Espíritu sin Descanso
 
 Aidan me habló más del Puño de Amaunator. Es una maza grande y con una pesada cabeza dorada cuyo mástil está envuelto con una cuerda plateada. Dijo algo de unas runas en el mango. Seguro que la reconoceré bastante fácilmente.~
-@170  = ~Un Antiguo Espíritu sin Descanso -
+@170  = ~Un Antiguo Espíritu sin Descanso
 
 El paladín caído Aidan me ha repetido la información que me dio anteriormente sobre que el Puño de Amaunator lo tiene Diagott, y que fue visto por última vez entrando en las 'tierras de las noche eterna.' No tengo deseos de que nos conozcamos mejor, y ha aceptado no visitarme más.~
-@171  = ~Un Antiguo Espíritu sin Descanso -
+@171  = ~Un Antiguo Espíritu sin Descanso
 
 Este molesto fantasma se mostró de nuevo, queriendo hablar, pero le di largas. No tengo deseos de que nos conozcamos mejor, y ha aceptado no visitarme más.~
-@172  = ~Un Antiguo Espíritu sin Descanso -
+@172  = ~Un Antiguo Espíritu sin Descanso
 
 En la conversación de esta noche, Aidan me advirtió que fuera a la estatua del "templo en ruinas de Amaunator, que una vez estuvo por encima las colinas," y ponga la maza en brazos de la estatua. No debería ser difícil encontrarlo.~
-@173  = ~Un Antiguo Espíritu sin Descanso -
+@173  = ~Un Antiguo Espíritu sin Descanso
 
 Cuando le dije a Aidan que le ayudaría a conseguir su maza, debería haberme dado cuenta que utilizaría la oportunidad para pisarme los talones. Esta noche se pasó. Le di largas, y no le di la seguridad que que terminaría su misión.~
-@174  = ~Un Antiguo Espíritu sin Descanso -
+@174  = ~Un Antiguo Espíritu sin Descanso
 
 Este fantasma, el paladín caído de Amaunator, me llamó de nuevo esta noche. Se estaba quejando, como siempre, de su triste destino, y mi paciencia finalmente se ha terminado. No creo que vuelva a ser molestado por él.~
-@175  = ~Un Antiguo Espíritu sin Descanso -
+@175  = ~Un Antiguo Espíritu sin Descanso
 
 Este fantasma, el paladín caído de Amaunator, me llamó de nuevo esta noche. Me volvía a agobiar con sus aires e ideas trágicas de superioridad moral, y finalmente lo he tenido que despedir. No creo que vuelva a ser molestado por él.~
-@176  = ~Un Antiguo Espíritu sin Descanso - 
+@176  = ~Un Antiguo Espíritu sin Descanso
 
 Finalmente Aidan, el que fue una vez paladín de Amaunator, es libre. Le he ayudado a terminar su última misión, y he dejado la maza sagrada, el Puño de Amaunator, en brazos de la estatua en el templo en ruinas de su dios muerto. Con suerte, va a enfrentarse a un destino mejor que su estancia, su larga estancia, aquí.~
 @177  = ~¿Me queréis hacer compañía en esta última vigilia?~
@@ -224,8 +224,8 @@ Finalmente Aidan, el que fue una vez paladín de Amaunator, es libre. Le he ayuda
 @179  = ~Me encantaría, Aidan, pero de verdad que me debo ir.~
 @180  = ~No puedo.~
 @181  = ~Querido señor <CHARNAME>, es la hora.~ [b!blank] ~Querida dama <CHARNAME>, es la hora.~ [b!blank]
-@182  = ~Amigo mío, gracias por darme al final la paz, y hacerme compañía en mi última salida del sol. Que los dioses sean amables con vos, y os protejan, querido amigo. Adiós.~ [BAIDAN20] ~Amiga mía, gracias por darme al final la paz, y hacerme compañía en mi última salida del sol. Que los dioses sean amables con vos, y os protejan, querida amiga. Adiós.~ [BAIDAN20]
-@183  = ~¡Saludos, mi señor <CHARNAME>! Mi última esperanza me ha abandonado, pero habéis terminado mi misión, y al fin me habéis dejado libre!~ [BAIDAN07] ~¡Saludos, mi dama <CHARNAME>! Mi última esperanza me ha abandonado, pero habéis terminado mi misión, y al fin me habéis dejado libre!~ [BAIDAN07]
+@182  = ~Amigo mío, gracias por darme al final la paz, y hacerme compañía en mi última salida del sol. Que los dioses sean amables con vos, y os protejan, querido amigo. Adiós.~ [baidan20] ~Amiga mía, gracias por darme al final la paz, y hacerme compañía en mi última salida del sol. Que los dioses sean amables con vos, y os protejan, querida amiga. Adiós.~ [baidan20]
+@183  = ~¡Saludos, mi señor <CHARNAME>! Mi última esperanza me ha abandonado, pero habéis terminado mi misión, y al fin me habéis dejado libre!~ [baidan07] ~¡Saludos, mi dama <CHARNAME>! Mi última esperanza me ha abandonado, pero habéis terminado mi misión, y al fin me habéis dejado libre!~ [baidan07]
 @184  = ~Eso no nos hace amigos ni nada parecido.~
 @185  = ~Parecía una buena idea en su momento.~
 @186  = ~Después de mucho buscar, he decidido que era lo más adecuado que se podía hacer.~
@@ -233,10 +233,10 @@ Finalmente Aidan, el que fue una vez paladín de Amaunator, es libre. Le he ayuda
 @188  = ~Me alegra que vuestro impulso natural haya tenido un resultado feliz. Y mi gratitud no tiene límites.~
 @189  = ~Os agradezco vuestra generosidad, y vuestra amabilidad. Me temo que he perdido a un buen amigo, pero si las bendiciones de un fantasmas no significan nada para vos, llevad las mías a su propio fin.~ ~Os agradezco vuestra generosidad, y vuestra amabilidad. Me temo que he perdido a una buena amiga, pero si las bendiciones de un fantasmas no significan nada para vos, llevad las mías a su propio fin.~
 @190  = ~Que los dioses os bendigan, y os protejan. Adiós.~
-@191  = ~Un Antiguo Espíritu sin Descanso - 
+@191  = ~Un Antiguo Espíritu sin Descanso
 
 Finalmente Aidan, el que fue una vez paladín de Amaunator es libre. A pesar de mi afirmaciones anteriores de que no haría tal cosa, le he ayudado a terminar su última misión, y he dejado la maza sagrada, el Puño de Amaunator, en los brazos de la estatua del templo en ruinas de su dios muerto. Con suerte, va a enfrentarse a un destino mejor que su estancia, su larga estancia, aquí.~
-@192  = ~¡Saludos, mi señor! No me conocéis, pero me habéis hecho un gran servicio, y me gustaría que nos conociéramos antes de que parta.~ [BAIDAN08] ~¡Saludos, mi dama! No me conocéis, pero me habéis hecho un gran servicio, y me gustaría que nos conociéramos antes de que parta.~ [BAIDAN08]
+@192  = ~¡Saludos, mi señor! No me conocéis, pero me habéis hecho un gran servicio, y me gustaría que nos conociéramos antes de que parta.~ [baidan08] ~¡Saludos, mi dama! No me conocéis, pero me habéis hecho un gran servicio, y me gustaría que nos conociéramos antes de que parta.~ [baidan08]
 @193  = ~Parece como si hubierais hecho lo adecuado en su debido momento.~
 @194  = ~¡Imaginad eso!~
 @195  = ~¿Qué he hecho?~
@@ -254,21 +254,21 @@ Finalmente Aidan, el que fue una vez paladín de Amaunator es libre. A pesar de m
 @207  = ~Este texto debía ser viejo y estar desmenuzado, para contener información de una reliquia tan antigua. Aunque agradezco la providencia que haya dirigido vuestras acciones.~
 @208  = ~Entonces agradezco el destino que ha guiado vuestra mano, ya que vuestra negligencia me ha liberado.~
 @209  = ~Os doy las gracias por mi liberación, y os deseo salud y felicidad hasta el final de vuestros días.~
-@210  = ~Un Antiguo Espíritu sin Descanso - 
+@210  = ~Un Antiguo Espíritu sin Descanso
 
 Mi intuición ha valido la pena. He ayudado a Aidan, un paladín de Amaunator, a terminar su última misión, y he devuelto la maza sagrada, el Puño de Amaunator, en los brazos de la estatua del templo en ruinas de su dios muerto. Me reiré pensando en su sorpresa durante bastante tiempo.~
-@211  = ~Mi señor <CHARNAME>, ¿incluso ahora me traicionáis? Habéis estado en el templo, aunque todavía tenéis la maza.~ [BAIDAN09] ~Mi dama <CHARNAME>, ¿incluso ahora me traicionáis? Habéis estado en el templo, aunque todavía tenéis la maza.~ [BAIDAN09]
+@211  = ~Mi señor <CHARNAME>, ¿incluso ahora me traicionáis? Habéis estado en el templo, aunque todavía tenéis la maza.~ [baidan09] ~Mi dama <CHARNAME>, ¿incluso ahora me traicionáis? Habéis estado en el templo, aunque todavía tenéis la maza.~ [baidan09]
 @212  = ~Ese era el plan, si.~
 @213  = ~¿Primero puedo descansar?~
 @214  = ~No, planeo devolverla, pero hay algo que necesito hacer con ella primero.~
 @215  = ~Lo siento, Aidan, ¡Lo olvidé! Ahora regresaré y la pondré allí.~
 @216  = ~¡Sois un desgraciado! ¡Que la maldición de todos los dioses os encuentre!~ ~¡Sois una desgraciada! ¡Que la maldición de todos los dioses os encuentre!~
-@217  = ~Un Antiguo Espíritu sin Descanso -
+@217  = ~Un Antiguo Espíritu sin Descanso
 
 Me cuesta creer que Aidan, el paladín caído de Amaunator, haya sido tan ingenuo para creer que haría su misión tan estúpida. Me he quedado con la maza, y he dado largas a Aidan. No parece estar agradecido.~
 @218  = ~Entonces tendré un poco más de paciencia.~
 @219  = ~Por supuesto. Tendré paciencia un poco más.~
-@220  = ~Saludos, señor <CHARNAME>. ¿Puedo hablar de mi historia con vos?~ [BAIDAN10] ~Saludos, dama <CHARNAME>. ¿Puedo hablar de mi historia con vos?~ [BAIDAN10]
+@220  = ~Saludos, señor <CHARNAME>. ¿Puedo hablar de mi historia con vos?~ [baidan10] ~Saludos, dama <CHARNAME>. ¿Puedo hablar de mi historia con vos?~ [baidan10]
 @221  = ~No, he cambiado de opinión. Todo el mundo quiere que resuelva sus problemas y ya estoy cansado de ello.~ ~No, he cambiado de opinión. Todo el mundo quiere que resuelva sus problemas y ya estoy cansada de ello.~
 @222  = ~Este no es el mejor momento para hablar.~
 @223  = ~Empezaba a creer que no os mostraríais nunca. ¿Qué puedo hacer por vos?~
@@ -339,7 +339,7 @@ Me cuesta creer que Aidan, el paladín caído de Amaunator, haya sido tan ingenuo 
 @288  = ~Si, mi señor, y bien lo sabéis, ya que creo que todas las cosas que me dan pena, no son nada que me haya ganado, excepto la primera. Delante mío es la eternidad lo que lamento, y el miedo que me ha mantenido dormido durante todos estos años.~ ~Si, mi dama, y bien lo sabéis, ya que creo que todas las cosas que me dan pena, no son nada que me haya ganado, excepto la primera. Delante mío es la eternidad lo que lamento, y el miedo que me ha mantenido dormido durante todos estos años.~
 @289  = ~¿Queréis saber algo más?~
 @290  = ~No, eso es todo.~
-@291  = ~Hola a vos, mi señor. ¿Puedo contaros algo más del Puño de Amaunator?~ [BAIDAN11] ~Hola a vos, mi dama. ¿Puedo contaros algo más del Puño de Amaunator?~ [BAIDAN11]
+@291  = ~Hola a vos, mi señor. ¿Puedo contaros algo más del Puño de Amaunator?~ [baidan11] ~Hola a vos, mi dama. ¿Puedo contaros algo más del Puño de Amaunator?~ [baidan11]
 @292  = ~¡Me habéis asustado!~
 @293  = ~Si, contadme.~
 @294  = ~¿No podríais llamar en otro momento más conveniente?~
@@ -411,7 +411,7 @@ Me cuesta creer que Aidan, el paladín caído de Amaunator, haya sido tan ingenuo 
 @360  = ~¡Pero venid! ¡Sois lo bastante paciente para escuchar las divagaciones de una sombra melancólica! Deberíais descansar mientras podáis, sino amanecerá, y me desvaneceré en la niebla.~
 @361  = ~(suspiro) Vos no sabéis nada de tales cosas. Y mientras tenga que soportar mi deshonra, no os reprenderé.~
 @362  = ~Quizás en otro momento...~
-@363  = ~Mi señor, saludos. ¿Os puedo hablar del Puño de Amaunator?~ [BAIDAN12] ~Mi dama, saludos. ¿Os puedo hablar del Puño de Amaunator?~ [BAIDAN12]
+@363  = ~Mi señor, saludos. ¿Os puedo hablar del Puño de Amaunator?~ [baidan12] ~Mi dama, saludos. ¿Os puedo hablar del Puño de Amaunator?~ [baidan12]
 @364  = ~¿Eso es por lo que habéis venido, verdad?~
 @365  = ~Si, por favor, hacedlo.~
 @366  = ~Desde que no aceptasteis venir en una hora más acogedora, supuse que deberíais.~
@@ -485,7 +485,7 @@ Me cuesta creer que Aidan, el paladín caído de Amaunator, haya sido tan ingenuo 
 @434  = ~Ha pasado tiempo desde que hablé de ese reino condenado. Es bueno recordar...~
 @435  = ~Pero se hace tarde, y no dudo que estéis cansado.~ ~Pero se hace tarde, y no dudo que estéis cansada.~
 @436  = ~Debo deciros adiós. Escuchad las campanas que indican mi próxima venida.~
-@437  = ~¡Saludos, mi señor! ¿Estáis bien?~ [BAIDAN13] ~¡Saludos, mi dama! ¿Estáis bien?~ [BAIDAN13]
+@437  = ~¡Saludos, mi señor! ¿Estáis bien?~ [baidan13] ~¡Saludos, mi dama! ¿Estáis bien?~ [baidan13]
 @438  = ~Lo estoy. ¿Y vos?~
 @439  = ~¿Detecto una tentativa para una conversación educada?~
 @440  = ~¿Qué asuntos os traéis?~
@@ -610,7 +610,7 @@ Me cuesta creer que Aidan, el paladín caído de Amaunator, haya sido tan ingenuo 
 @559  = ~¡En confianza! Y nunca antes de decidiros por la dirección adecuada.~
 @560  = ~Por deshonra es por lo que debéis ir sin rumbo.~
 @561  = ~Pero venid, ¿todavía querríais hablar?~
-@562  = ~Mi señor, he venido a daros mis saludos.~ [BAIDAN14] ~Mi dama, he venido a daros mis saludos.~ [BAIDAN14]
+@562  = ~Mi señor, he venido a daros mis saludos.~ [baidan14] ~Mi dama, he venido a daros mis saludos.~ [baidan14]
 @563  = ~Y cuál será hoy el tópico de nuestra conversación?~
 @564  = ~¿Tenéis noticias?~
 @565  = ~¿Otra vez?~
@@ -680,7 +680,7 @@ Me cuesta creer que Aidan, el paladín caído de Amaunator, haya sido tan ingenuo 
 @629  = ~Y quizás la no muerte me haya dado la sabiduría que no tuve en vida para juzgar vuestros actos, más que por la sangre de las inclinaciones de mi carácter que mis poderes detectaron. Mi amistad con vos es imbatible.~
 @630  = ~Incluso ahora, se hace tarde.~
 @631  = ~¿Es eso de vuestra voz un alivio? No deberíais tener motivos de desconcierto en ningún caso. En vida, os podría haber perseguido para purgar la sangre malvada de vuestra carne mortal, pero tales pasiones ya no son posibles.~
-@632  = ~¡Buenas tardes, mi señor!~ [BAIDAN15] ~¡Buenas tardes, mi dama!~ [BAIDAN15]
+@632  = ~¡Buenas tardes, mi señor!~ [baidan15] ~¡Buenas tardes, mi dama!~ [baidan15]
 @633  = ~¿Qué hay de bueno en ello?~
 @634  = ~Lo es. El clima está bien, la noche es suave y la estrellas se han apagado.~
 @635  = ~¿Lo es? No he estado desde hace rato.~
@@ -750,7 +750,7 @@ Me cuesta creer que Aidan, el paladín caído de Amaunator, haya sido tan ingenuo 
 @699  = ~Difícilmente lo se. Pero debéis haberos cansado de mi compañía, y se hace tarde. Alguna otra noche.~
 @700  = ~Mi amigo, cuando la última de las estrellas se ponga, y la última noche caiga, todos entraremos en una expectación de alegría, que anticipa lo desconocido. Y esa es mi esperanza.~ ~Mi amiga, cuando la última de las estrellas se ponga, y la última noche caiga, todos entraremos en una expectación de alegría, que anticipa lo desconocido. Y esa es mi esperanza.~
 @701  = ~Pero una vez más, se hace tarde, y nuestro tiempo juntos ha acabado. Adiós, mi señor.~ ~Pero una vez más, se hace tarde, y nuestro tiempo juntos ha acabado. Adiós, mi dama.~
-@702  = ~Os saludo de nuevo, mi señor. ¿Me satisfacéis una vez más, y me decís lo que os viene a vuestra mente?~ [BAIDAN16] ~Os saludo de nuevo, mi dama. ¿Me satisfacéis una vez más, y me decís lo que os viene a vuestra mente?~ [BAIDAN16]
+@702  = ~Os saludo de nuevo, mi señor. ¿Me satisfacéis una vez más, y me decís lo que os viene a vuestra mente?~ [baidan16] ~Os saludo de nuevo, mi dama. ¿Me satisfacéis una vez más, y me decís lo que os viene a vuestra mente?~ [baidan16]
 @703  = ~¿Aún no sabéis todo lo que hay que saber de mi?~
 @704  = ~Este no es el mejor momento, Aidan.~
 @705  = ~Por dios, ¿nunca me libraré de vos?~
@@ -823,7 +823,7 @@ Me cuesta creer que Aidan, el paladín caído de Amaunator, haya sido tan ingenuo 
 @772  = ~¡Entonces haríais bien en descubrirlo! ¡Nutriéndolo ahora, mientras haya tiempo!~
 @773  = ~¡Ay de mi! Pero no dijisteis que no lo hubiera. Nutridlo, mi amigo, a menos que las hierbas ahoguen a la rosa que está oculta. Arrancad la maldad y la mezquindad, y sacad todo el mal.~ ~¡Ay de mi! Pero no dijisteis que no lo hubiera. Nutridlo, mi amiga, a menos que las hierbas ahoguen a la rosa que está oculta. Arrancad la maldad y la mezquindad, y sacad todo el mal.~
 @774  = ~Adiós. Os debería ver pronto.~
-@775  = ~¿Conociendo vuestra amistad, mi señor?~ [BAIDAN17] ~¿Conociendo vuestra amistad, mi dama?~ [BAIDAN17]
+@775  = ~¿Conociendo vuestra amistad, mi señor?~ [baidan17] ~¿Conociendo vuestra amistad, mi dama?~ [baidan17]
 @776  = ~Conozco la vuestra.~
 @777  = ~Ya tengo bastantes amigos.~
 @778  = ~¿No hemos pasado por esto?~
@@ -864,7 +864,7 @@ Me cuesta creer que Aidan, el paladín caído de Amaunator, haya sido tan ingenuo 
 @813  = ~Pero una vez más, la hora de la media noche ha llegado, y debo partir. Os agradezco que me hayáis despertado una vez más las emociones que me concedieron en vida, tanto las dulces como las amargas.~
 @814  = ~Entonces estoy apenado. Ya que vuestra compañía me ha dado consuelo, también. Incluso el dolor reavivado de mi soledad es bienvenido, después de tantos años de tener muertas cada una de las emociones.~
 @815  = ~Pero habéis suplicado la compasión que dormía con cada uno de vuestros sentimientos, y ya no os molestaré más hasta que la tarea esté terminada.~
-@816  = ~Vengo a vos en una hora de impaciencia, mi señor, ya que el temor me oprime.~ [BAIDAN18] ~Vengo a vos en una hora de impaciencia, mi dama, ya que el temor me oprime.~ [BAIDAN18]
+@816  = ~Vengo a vos en una hora de impaciencia, mi señor, ya que el temor me oprime.~ [baidan18] ~Vengo a vos en una hora de impaciencia, mi dama, ya que el temor me oprime.~ [baidan18]
 @817  = ~¿Qué? ¿Otra vez?~
 @818  = ~¿Qué va mal?~
 @819  = ~¿Hay algo que pueda hacer para ayudar?~
@@ -909,7 +909,7 @@ Me cuesta creer que Aidan, el paladín caído de Amaunator, haya sido tan ingenuo 
 @858  = ~No, soy yo, no vos.~
 @859  = ~Os recibo con llorosas lamentaciones de mis labios no muertos, y espero que vuestro corazón se derrita antes que yo, y que el entendimiento fluya como la sangre vital. Os doy las gracias por vuestra abstención.~
 @860  = ~Ahora me temo que debo tener fe en lo que hay más allá del Vacío.~
-@861  = ~Señor <CHARNAME>, ¿sabéis lo que es amar?~ [BAIDAN19] ~Dama <CHARNAME>, ¿sabéis lo que es amar?~ [BAIDAN19]
+@861  = ~Señor <CHARNAME>, ¿sabéis lo que es amar?~ [baidan19] ~Dama <CHARNAME>, ¿sabéis lo que es amar?~ [baidan19]
 @862  = ~Mi amante está junto a mi.~
 @863  = ~He conocido el amor, si.~
 @864  = ~Mi amada está muerta.~ ~Mi amado está muerta.~
