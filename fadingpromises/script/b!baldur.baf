@@ -19,7 +19,8 @@ END
 
 IF
   GlobalTimerExpired("B!AidanTime","GLOBAL")
-  Time(MIDNIGHT)
+//  Time(MIDNIGHT)
+  TimeOfDay(NIGHT)
   Global("B!AidanHasMace","GLOBAL",1)
   GlobalGT("B!AidanFriend","GLOBAL",0)
   !Global("B!AidanFriend","GLOBAL",3)
@@ -28,7 +29,7 @@ IF
 THEN
   RESPONSE #100
     SetGlobal("B!AidanHasMace","GLOBAL",2)
-    PlaySound("BAIDAN01")
+    PlaySound("baidan01")
     CreateCreatureObjectOffset("B!Aidan",Player1,[50.50])
 END
 
@@ -45,7 +46,8 @@ END
 
 IF
   GlobalTimerExpired("B!AidanTime","GLOBAL")
-  Time(MIDNIGHT)
+//  Time(MIDNIGHT)
+  TimeOfDay(NIGHT)
   Global("B!AidanBodhi","GLOBAL",1)
   GlobalGT("B!AidanFriend","GLOBAL",0)
   !Global("B!AidanFriend","GLOBAL",3)
@@ -54,14 +56,15 @@ IF
 THEN
   RESPONSE #100
     SetGlobal("B!AidanBodhi","GLOBAL",2)
-    PlaySound("BAIDAN01")
+    PlaySound("baidan01")
     CreateCreatureObjectOffset("B!Aidan",Player1,[50.50])
 END
 
 /* The PC has completed Aidan's quest */ 
 IF
   GlobalTimerExpired("B!AidanTime","GLOBAL")
-  Time(MIDNIGHT)
+//  Time(MIDNIGHT)
+  TimeOfDay(NIGHT)
   Global("B!AidanDone","GLOBAL",1)
   GlobalGT("B!AidanFriend","GLOBAL",0)
   !Global("B!AidanFriend","GLOBAL",3)
@@ -72,13 +75,14 @@ THEN
     SetGlobal("B!AidanDelayTalk","GLOBAL",1)
     SetGlobal("B!AidanDone","GLOBAL",2)
     SetGlobal("B!AidanThanks","GLOBAL",1)
-    PlaySound("BAIDAN01")
+    PlaySound("baidan01")
     CreateCreatureObjectOffset("B!Aidan",Player1,[50.50])
 END
 
 IF
   GlobalTimerExpired("B!AidanTime","GLOBAL")
-  Time(MIDNIGHT)
+//  Time(MIDNIGHT)
+  TimeOfDay(NIGHT)
   Global("B!AidanDone","GLOBAL",1)
   Global("B!AidanFriend","GLOBAL",0)
   !StateCheck(Player1,CD_STATE_NOTVALID)
@@ -88,13 +92,14 @@ THEN
     SetGlobal("B!AidanDelayTalk","GLOBAL",1)
     SetGlobal("B!AidanDone","GLOBAL",2)
     SetGlobal("B!AidanCheated","GLOBAL",1)
-    PlaySound("BAIDAN01")
+    PlaySound("baidan01")
     CreateCreatureObjectOffset("B!Aidan",Player1,[50.50])
 END
 
 IF
   GlobalTimerExpired("B!AidanTime","GLOBAL")
-  Time(MIDNIGHT)
+//  Time(MIDNIGHT)
+  TimeOfDay(NIGHT)
   Global("B!AidanDone","GLOBAL",1)
   Global("B!AidanFriend","GLOBAL",3)
   !StateCheck(Player1,CD_STATE_NOTVALID)
@@ -104,7 +109,7 @@ THEN
     SetGlobal("B!AidanDelayTalk","GLOBAL",1)
     SetGlobal("B!AidanDone","GLOBAL",2)
     SetGlobal("B!AidanReconsider","GLOBAL",1)
-    PlaySound("BAIDAN01")
+    PlaySound("baidan01")
     CreateCreatureObjectOffset("B!Aidan",Player1,[50.50])
 END
 
@@ -121,24 +126,42 @@ THEN
     SetGlobal("B!AidanBetrayed","GLOBAL",1)
 END
 
+/* reset the timer if Player is in Underdark */
 IF
   GlobalTimerExpired("B!AidanTime","GLOBAL")
-  Time(MIDNIGHT)
   Global("B!AidanBetrayed","GLOBAL",1)  
+  GlobalGT("Chapter","GLOBAL",%bg2_chapter_5%)
+  AreaCheck("AR2500") //Underdark Exit
+  GlobalGT("B!AidanFriend","GLOBAL",0)
+  Global("B!AidanBetrayedTimerReset","AR2500",0)  
+THEN
+  RESPONSE #100
+    SetGlobal("B!AidanBetrayedTimerReset","AR2500",1)
+    SetGlobalTimer("B!AidanTime","GLOBAL",THREE_DAYS)
+END
+
+IF
+  GlobalTimerExpired("B!AidanTime","GLOBAL")
+//  Time(MIDNIGHT)
+  TimeOfDay(NIGHT)
+  Global("B!AidanBetrayed","GLOBAL",1)  
+  !Global("Chapter","GLOBAL",%bg2_chapter_4%)
+  !Global("Chapter","GLOBAL",%bg2_chapter_5%)
   GlobalGT("B!AidanFriend","GLOBAL",0)
   !StateCheck(Player1,CD_STATE_NOTVALID)
   CombatCounter(0)
 THEN
   RESPONSE #100
     SetGlobal("B!AidanBetrayed","GLOBAL",2)
-    PlaySound("BAIDAN01")
+    PlaySound("baidan01")
     CreateCreatureObjectOffset("B!Aidan",Player1,[50.50])
 END
 
 /* Friendship talks */
 IF
   GlobalTimerExpired("B!AidanTime","GLOBAL")
-  Time(MIDNIGHT)
+//  Time(MIDNIGHT)
+  TimeOfDay(NIGHT)
   Global("B!AidanBaldurBCSCheck","GLOBAL",0)
   !GlobalGT("B!AidanDone","GLOBAL",0)
   GlobalGT("B!AidanFriend","GLOBAL",0)
@@ -161,7 +184,7 @@ IF
 THEN
   RESPONSE #100
     IncrementGlobal("B!AidanTalk","GLOBAL",1)
-    PlaySound("BAIDAN01")
+    PlaySound("baidan01")
     SetGlobal("B!AidanBaldurBCSCheck","GLOBAL",1)
     CreateCreatureObjectOffset("B!Aidan",Player1,[50.50])
 END

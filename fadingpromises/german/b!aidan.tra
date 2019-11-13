@@ -1,4 +1,4 @@
-@0    = ~Heil, Reisender! Was bringt Euch in dieses düstere Viertel?~ [BAIDAN03] ~Heil, Reisende! Was bringt Euch in dieses düstere Viertel?~ [BAIDAN03]
+@0    = ~Heil, Reisender! Was bringt Euch in dieses düstere Viertel?~ [baidan03] ~Heil, Reisende! Was bringt Euch in dieses düstere Viertel?~ [baidan03]
 @1    = ~Wer seid Ihr?~
 @2    = ~Was seid Ihr?~
 @3    = ~Ich habe Friedhöfe immer schon bevorzugt!~
@@ -57,7 +57,7 @@ Heute Nacht traf ich einen Geist im Friedhofsviertel. Ich bin sicher, er wollte 
 
 Ich traf einen seltsamen Geist im Friedhofsviertel. Er sprach von einer Aufgabe, die ich für ihn erledigen sollte. Er versprach mir, sich um Mitternacht wieder zu zeigen.~
 @54   = ~Ich werde bald mit Euch sprechen. Wenn Ihr mir helfen würdet, lehne ich keine Hilfe ab. Doch ich bestehe nicht darauf, falls andere Sorgen meine Bitte ungelegen machen sollten. Ein Läuten von Glöckchen wird meine Ankunft ankündigen.~
-@55   = ~Frohe Kunde, mein <PRO_LADYLORD>! Ihr habt die Faust des Amaunator gefunden!~ [BAIDAN04]
+@55   = ~Frohe Kunde, mein <PRO_LADYLORD>! Ihr habt die Faust des Amaunator gefunden!~ [baidan04]
 @56   = ~Im Ernst?~
 @57   = ~Sie zu bekommen, war keine leichte Aufgabe, das kann ich Euch sagen!~
 @58   = ~Und, was ist sie Euch wert?~
@@ -104,7 +104,7 @@ Dieser Narr von einem Geist führte mich zu der Faust des Amaunator! Wie erfreuli
 @97   = ~Die Antwort berührt mich. Es ist sehr schön, am Ende meiner Wanderungen Eure Freundschaft erlangt zu haben. Aber die Nacht neigt sich ihrem Ende zu und ich muss gehen.~
 @98   = ~Dann lebt wohl.~
 @99   = ~Lebt wohl, bis zu unserem nächsten Treffen!~
-@100  = ~Ihr habt einen starken Feind besiegt. Seid Ihr so stark?~ [BAIDAN05]
+@100  = ~Ihr habt einen starken Feind besiegt. Seid Ihr so stark?~ [baidan05]
 @101  = ~Das war kein einfacher Kampf.~
 @102  = ~Der Preis war ziemlich hoch, Aidan. Ich habe den Körper meiner Geliebten bei mir.~ ~Der Preis war ziemlich hoch, Aidan. Ich habe den Körper meines Geliebten bei mir.~
 @103  = ~Nur ein weiterer Tag im Leben des kühnsten Abenteurers von Faerûn.~
@@ -158,7 +158,7 @@ Ich habe es mit Aidan wahrscheinlich zu weit getrieben. Ich sagte ihm, dass ich 
 @147  = ~Ein uralter und ruheloser Geist
 
 Jetzt, da Bodhi besiegt wurde, bat mich Aidan seine Aufgabe zu vollenden und die Faust des Amaunator zu dem verfallenen Tempel in den Umar Hügeln zu bringen. Dieser Idiot! Hat er wirklich gedacht, dass ich das tun würde? Egal, seine Drohungen und Verwünschungen sind so machtlos wie er selbst.~
-@148  = ~In einer frohen Stunde komme ich zu Euch, denn Ihr habt meine Aufgabe erledigt! Endlich kann ich meine Ruhe finden.~ [BAIDAN06]
+@148  = ~In einer frohen Stunde komme ich zu Euch, denn Ihr habt meine Aufgabe erledigt! Endlich kann ich meine Ruhe finden.~ [baidan06]
 @149  = ~Das war das mindeste, was ich tun konnte.~
 @150  = ~Wir haben so viel miteinander durchgemacht, deswegen kann ich es kaum ablehnen, Euch jetzt zu helfen.~
 @151  = ~Ich muss zugeben, dass ein Teil von mir gar nicht glücklich ist, Euch nicht mehr zu sehen.~
@@ -224,8 +224,8 @@ Endlich ist Aidan, der einstige Paladin des Amaunator frei. Ich habe ihm geholfe
 @179  = ~Das würde ich gerne, Aidan, aber ich muss jetzt wirklich gehen.~
 @180  = ~Ich kann nicht.~
 @181  = ~Bester <PRO_LADYLORD> <CHARNAME>, es ist an der Zeit.~ [b!blank]
-@182  = ~Mein Freund, ich danke Euch, dass Ihr mir endlich meinen Frieden gebracht habt und mit mir den letzten Sonnenaufgang ansehen wollt. Mögen die Götter Euch freundlich gesonnen sein und gehabt Euch wohl, mein bester Freund. Lebt wohl.~ [BAIDAN20] ~Meine Freundin, ich danke Euch, dass Ihr mir endlich meinen Frieden gebracht habt und mit mir den letzten Sonnenaufgang ansehen wollt. Mögen die Götter Euch freundlich gesonnen sein und gehabt Euch wohl, meine beste Freundin. Lebt wohl.~ [BAIDAN20]
-@183  = ~Ich grüsse Euch, <PRO_LADYLORD> <CHARNAME>! Meine letzte Hoffnung hatte mich verlassen, aber Ihr habt meine Aufgabe erfüllt und mich endlich erlöst!~ [BAIDAN07]
+@182  = ~Mein Freund, ich danke Euch, dass Ihr mir endlich meinen Frieden gebracht habt und mit mir den letzten Sonnenaufgang ansehen wollt. Mögen die Götter Euch freundlich gesonnen sein und gehabt Euch wohl, mein bester Freund. Lebt wohl.~ [baidan20] ~Meine Freundin, ich danke Euch, dass Ihr mir endlich meinen Frieden gebracht habt und mit mir den letzten Sonnenaufgang ansehen wollt. Mögen die Götter Euch freundlich gesonnen sein und gehabt Euch wohl, meine beste Freundin. Lebt wohl.~ [baidan20]
+@183  = ~Ich grüsse Euch, <PRO_LADYLORD> <CHARNAME>! Meine letzte Hoffnung hatte mich verlassen, aber Ihr habt meine Aufgabe erfüllt und mich endlich erlöst!~ [baidan07]
 @184  = ~Das macht uns nicht zu Freunden oder ähnlichem.~
 @185  = ~Zu diesem Zeitpunkt schien es mir eine gute Idee zu sein.~
 @186  = ~Nach langem Nachdenken entschied ich mich dafür, dass es das Richtige war.~
@@ -236,7 +236,7 @@ Endlich ist Aidan, der einstige Paladin des Amaunator frei. Ich habe ihm geholfe
 @191  = ~Ein uralter und ruheloser Geist
 
 Endlich ist Aidan, der einstige Paladin des Amaunator erlöst. Entgegen meiner früheren Neigung diese Aufgabe nicht zu erledigen, habe ich ihm geholfen seine letzte Aufgabe zu erfüllen und den heiligen Streitkolben, die Faust des Amaunator, in die Arme der Statue im verfallenen Tempel seines toten Gottes gelegt. Mit ein wenig Glück wird sein trauriges Schicksal bald zu Ende sein.~
-@192  = ~Ich grüsse Euch, <PRO_LADYLORD>! Ihr kennt mich nicht, aber Ihr habt mir einen grossen Gefallen erwiesen, und ich möchte Euch hier dafür danken, bevor ich diese Welt verlasse.~ [BAIDAN08]
+@192  = ~Ich grüsse Euch, <PRO_LADYLORD>! Ihr kennt mich nicht, aber Ihr habt mir einen grossen Gefallen erwiesen, und ich möchte Euch hier dafür danken, bevor ich diese Welt verlasse.~ [baidan08]
 @193  = ~Es schien mir das Richtige zu diesem Zeitpunkt zu sein.~
 @194  = ~Stellt Euch das einmal vor!~
 @195  = ~Was habe ich getan?~
@@ -257,7 +257,7 @@ Endlich ist Aidan, der einstige Paladin des Amaunator erlöst. Entgegen meiner fr
 @210  = ~Ein uralter und ruheloser Geist
 
 Meine Intuition hat sich bezahlt gemacht. Ich habe Aidan, dem einstigen Paladin des Amaunator dabei geholfen, seine letzte Aufgabe zu erfüllen und habe den heiligen Streitkolben, die Faust des Amaunator, in die Arme der Statue in dem verfallenen Tempel seines toten Gottes gelegt. Über seine Überraschung werde ich noch einige Zeit schmunzeln.~
-@211  = ~Mein <PRO_LADYLORD> <CHARNAME>, wollt ihr mich selbst jetzt noch betrügen? Ihr wart in dem Tempel, habt aber immer noch den Streitkolben.~ [BAIDAN09]
+@211  = ~Mein <PRO_LADYLORD> <CHARNAME>, wollt ihr mich selbst jetzt noch betrügen? Ihr wart in dem Tempel, habt aber immer noch den Streitkolben.~ [baidan09]
 @212  = ~Ja, das war der Plan.~
 @213  = ~Kann ich zuerst rasten?~
 @214  = ~Nein, ich plane zurückzukehren, aber ich muss damit zuerst etwas erledigen.~
@@ -268,7 +268,7 @@ Meine Intuition hat sich bezahlt gemacht. Ich habe Aidan, dem einstigen Paladin 
 Ich kann selbst kaum glauben, dass Aidan wirklich geglaubt haben könnte, dass ich seine idiotische Aufgabe für ihn erledige. Ich habe den Streitkolben für mich selbst behalten und Aidan weggeschickt. Er schien nicht sehr erfreut gewesen zu sein.~
 @218  = ~Dann werde ich noch ein wenig länger geduldig sein.~
 @219  = ~Natürlich. Ich werde noch etwas länger geduldig sein.~
-@220  = ~Ich grüsse Euch, <PRO_LADYLORD> <CHARNAME>. Kann ich mit Euch über mein Anliegen sprechen?~ [BAIDAN10]
+@220  = ~Ich grüsse Euch, <PRO_LADYLORD> <CHARNAME>. Kann ich mit Euch über mein Anliegen sprechen?~ [baidan10]
 @221  = ~Nein, ich habe es mir anders überlegt. Jeder will von mir, dass ich Probleme löse und das geht mir langsam auf die Nerven.~
 @222  = ~Jetzt ist nicht gerade die richtige Zeit für eine Unterhaltung.~
 @223  = ~Ich dachte schon, Ihr würdet nicht mehr erscheinen. Was kann ich für Euch tun?~
@@ -339,7 +339,7 @@ Ich kann selbst kaum glauben, dass Aidan wirklich geglaubt haben könnte, dass ic
 @288  = ~Ja, <PRO_LADYLORD>, und Ihr könntet es wohl, denn ich, ich trauere um all diese Dinge, trotzdem dass keines meiner Hand entsprungen ist, außer der ersten. Es ist die Ewigkeit vor mir, die ich beklage und die Furcht die mich um den Schlaf bringt, all die vielen langen Jahre.~
 @289  = ~Wollt Ihr sonst noch etwas wissen?~
 @290  = ~Nein, das war alles.~
-@291  = ~Heil Euch, <PRO_LADYLORD>. Soll ich Euch mehr von der Faust des Amaunator erzählen?~ [BAIDAN11]
+@291  = ~Heil Euch, <PRO_LADYLORD>. Soll ich Euch mehr von der Faust des Amaunator erzählen?~ [baidan11]
 @292  = ~Ihr habt mich erschreckt!~
 @293  = ~Ja, erzählt mir mehr.~
 @294  = ~Könnt Ihr nicht zu einer günstigeren Zeit kommen?~
@@ -411,7 +411,7 @@ Ich kann selbst kaum glauben, dass Aidan wirklich geglaubt haben könnte, dass ic
 @360  = ~Aber kommt! Ihr seid wirklich geduldig, dem Klagen eines melancholischen Schattens zuzuhören! Ihr solltet rasten, solange Ihr es noch könnt, sonst wird der Tagesanbruch uns überraschen und ich mich in Nichts auflösen.~
 @361  = ~(seufz) Ihr wisst nichts von solchen Dingen. Und so wie ich meine Scham erdulden muss, werde ich Euch nicht tadeln.~
 @362  = ~Vielleicht ein anderes Mal...~
-@363  = ~Ich grüsse Euch! Darf ich Euch von der Faust des Amaunator erzählen?~ [BAIDAN12]
+@363  = ~Ich grüsse Euch! Darf ich Euch von der Faust des Amaunator erzählen?~ [baidan12]
 @364  = ~Deswegen seid Ihr doch erschienen, oder?~
 @365  = ~Ja, bitte.~
 @366  = ~Da Ihr es anscheinend nicht fertigbringt zu einer passenderen Stunde zu kommen, solltet Ihr Euch kurz fassen.~
@@ -485,7 +485,7 @@ Ich kann selbst kaum glauben, dass Aidan wirklich geglaubt haben könnte, dass ic
 @434  = ~Es ist lange her gewesen, seit ich das letzte Mal von diesem vergangenen Reich sprach. Es ist gut, sich wieder zu erinnern...~
 @435  = ~Jedoch ist es schon sehr spät und Ihr seid ohne Zweifel müde.~
 @436  = ~Ich muss Euch ein lebe wohl entbieten. Hört auf die Glöckchen, die mein nächstes Erscheinen ankündigen werden.~
-@437  = ~Ich grüsse Euch, <PRO_LADYLORD>! Geht es Euch gut?~ [BAIDAN13]
+@437  = ~Ich grüsse Euch, <PRO_LADYLORD>! Geht es Euch gut?~ [baidan13]
 @438  = ~Mir schon. Und Euch?~
 @439  = ~Versucht Ihr gerade ein höfliches Gespräch anzufangen?~
 @440  = ~Was geht Euch das an?~
@@ -610,7 +610,7 @@ Ich kann selbst kaum glauben, dass Aidan wirklich geglaubt haben könnte, dass ic
 @559  = ~Im Vertrauen! Je eher Ihr Euch auf den Pfad der Rechtschaffenheit begebt, desto besser.~
 @560  = ~Eine Schande, dass Ihr anscheinend so ziellos seid.~
 @561  = ~Aber kommt, wollt Ihr dennoch sprechen?~
-@562  = ~Mein <PRO_LADYLORD>, ich bin gekommen, um Euch Grüsse zu entbieten.~ [BAIDAN14]
+@562  = ~Mein <PRO_LADYLORD>, ich bin gekommen, um Euch Grüsse zu entbieten.~ [baidan14]
 @563  = ~Und wie ist das Thema unserer heutigen Unterhaltung?~
 @564  = ~Habt Ihr Neuigkeiten?~
 @565  = ~Schon wieder?~
@@ -680,7 +680,7 @@ Ich kann selbst kaum glauben, dass Aidan wirklich geglaubt haben könnte, dass ic
 @629  = ~Vielleicht hat mir mein untotes Dasein das Wissen vermittelt, welches ich zu Lebzeiten nicht hatte, of judging by deeds, rather than by blood or those leanings of character my powers detected. Meine Freundschaft zu Euch ist ungetrübt.~
 @630  = ~Doch sogar jetzt wird die Stunde spät.~
 @631  = ~Spüre ich Erleichterung in Eurer Stimme? Ihr solltet keinen Grund zur Verärgerung haben. Im Leben hätte ich Euch nachgehen können, um Euer sterbliches Fleisch aus dem Übel Eures Blutes zu eliminieren, aber solche Leidenschaften sind nicht mehr möglich.~
-@632  = ~Guten Abend, <PRO_LADYLORD>!~ [BAIDAN15]
+@632  = ~Guten Abend, <PRO_LADYLORD>!~ [baidan15]
 @633  = ~Was soll daran so gut sein?~
 @634  = ~Das ist er. Das Wetter ist schön, die Nacht ist mild und die Sterne funkeln.~
 @635  = ~Ist er das? Ich war schon eine Weile nicht mehr draussen.~
@@ -750,7 +750,7 @@ Ich kann selbst kaum glauben, dass Aidan wirklich geglaubt haben könnte, dass ic
 @699  = ~Das weiss ich nur zu gut. Aber meine Gesellschaft wird Euch langsam lästig und die Stunde ist auch schon sehr fortgeschritten. Bis in einer anderen Nacht.~
 @700  = ~Mein Freund, wenn die letzten Sterne ihr Licht verloren haben, und die letzte lange Nacht vorüber ist, haben wir alle diese freudige Erwartung, diese Erwartung des Unbekannten. Und das ist meine Hoffnung.~
 @701  = ~Aber schon wieder endet bald die Nacht, und unsere gemeinsame Zeit zusammen ist vorüber. Lebt wohl, <PRO_LADYLORD>.~
-@702  = ~Ich grüsse Euch wieder, <PRO_LADYLORD>. Würdet Ihr mir noch einmal nachgeben und mir etwas von Euch erzählen?~ [BAIDAN16]
+@702  = ~Ich grüsse Euch wieder, <PRO_LADYLORD>. Würdet Ihr mir noch einmal nachgeben und mir etwas von Euch erzählen?~ [baidan16]
 @703  = ~Wisst Ihr denn nicht schon alles von mir?~
 @704  = ~Jetzt passt es aber gar nicht, Aidan.~
 @705  = ~Ihr Götter, werde ich Euch denn nie los?~
@@ -823,7 +823,7 @@ Ich kann selbst kaum glauben, dass Aidan wirklich geglaubt haben könnte, dass ic
 @772  = ~Dann würdet Ihr gut daran tun sie zu entdecken! Tut etwas dafür, denn es ist an der Zeit!~
 @773  = ~Leider! Aber Ihr sagtet nicht, dass keine vorhanden ist. Tut etwas dafür, mein Freund, ehe das Unkraut die Rose erwürgt, die dahinter steckt. Vertreibt die Böswilligkeit Und Schäbigkeit und fegt alles Übel hinweg.~
 @774  = ~Lebt wohl. Ich werde Euch bald sehen.~
-@775  = ~Macht Ihr Euch etwas aus Freundschaft, <PRO_LADYLORD>?~ [BAIDAN17]
+@775  = ~Macht Ihr Euch etwas aus Freundschaft, <PRO_LADYLORD>?~ [baidan17]
 @776  = ~Ich kenne die Eure.~
 @777  = ~Ich habe bereits genug Freunde.~
 @778  = ~Hatten wir dieses Thema nicht beendet?~
@@ -864,7 +864,7 @@ Ich kann selbst kaum glauben, dass Aidan wirklich geglaubt haben könnte, dass ic
 @813  = ~Dennoch, die Mitternachtsstunde ist fast vorüber und ich muss wieder gehen. Ich danke Euch, dass Ihr wieder Gefühle in mir erweckt habt, die ich zu Lebzeiten als selbstverständlich angesehen habe. Sowohl die guten als auch die schlechten.~
 @814  = ~Dann bin ich betrübt. Obwohl Eure Gesellschaft mir auch Trost gab. Selbst der wieder angefachte Schmerz meiner Einsamkeit ist willkommen, nach den langen Jahren gegenüber jeder Emotion tot zu sein.~
 @815  = ~Aber Ihr habt das Mitleid unterdrückt, welches neben allen anderen Gefühlen in Euch schlummerte und ich werde Euch nicht wieder stören, bis die Aufgabe erledigt ist.~
-@816  = ~Ich komme zu Euch in einer unruhigen Stunde, mein <PRO_LADYLORD>, da Furcht mich überkommen hat.~ [BAIDAN18]
+@816  = ~Ich komme zu Euch in einer unruhigen Stunde, mein <PRO_LADYLORD>, da Furcht mich überkommen hat.~ [baidan18]
 @817  = ~Was? Schon wieder?~
 @818  = ~Was ist los?~
 @819  = ~Kann ich etwas tun, um Euch zu helfen?~
@@ -909,7 +909,7 @@ Ich kann selbst kaum glauben, dass Aidan wirklich geglaubt haben könnte, dass ic
 @858  = ~Nein, ich bin es, nicht Ihr.~
 @859  = ~Ich grüsse Euch mit wimmerndem Wehklagen von meinen untoten Lippen und hoffe, dass sich Euer Herz erweichen möge. Ich danke Euch für Eure Nachsicht.~
 @860  = ~Ich meine, dass ich darauf vertrauen muss, dass es doch etwas hinter der Leere gibt.~
-@861  = ~<PRO_LADYLORD> <CHARNAME>, wisst Ihr, was Liebe ist?~ [BAIDAN19]
+@861  = ~<PRO_LADYLORD> <CHARNAME>, wisst Ihr, was Liebe ist?~ [baidan19]
 @862  = ~Mein Geliebter ist an meiner Seite.~ ~Meine Geliebte ist an meiner Seite.~
 @863  = ~Ja, ich habe die Liebe kennen gelernt.~
 @864  = ~Mein Geliebter ist tot.~ ~Meine Geliebte ist tot.~

@@ -32,35 +32,42 @@ END
 IF ~~ BS5
 SAY @15
 IF ~~ THEN DO ~EscapeArea()~ EXIT
+IF ~Global("B!AidanTalk","GLOBAL",0)~ THEN DO ~EscapeArea()~ UNSOLVED_JOURNAL @10000 EXIT
 END
 
 IF ~~ BS6
 SAY @16
 IF ~~ THEN DO ~EscapeArea()~ EXIT
+IF ~Global("B!AidanTalk","GLOBAL",0)~ THEN DO ~EscapeArea()~ UNSOLVED_JOURNAL @10000 EXIT
 END
 
 IF ~~ BS7
 SAY @17
 IF ~~ THEN DO ~EscapeArea()~ EXIT
+IF ~Global("B!AidanTalk","GLOBAL",0)~ THEN DO ~EscapeArea()~ UNSOLVED_JOURNAL @10000 EXIT
 END
 
 IF ~~ BS8
 SAY @18
 IF ~~ THEN DO ~EscapeArea()~ EXIT
+IF ~Global("B!AidanTalk","GLOBAL",0)~ THEN DO ~EscapeArea()~ UNSOLVED_JOURNAL @10000 EXIT
 END
 
 IF ~~ BS9
 SAY @19
-IF ~~ THEN DO ~SetGlobal("B!TrickedSelma","GLOBAL",1) EscapeArea()~  EXIT
+IF ~~ THEN DO ~SetGlobal("B!TrickedSelma","GLOBAL",1) EscapeArea()~ EXIT
+IF ~Global("B!AidanTalk","GLOBAL",0)~ THEN DO ~SetGlobal("B!TrickedSelma","GLOBAL",1) EscapeArea()~ UNSOLVED_JOURNAL @10000  EXIT
 END
 
 IF ~~ BS10
 SAY @20
 IF ~~ THEN DO ~SetGlobal("B!RobbedSelma","GLOBAL",1) ReputationInc(-1) EscapeArea()~ EXIT
+IF ~Global("B!AidanTalk","GLOBAL",0)~ THEN DO ~SetGlobal("B!RobbedSelma","GLOBAL",1) ReputationInc(-1) EscapeArea()~ UNSOLVED_JOURNAL @10000 EXIT
 END
 
 IF ~~ BS11
 SAY @21
 IF ~~ THEN DO ~EscapeArea()~ EXIT
+IF ~Global("B!AidanTalk","GLOBAL",0)~ THEN DO ~EscapeArea()~ UNSOLVED_JOURNAL @10000 EXIT
 END
 END

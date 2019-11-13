@@ -1,4 +1,4 @@
-@0    = ~Salute, viaggiatore! Cosa ti porta in questo quartiere così tenebroso?~ [BAIDAN03]
+@0    = ~Salute, viaggiatore! Cosa ti porta in questo quartiere così tenebroso?~ [baidan03]
 @1    = ~Chi sei?~
 @2    = ~Cosa sei?~
 @3    = ~Ho sempre trovato riposanti i cimiteri.~
@@ -57,7 +57,7 @@ Ho incontrato un fantasma nel Quartiere del Cimitero stanotte. Voleva qualcosa d
 
 Ho incontrato un fantasma particolare nel Quartiere del Cimitero. Ha parlato di una missione che vorrebbe che intraprendessi. Ha promesso di rivolgersi a me ancora a mezzanotte.~
 @54   = ~Io ti parlerò ancora. Se vuoi aiutarmi, io non rifiuterò l'aiuto. Né insisterò, se altre preoccupazioni rendessero fastidiosa la mia richiesta. I rintocchi annunceranno la mia venuta.~
-@55   = ~Ottima notizia, mio <PRO_LADYLORD>! Tu hai trovato il Pugno di Amaunator!~ [BAIDAN04]
+@55   = ~Ottima notizia, mio <PRO_LADYLORD>! Tu hai trovato il Pugno di Amaunator!~ [baidan04]
 @56   = ~Niente scherzi.~
 @57   = ~Prenderlo non è stata una facile vittoria, lasciatelo dire!~
 @58   = ~Quindi, che valore ha per te?~
@@ -104,7 +104,7 @@ Questo stupido di un fantasma mi ha praticamente condotto al Pugno di Amaunator!
 @97   = ~La tua risposta mi piace. È una bella cosa,  aver trovato la tua amicizia alla fine del mio girovagare. Ma la notte si appresta, e io devo partire.~
 @98   = ~Addio, allora.~
 @99   = ~Addio, fino al nostro prossimo incontro!~
-@100  = ~Tu hai sconfitto un potente nemico. Sei in forze?~ [BAIDAN05]
+@100  = ~Tu hai sconfitto un potente nemico. Sei in forze?~ [baidan05]
 @101  = ~Non è stata una battaglia facile.~
 @102  = ~Il prezzo è stato alto, Aidan. Io porto il cadavere della mia amata.~
 @103  = ~Solo un altro giorno nella vita di un temerario avventuriero nel Faerun.~
@@ -158,7 +158,7 @@ Potrei aver spinto Aidan un po' troppo in là. Gli ho detto che potrei sempliceme
 @147  = ~Un Antico Spirito Senza riposo
 
 Ora che Bodhi è stata sconfitta, Aidan mi ha chiesto di completare la sua missione e ripristinare il Pugno di Amaunator nelle rovine del tempio alle Colline Umar. L'idiota! Pensava davvero che sarei andato fino in fondo con questa cosa?  Non importa, le sue minacce e le maledizioni sono impotenti quanto lui.~
-@148  = ~In un'ora felice, io vengo a te, hai completato la mia missione! Finalmente posso trovare la pace.~ [BAIDAN06]
+@148  = ~In un'ora felice, io vengo a te, hai completato la mia missione! Finalmente posso trovare la pace.~ [baidan06]
 @149  = ~Era il minimo che potessi fare.~
 @150  = ~Ne abbiamo passate così tante insieme, difficilmente potrei rifiutare di aiutarti ora.~
 @151  = ~Devo confessare che una parte di me è dispiaciuta di non vederti più.~
@@ -224,8 +224,8 @@ Infine Aidan, un tempo paladino di Amaunator è libero. L'ho aiutato a completare
 @179  = ~Mi piacerebbe, Aidan, ma devo proprio andare.~
 @180  = ~Non posso.~
 @181  = ~Carissimo <PRO_LADYLORD> <CHARNAME>, è tempo.~ [b!blank]
-@182  = ~Mio amico, ti ringrazio per avermi dato la pace finalmente, e per sostenere con me la vista della mia ultima alba. Possano gli dei essere benevoli con te, e proteggerti, mio carissimo amico. Addio.~ [BAIDAN20]
-@183  = ~Salute, mio <PRO_LADYLORD> <CHARNAME>! La mia ultima speranza mi aveva abbandonato, ma tu hai completato la mai missione, e alla fine mi hai reso libero!~ [BAIDAN07]
+@182  = ~Mio amico, ti ringrazio per avermi dato la pace finalmente, e per sostenere con me la vista della mia ultima alba. Possano gli dei essere benevoli con te, e proteggerti, mio carissimo amico. Addio.~ [baidan20]
+@183  = ~Salute, mio <PRO_LADYLORD> <CHARNAME>! La mia ultima speranza mi aveva abbandonato, ma tu hai completato la mai missione, e alla fine mi hai reso libero!~ [baidan07]
 @184  = ~Che non ci rende amici o altro.~
 @185  = ~Sembrava una buona idea al momento.~
 @186  = ~Dopo un sacco di ricerca-d'anima, ho deciso che era la cosa giusta da fare.~
@@ -236,7 +236,7 @@ Infine Aidan, un tempo paladino di Amaunator è libero. L'ho aiutato a completare
 @191  = ~Un Antico Spirito Senza riposo
 
 Infine Aidan, un tempo paladino di Amaunator è libero. Nonostante la mia affermazione precedente che non avrei fatto nulla di simile, l'ho aiutato a completare la sua ultima missione, e ho posto la sacra mazza, il Pugno di Amaunator, tra le braccia della statua nel tempio in rovina del suo dio morto. Con po' di fortuna, egli è andato ad affrontare un destino più gentile del suo lungo e solitario errare.~
-@192  = ~Salute, mio <PRO_LADYLORD>! Tu non sai di me, ma tu mi hai reso un grande servizio, e vorrei conoscerti prima di partire.~ [BAIDAN08]
+@192  = ~Salute, mio <PRO_LADYLORD>! Tu non sai di me, ma tu mi hai reso un grande servizio, e vorrei conoscerti prima di partire.~ [baidan08]
 @193  = ~Sembrava la cosa giusta da fare al momento.~
 @194  = ~Immaginare ciò!~
 @195  = ~Che cosa ho fatto?~
@@ -257,7 +257,7 @@ Infine Aidan, un tempo paladino di Amaunator è libero. Nonostante la mia afferma
 @210  = ~Un Antico Spirito Senza riposo
 
 La mia intuizione ha dato i suoi frutti. Ho aiutato Aidan, una volta paladino di Amaunator a completare la sua ultima missione, e ho posto la sacra mazza, il Pugno di Amaunator, tra le braccia della statua nelle rovine del tempio del suo dio morto. Ripensando alla sua sorpresa riderò per un bel po' di tempo.~
-@211  = ~Mio <PRO_LADYLORD> <CHARNAME>, vorresti tradirmi anche adesso? Sei stato al tempio, ma tu hai ancora la mazza.~ [BAIDAN09]
+@211  = ~Mio <PRO_LADYLORD> <CHARNAME>, vorresti tradirmi anche adesso? Sei stato al tempio, ma tu hai ancora la mazza.~ [baidan09]
 @212  = ~Questo era il piano, sì.~
 @213  = ~Posso riposare prima?~
 @214  = ~No, ho intenzione di tornare, ma prima c'è qualcosa che devo fare con esso.~
@@ -268,7 +268,7 @@ La mia intuizione ha dato i suoi frutti. Ho aiutato Aidan, una volta paladino di
 Stento a credere che Aidan, il paladino caduto di Amaunator sia stato tanto ingenuo da credere che sarei andato fino in fondo con la sua missione idiota. Ho tenuto la mazza per me, e ho mandato via Aidan. Non sembrava molto contento.~
 @218  = ~Allora pazienterò ancora un po'.~
 @219  = ~Certo. Pazienterò ancora un po'.~
-@220  = ~Salute, <PRO_LADYLORD> <CHARNAME>. Potrei parlare con te dei miei guai?~ [BAIDAN10]
+@220  = ~Salute, <PRO_LADYLORD> <CHARNAME>. Potrei parlare con te dei miei guai?~ [baidan10]
 @221  = ~No, ho cambiato idea. Tutti vogliono me per risolvere i loro problemi, e io sono stanco di ciò.~
 @222  = ~Questo non è il momento migliore per una chiacchierata.~
 @223  = ~Ho cominciato a pensare che non ti saresti mai mostrato. Cosa posso fare per te?~
@@ -339,7 +339,7 @@ Stento a credere che Aidan, il paladino caduto di Amaunator sia stato tanto inge
 @288  = ~Sì, mio <PRO_LADYLORD>, e bene tu potresti stare, perché anche se mi dispiace per tutte quelle cose, nessuna di esse era una mia creazione, tranne la prima. È dell'eternità davanti a me che mi lamento, e della paura che mi ha impedito di dormire per tutti questi lunghi anni.~
 @289  = ~Vuoi sapere qualcos'altro?~
 @290  = ~No, questo è tutto.~
-@291  = ~Salute a te, <PRO_LADYLORD>. Posso dirti di più del Pugno di Amaunator?~ [BAIDAN11]
+@291  = ~Salute a te, <PRO_LADYLORD>. Posso dirti di più del Pugno di Amaunator?~ [baidan11]
 @292  = ~Mi hai spaventato!~
 @293  = ~Sì, dimmi.~
 @294  = ~Non puoi chiamarmi in un momento più opportuno?~
@@ -411,7 +411,7 @@ Stento a credere che Aidan, il paladino caduto di Amaunator sia stato tanto inge
 @360  = ~Ma vieni! Sei davvero paziente ad ascoltare le farneticazioni di un'ombra malinconica! Tu dovresti riposare finché puoi, presto l'alba sarà su di noi, ed io scomparirò nella nebbia.~
 @361  = ~(sigh) Tu non sai niente di queste cose. E poiché devo sopportare la mia vergogna, non ti rimprovero.~
 @362  = ~Forse un'altra volta...~
-@363  = ~Mio <PRO_LADYLORD>, salute. Posso parlarti del Pugno di Amaunator?~ [BAIDAN12]
+@363  = ~Mio <PRO_LADYLORD>, salute. Posso parlarti del Pugno di Amaunator?~ [baidan12]
 @364  = ~È per questo che sei venuto, vero?~
 @365  = ~Sì, fallo per favore.~
 @366  = ~Poiché non sei mai d'accordo a venire in un'ora più ospitale, suppongo sia meglio.~
@@ -485,7 +485,7 @@ Stento a credere che Aidan, il paladino caduto di Amaunator sia stato tanto inge
 @434  = ~È passato molto tempo dall'ultima volta che ho parlato di quel reame condannato. È bene ricordare...~
 @435  = ~Ma le ore sono passate, e tu sei senza dubbio stanco.~
 @436  = ~Allora ti dico addio. Ascolta le campane che segnaleranno la mia successiva venuta.~
-@437  = ~Salute, mio <PRO_LADYLORD>! Stai bene?~ [BAIDAN13]
+@437  = ~Salute, mio <PRO_LADYLORD>! Stai bene?~ [baidan13]
 @438  = ~Sì. Tu?~
 @439  = ~Rilevo un tentativo di conversazione educata?~
 @440  = ~Che affari sono i tuoi?~
@@ -610,7 +610,7 @@ Stento a credere che Aidan, il paladino caduto di Amaunator sia stato tanto inge
 @559  = ~In verità! E non sarà mai abbastanza presto quando ti correggerai un percorso giusto.~
 @560  = ~Per la vergogna, che tu sia così senza meta.~
 @561  = ~Ma vieni, vuoi ancora parlare?~
-@562  = ~Mio <PRO_LADYLORD>, sono venuto a farti gli auguri.~ [BAIDAN14]
+@562  = ~Mio <PRO_LADYLORD>, sono venuto a farti gli auguri.~ [baidan14]
 @563  = ~E quale sarà l'argomento della nostra conversazione oggi?~
 @564  = ~Hai delle notizie?~
 @565  = ~Di nuovo?~
@@ -680,7 +680,7 @@ Stento a credere che Aidan, il paladino caduto di Amaunator sia stato tanto inge
 @629  = ~E forse la non morte mi ha dato la saggezza che mi è mancata in vita, di giudicare i fatti, invece delle sangue o delle tendenze dell'indole che i miei poteri rilevavano. La mia amicizia per te è infinita.~
 @630  = ~Eppure anche adesso, le ore sono invecchiate.~
 @631  = ~Cosa sento nella tua voce? Tu non dovresti avere più motivi di rabbia in ogni caso. In vita, avrei potuto perseguitarti per eliminare dalla tua carne mortale il male del tuo sangue, ma queste passioni non sono più possibili.~
-@632  = ~Buona sera, mio <PRO_LADYLORD>!~ [BAIDAN15]
+@632  = ~Buona sera, mio <PRO_LADYLORD>!~ [baidan15]
 @633  = ~Che cosa c'è di così buono?~
 @634  = ~Lo è. Il tempo è bello, la notte è dolce, e le stelle splendono.~
 @635  = ~Lo è? Non sono stato fuori un istante.~
@@ -750,7 +750,7 @@ Stento a credere che Aidan, il paladino caduto di Amaunator sia stato tanto inge
 @699  = ~Non so. Ma tu sei stanco della mia compagnia, e le ore sono invecchiate. Qualche altra notte.~
 @700  = ~Amico mio, quando l'ultima delle stelle si spegnerà, e calerà l'ultima notte, tutti noi entreremo in quella gioiosa attesa, quale anticipazione dell'ignoto. E questa è la mia speranza.~
 @701  = ~Ma ancora una volta, la notte invecchia, e il nostro tempo insieme è esaurito. Addio, mio <PRO_LADYLORD>.~
-@702  = ~Salute a te di nuovo, mio <PRO_LADYLORD>. Vorresti assecondarmi ancora una volta, e dirmi i tuoi pensieri?~ [BAIDAN16]
+@702  = ~Salute a te di nuovo, mio <PRO_LADYLORD>. Vorresti assecondarmi ancora una volta, e dirmi i tuoi pensieri?~ [baidan16]
 @703  = ~Non sai ancora tutto ciò che c'è da sapere su di me?~
 @704  = ~Questo non è il momento migliore, Aidan.~
 @705  = ~Dei, non mi libererò mai di te?~
@@ -823,7 +823,7 @@ Stento a credere che Aidan, il paladino caduto di Amaunator sia stato tanto inge
 @772  = ~Allora faresti bene a scoprirla! Alimentala ora, mentre c'è tempo!~
 @773  = ~Ahimè! Ma tu dici che non c'è nessuno. Alimentala, amico mio, perché le erbacce soffocano la rosa che giace nascosta. Strappa la malizia e la cattiveria, ed elimina tutti i mali.~
 @774  = ~Addio. Ti vedrò ancora.~
-@775  = ~Conosci l'amicizia, mio <PRO_LADYLORD>?~ [BAIDAN17]
+@775  = ~Conosci l'amicizia, mio <PRO_LADYLORD>?~ [baidan17]
 @776  = ~Conosco la tua.~
 @777  = ~Ho abbastanza amici.~
 @778  = ~Non l'abbiamo vissuta?~
@@ -864,7 +864,7 @@ Stento a credere che Aidan, il paladino caduto di Amaunator sia stato tanto inge
 @813  = ~Ma ancora una volta, l'ora della mezzanotte è fuggita, e io devo partire. Ti ringrazio per aver risvegliato in me una volta in più le emozioni che avevo dato per scontato in vita, sia il dolce che l'amaro.~
 @814  = ~Allora sono addolorato. Perché la tua amicizia mi ha dato conforto, anche. Anche aver riacceso il dolore per la mia solitudine è accettabile, dopo lunghi anni in cui era morta ogni emozione.~
 @815  = ~Ma tu hai fatto appello alla compassione che dormiva insieme ad ogni altro sentimento, e io non ti disturberò di nuovo fino a quando il compito non sarà completo.~
-@816  = ~Io vengo a te in un'ora agitata, mio <PRO_LADYLORD>, per la paura che mi opprime.~ [BAIDAN18]
+@816  = ~Io vengo a te in un'ora agitata, mio <PRO_LADYLORD>, per la paura che mi opprime.~ [baidan18]
 @817  = ~Cosa? Di nuovo?~
 @818  = ~Cosa c'è che non va?~
 @819  = ~C'è qualcosa che posso fare per aiutarti?~
@@ -909,7 +909,7 @@ Stento a credere che Aidan, il paladino caduto di Amaunator sia stato tanto inge
 @858  = ~No, sono io, non tu.~
 @859  = ~Ti saluto con miagolanti lamenti sulle mie labbra non morte, e mi aspetto che il tuo cuore si sciolga prima del mio, e la comprensione fluisca fuori come la sua linfa vitale. Ti ringrazio per la tua pazienza.~
 @860  = ~Io credo che ora devo avere fede che non c'è nessuna altra cosa al di là del Vuoto.~
-@861  = ~<PRO_LADYLORD> <CHARNAME>, tu sai cosa vuol dire amare?~ [BAIDAN19]
+@861  = ~<PRO_LADYLORD> <CHARNAME>, tu sai cosa vuol dire amare?~ [baidan19]
 @862  = ~La mia amota cammina al mio fianco.~
 @863  = ~Conosco l'amore, sì.~
 @864  = ~La mia amata è morta.~
