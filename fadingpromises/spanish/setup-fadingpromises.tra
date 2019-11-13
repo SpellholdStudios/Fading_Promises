@@ -1,0 +1,29 @@
+@0    = ~Promesas Marchitas (Fading Promises) version 1 - 23Dec2007~
+@1    = ~Puño de Amaunator~
+@2    = ~La maza es una descendiente directa del garrote básico, siendo solamente una vara de madera con una cabeza de piedra o hierro montada al final.  El diseño de la cabeza varía; algunas tienen pinchos, otras muescas, y otras incluso tienen protuberancias piramidales.~
+@3    = ~El Puño de Amaunator
+Esta maza fue forjada por los siervos de Amaunator, el dios sol antiguo Netherese, para combatir las fuerzas del mal no muerto.  Los encantamientos de esta reliquia permiten al portador llamar al Rayo solar, cuya energía de vida pura es la plaga de los no vivos.
+
+ESTADISTICAS:
+Habilidades especiales (una por día):
+Rayo solar
+ Daño: 3d6 (salvación contra conjuros o sino ceguera en 10 asaltos)
+ No muertos: 1d6 de puntos de daño adicionales por nivel de lanzador (salvación contra conjuros o es destruido)
+ Alcance: 6 metros
+ Area de efecto: 6 metros de radio
+
+THAC0:  Bonificador +2, +2 adicional contra criaturas malignas
+Daño:  1d8+2, +2 adicional contra criaturas malignas, doble de daño contra no muertos
+Tipo de daño:  Aplastamiento
+Peso: 2
+Factor de velocidad: 3
+Talento marcial: Maza
+Tipo:  1 mano
+Requisito: 6 Fuerza
+No lo puede usar:
+ Druida
+ Mago~
+@4    = ~Aidan~
+@5    = ~¡Saludos! ¿Qué os trae por este distrito tan sombrío?~ [baidan03]
+@6    = ~Selma~
+@7    = ~Pasaréis lo que queda de la noche con una compañía tranquila, a veces habladora, a veces solo disfrutando de la comodidad y el silencio amistoso de la noche. Podría ser vuestra imaginación, pero las estrellas son más brillantes y más hermosas de lo que las que habéis visto desde hace tiempo. Al menos, la oscuridad añil de los cielos del este se asoma, primero en color cobalto, y después en un rosa atenuado seguido del dorado color del alba.~ [BAIDAN22]

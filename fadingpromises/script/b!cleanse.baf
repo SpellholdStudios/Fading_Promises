@@ -1,0 +1,11 @@
+IF
+  Contains("B!AMACE",Myself)
+  Global("B!AidanDone","GLOBAL",0)
+THEN
+  RESPONSE #100
+    SetInterrupt(FALSE)
+    DestroyItem("B!AMACE")
+    AddexperienceParty(50000)
+    SetGlobal("B!AidanDone","GLOBAL",1)
+    SetInterrupt(TRUE)
+END

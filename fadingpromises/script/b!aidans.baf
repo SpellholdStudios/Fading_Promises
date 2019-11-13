@@ -1,0 +1,69 @@
+IF
+  Global("B!AidanExists","GLOBAL",1)
+  Global("B!AidanTalk","GLOBAL",0)
+  Global("B!AidanPlacement","GLOBAL",0)
+  OR(2)
+    TimeOfDay(DAY)
+    TimeOfDay(MORNING)
+THEN
+  RESPONSE #100
+    MakeGlobal()
+    SetGlobal("B!AidanPlacement","GLOBAL",1)
+    Deactivate("B!Aidan")
+END
+
+IF
+  Global("B!AidanGoodbye","GLOBAL",1)
+THEN
+  RESPONSE #100
+    StartDialogueNoSet(Player1)
+END
+
+IF
+  Global("B!AidanGoodbye","GLOBAL",2)
+THEN
+  RESPONSE #100
+    StartDialogueNoSet(Player1)
+END
+
+IF
+  InMyArea(Player1)
+  !StateCheck(Player1,CD_STATE_NOTVALID)
+  CombatCounter(0)
+  !See([ENEMY])
+  OR(6)
+    Global("B!AidanThanks","GLOBAL",1)
+    Global("B!AidanCheated","GLOBAL",1)
+    Global("B!AidanReconsider","GLOBAL",1)
+    Global("B!AidanHasMace","GLOBAL",2)
+    Global("B!AidanBodhi","GLOBAL",2)
+    Global("B!AidanBetrayed","GLOBAL",2)
+THEN
+  RESPONSE #100
+    PlaySound("BAIDAN02")
+    Dialog(Player1)
+END
+  
+IF
+  InMyArea(Player1)
+  !StateCheck(Player1,CD_STATE_NOTVALID)
+  !Global("B!AidanDelayTalk","GLOBAL",1)
+  CombatCounter(0)
+  !See([ENEMY])
+  OR(10)
+    Global("B!AidanTalk","GLOBAL",2)
+    Global("B!AidanTalk","GLOBAL",4)
+    Global("B!AidanTalk","GLOBAL",6)
+    Global("B!AidanTalk","GLOBAL",8)
+    Global("B!AidanTalk","GLOBAL",10)
+    Global("B!AidanTalk","GLOBAL",12)
+    Global("B!AidanTalk","GLOBAL",14)
+    Global("B!AidanTalk","GLOBAL",16)
+    Global("B!AidanTalk","GLOBAL",18)
+    Global("B!AidanTalk","GLOBAL",20)
+THEN
+  RESPONSE #100
+    PlaySound("BAIDAN02")
+    SetGlobal("B!AidanBaldurBCSCheck","GLOBAL",0)
+    Dialog(Player1)
+END

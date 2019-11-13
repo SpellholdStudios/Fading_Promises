@@ -1,0 +1,20 @@
+IF
+  Global("B!AidanExists","GLOBAL",0)
+  TimeOfDay(NIGHT)
+THEN
+  RESPONSE #100
+    SetGlobal("B!AidanExists","GLOBAL",1)
+    CreateCreature("B!AIDAN",[1355.1392],12)
+    Continue()
+END
+
+IF
+  Global("B!AidanPlacement","GLOBAL",1)
+  TimeOfDay(NIGHT)
+  Global("B!AidanTalk","GLOBAL",0)
+THEN
+  RESPONSE #100
+    SetGlobal("B!AidanPlacement","GLOBAL",0)
+    Activate("B!Aidan")
+    Continue()
+END    

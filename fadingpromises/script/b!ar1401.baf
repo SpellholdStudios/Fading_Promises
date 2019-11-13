@@ -1,0 +1,10 @@
+/* The PC has betrayed Aidan by having been to the temple, but keeping the mace */
+IF
+  AreaCheck("AR1401")
+  PartyHasItem("B!AMACE")
+  GlobalGT("B!AidanHasMace","GLOBAL",0)
+  Global("B!AidanTemple","GLOBAL",0)
+THEN
+  RESPONSE #100
+    SetGlobal("B!AidanTemple","GLOBAL",1)
+END

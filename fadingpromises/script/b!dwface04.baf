@@ -1,0 +1,13 @@
+IF 
+    Clicked([ANYONE]) 
+    Range(LastTrigger,10) 
+    Global("face4","AR2100",2) 
+THEN 
+    RESPONSE #100 
+        SetGlobal("face4","AR2100",3) 
+        DisplayString(Myself,51078) // You have released a lost soul. 
+        ScreenShake([2125.1982],20) 
+        Wait(4) 
+        CreateCreatureDoor("viclydia",[2125.1982],0) // Lydia 
+        TriggerActivation("Face4",FALSE) 
+END

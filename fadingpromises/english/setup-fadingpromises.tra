@@ -1,0 +1,29 @@
+@0    = ~Fading Promises~
+@1    = ~Fist of Amaunator~
+@2    = ~The mace is a direct descendant of the basic club, being nothing more than a wooden shaft with a stone or iron head mounted on the end.  The head design varies; some being spiked, others flanged, and still others have pyramidal knobs.~
+@3    = ~The Fist of Amaunator
+This mace was forged by the servants of Amaunator, the ancient Netherese sun god, to combat the forces of the evil undead.  The enchantments of this relic enable the wielder to call forth the Sunray, whose pure life energy is the bane of the unliving.
+
+STATISTICS:
+Special Abilities (once per day):
+Sunray
+ Damage: 3D6 (save vs. spells or be blinded for 10 rounds)
+ Undead: an additional 1d6 points of damage per level of caster (save vs. spells or be destroyed)
+ Range: 20 ft
+ Area: 20 ft radius
+
+THAC0:  +2 bonus, +2 additional vs. evil creatures
+Damage:  1D8 +2, +2 additional vs. evil creatures, does double damage against undead
+Damage type:  crushing
+Weight: 2
+Speed Factor: 3
+Proficiency Type: Mace
+Type:  1-handed
+Requires: 6 Strength
+Not Usable By:
+ Druid
+ Mage~
+@4    = ~Aidan~
+@5    = ~Hail, traveler! What bringeth thee to this most sombre district?~ [baidan03]
+@6    = ~Selma~
+@7    = ~You spend the remainder of the night in quiet companionship, sometimes talking, sometimes just enjoying the comfortable, friendly silence of the night. It might be your imagination, but the stars are more brilliant and more beautiful than you have seen for a long time. At last, the indigo darkness of the eastern sky begins to lighten, first to cobalt, then to the subtle rose and gold of the approaching dawn.~ [BAIDAN22]

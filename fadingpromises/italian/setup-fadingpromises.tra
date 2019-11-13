@@ -1,0 +1,30 @@
+@0    = ~Promesse avvizzite~
+@1    = ~Pugno di Amaunator~
+@2    = ~La mazza è un diretto discendente della clava, non essendo altro che una sbarra di legno sulla cui estremità è montata una punta di pietra o ferro. La forma della punta varia: alcune sono appuntite, altre stondate e altre ancora provviste di punte piramidale.~
+@3    = ~Il Pugno di Amaunator
+Questa mazza è stata forgiata dai servi di Amaunator, l'antico dio sole Netherese, per combattere le forze dei malvagi non morti. Gli incantesimi di questa reliquia consentono al portatore di evocare Raggio di Sole, la cui pura energia vitale è la rovina dei non viventi.
+
+STATISTICHE:
+Abilità speciali (una volta al giorno):
+Raggio di Sole
+ Danno: 3D6 (tiro salvezza contro incantesimi o accecati per 10 round)
+ Non morti: ulteriori 1d6 danni per livello di incantatore (tiro salvezza contro incantesimi o distrutti)
+ Raggio d'Azione: 6 mt
+ Area: 6 mt. raggio
+
+THAC0:  +2 bonus, +2 aggiuntivi contro le creature malvagie
+Danno: 1D8 +2, +2 aggiuntivi contro le creature malvagie, danno doppio sui non morti
+Tipo di danno: schiacciamento
+Peso: 2
+Fattore Velocità: 3
+Tipo di Capacità: Mazza
+Tipo: A 1 mano
+Richiede: Forza 6
+
+Non utilizzabile da:
+ Druido
+ Mago~
+@4    = ~Aidan~
+@5    = ~Salve, viaggiatore! Cosa ti porta in questo quartiere così cupo?~ [baidan03]
+@6    = ~Selma~
+@7    = ~Passi il resto della notte in tranquilla compagnia, a volte a parlare, a volte solo a godere del confortevole, silenzio amichevole della notte. Potrebbe essere la tua immaginazione, ma le stelle sono le più brillanti e le più belle che hai visto da molto tempo. Infine, il buio indaco del cielo orientale comincia a schiarire, prima verso il cobalto, poi verso il delicato rosa e oro dell'alba che si avvicina.~ [BAIDAN22]

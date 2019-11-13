@@ -1,0 +1,17 @@
+IF
+True()
+THEN
+RESPONSE #100
+CutSceneId(Player1)
+Rest()
+ActionOverride(Player2,Rest())
+ActionOverride(Player3,Rest())
+ActionOverride(Player4,Rest())
+ActionOverride(Player5,Rest())
+ActionOverride(Player6,Rest())
+DayNight(DAWN_END)
+StartMovie("NITEDAY")
+MoveViewObject(Player1,INSTANT)
+Wait(1)
+ActionOverride("B!Aidan",StartDialogueNoSet(Player1))
+END

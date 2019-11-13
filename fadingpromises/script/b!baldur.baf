@@ -1,0 +1,168 @@
+/* CONTENTS */
+/* The PC has found the mace */
+/* The PC has confronted Bodhi */
+/* The PC has completed Aidan's quest */ 
+/* The PC has betrayed Aidan by having been to the temple, but keeping the mace */
+/* Friendship talks */
+
+/* The PC has found the mace */
+IF
+  Global("BAidanDiagott","GLOBAL",1)
+  PartyHasItem("B!AMACE")
+  Global("B!AidanHasMace","GLOBAL",0)
+THEN
+  RESPONSE #100
+    SetGlobal("BAidanDiagott","GLOBAL",2)
+    SetGlobal("B!AidanDelayTalk","GLOBAL",1)
+    SetGlobal("B!AidanHasMace","GLOBAL",1)
+END
+
+IF
+  GlobalTimerExpired("B!AidanTime","GLOBAL")
+  Time(MIDNIGHT)
+  Global("B!AidanHasMace","GLOBAL",1)
+  GlobalGT("B!AidanFriend","GLOBAL",0)
+  !Global("B!AidanFriend","GLOBAL",3)
+  !StateCheck(Player1,CD_STATE_NOTVALID)
+  CombatCounter(0)
+THEN
+  RESPONSE #100
+    SetGlobal("B!AidanHasMace","GLOBAL",2)
+    PlaySound("BAIDAN01")
+    CreateCreatureObjectOffset("B!Aidan",Player1,[50.50])
+END
+
+/* The PC has confronted Bodhi */
+IF
+  Dead("C6BODHI")
+  GlobalGT("B!AidanHasMace","GLOBAL",0)
+  Global("B!AidanBodhi","GLOBAL",0)
+THEN
+  RESPONSE #100
+    SetGlobal("B!AidanDelayTalk","GLOBAL",1)
+    SetGlobal("B!AidanBodhi","GLOBAL",1)
+END
+
+IF
+  GlobalTimerExpired("B!AidanTime","GLOBAL")
+  Time(MIDNIGHT)
+  Global("B!AidanBodhi","GLOBAL",1)
+  GlobalGT("B!AidanFriend","GLOBAL",0)
+  !Global("B!AidanFriend","GLOBAL",3)
+  !StateCheck(Player1,CD_STATE_NOTVALID)
+  CombatCounter(0)
+THEN
+  RESPONSE #100
+    SetGlobal("B!AidanBodhi","GLOBAL",2)
+    PlaySound("BAIDAN01")
+    CreateCreatureObjectOffset("B!Aidan",Player1,[50.50])
+END
+
+/* The PC has completed Aidan's quest */ 
+IF
+  GlobalTimerExpired("B!AidanTime","GLOBAL")
+  Time(MIDNIGHT)
+  Global("B!AidanDone","GLOBAL",1)
+  GlobalGT("B!AidanFriend","GLOBAL",0)
+  !Global("B!AidanFriend","GLOBAL",3)
+  !StateCheck(Player1,CD_STATE_NOTVALID)
+  CombatCounter(0)
+THEN
+  RESPONSE #100
+    SetGlobal("B!AidanDelayTalk","GLOBAL",1)
+    SetGlobal("B!AidanDone","GLOBAL",2)
+    SetGlobal("B!AidanThanks","GLOBAL",1)
+    PlaySound("BAIDAN01")
+    CreateCreatureObjectOffset("B!Aidan",Player1,[50.50])
+END
+
+IF
+  GlobalTimerExpired("B!AidanTime","GLOBAL")
+  Time(MIDNIGHT)
+  Global("B!AidanDone","GLOBAL",1)
+  Global("B!AidanFriend","GLOBAL",0)
+  !StateCheck(Player1,CD_STATE_NOTVALID)
+  CombatCounter(0)
+THEN
+  RESPONSE #100
+    SetGlobal("B!AidanDelayTalk","GLOBAL",1)
+    SetGlobal("B!AidanDone","GLOBAL",2)
+    SetGlobal("B!AidanCheated","GLOBAL",1)
+    PlaySound("BAIDAN01")
+    CreateCreatureObjectOffset("B!Aidan",Player1,[50.50])
+END
+
+IF
+  GlobalTimerExpired("B!AidanTime","GLOBAL")
+  Time(MIDNIGHT)
+  Global("B!AidanDone","GLOBAL",1)
+  Global("B!AidanFriend","GLOBAL",3)
+  !StateCheck(Player1,CD_STATE_NOTVALID)
+  CombatCounter(0)
+THEN
+  RESPONSE #100
+    SetGlobal("B!AidanDelayTalk","GLOBAL",1)
+    SetGlobal("B!AidanDone","GLOBAL",2)
+    SetGlobal("B!AidanReconsider","GLOBAL",1)
+    PlaySound("BAIDAN01")
+    CreateCreatureObjectOffset("B!Aidan",Player1,[50.50])
+END
+
+/* The PC has betrayed Aidan by having been to the temple, but keeping the mace */
+IF
+  Global("B!AidanTemple","GLOBAL",1)
+  !AreaCheck("AR1401")
+  Global("B!AidanHasMace","GLOBAL",1)
+  !GlobalGT("B!AidanDone","GLOBAL",0)
+  Global("B!AidanBetrayed","GLOBAL",0)
+THEN
+  RESPONSE #100
+    SetGlobal("B!AidanDelayTalk","GLOBAL",1)
+    SetGlobal("B!AidanBetrayed","GLOBAL",1)
+END
+
+IF
+  GlobalTimerExpired("B!AidanTime","GLOBAL")
+  Time(MIDNIGHT)
+  Global("B!AidanBetrayed","GLOBAL",1)  
+  GlobalGT("B!AidanFriend","GLOBAL",0)
+  !StateCheck(Player1,CD_STATE_NOTVALID)
+  CombatCounter(0)
+THEN
+  RESPONSE #100
+    SetGlobal("B!AidanBetrayed","GLOBAL",2)
+    PlaySound("BAIDAN01")
+    CreateCreatureObjectOffset("B!Aidan",Player1,[50.50])
+END
+
+/* Friendship talks */
+IF
+  GlobalTimerExpired("B!AidanTime","GLOBAL")
+  Time(MIDNIGHT)
+  Global("B!AidanBaldurBCSCheck","GLOBAL",0)
+  !GlobalGT("B!AidanDone","GLOBAL",0)
+  GlobalGT("B!AidanFriend","GLOBAL",0)
+  !Global("B!AidanFriend","GLOBAL",3)
+  !Global("B!NoVisit","GLOBAL",1)
+  !Global("B!AidanDelayTalk","GLOBAL",1)
+  !StateCheck(Player1,CD_STATE_NOTVALID)
+  CombatCounter(0)
+  OR(10)
+    Global("B!AidanTalk","GLOBAL",1)
+    Global("B!AidanTalk","GLOBAL",3)
+    Global("B!AidanTalk","GLOBAL",5)
+    Global("B!AidanTalk","GLOBAL",7)
+    Global("B!AidanTalk","GLOBAL",9)
+    Global("B!AidanTalk","GLOBAL",11)
+    Global("B!AidanTalk","GLOBAL",13)
+    Global("B!AidanTalk","GLOBAL",15)
+    Global("B!AidanTalk","GLOBAL",17)
+    Global("B!AidanTalk","GLOBAL",19)
+THEN
+  RESPONSE #100
+    IncrementGlobal("B!AidanTalk","GLOBAL",1)
+    PlaySound("BAIDAN01")
+    SetGlobal("B!AidanBaldurBCSCheck","GLOBAL",1)
+    CreateCreatureObjectOffset("B!Aidan",Player1,[50.50])
+END
+   

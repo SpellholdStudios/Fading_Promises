@@ -1,0 +1,7 @@
+IF
+  Global("B!SelmaExists","GLOBAL",0)
+THEN
+  RESPONSE #100
+    SetGlobal("B!SelmaExists","GLOBAL",1)
+    CreateCreature("B!SELMA",[2426.1270],2)
+END

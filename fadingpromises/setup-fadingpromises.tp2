@@ -1,0 +1,174 @@
+BACKUP ~fadingpromises/backup~
+AUTHOR ~berelinde@gmail.com~
+
+//MODDER
+
+VERSION ~v7~
+
+README ~fadingpromises/readmefadingpromises.html~
+
+AUTO_TRA ~fadingpromises/%s~
+LANGUAGE ~English~  ~english~ ~fadingpromises/english/setup-fadingpromises.tra~
+LANGUAGE ~Espanol~  ~spanish~ ~fadingpromises/spanish/setup-fadingpromises.tra~
+LANGUAGE ~Deutsch~  ~german~  ~fadingpromises/german/setup-fadingpromises.tra~
+LANGUAGE ~Italiano~ ~italian~  ~fadingpromises/italian/setup-fadingpromises.tra~
+LANGUAGE ~Russian~ ~russian~  ~fadingpromises/russian/setup-fadingpromises.tra~
+LANGUAGE ~Francais~ ~french~  ~fadingpromises/french/setup-fadingpromises.tra~
+
+BEGIN @0
+
+/* STATE.IDS patching adds custom IsValidForPartyDialogue state */
+  APPEND ~STATE.IDS~ ~0x80101FEF CD_STATE_NOTVALID~ UNLESS ~CD_STATE_NOTVALID~
+
+/* kit.ids patching */
+COPY_EXISTING ~kit.ids~ ~override~
+  REPLACE_TEXTUALLY ~.*\bTRUECLASS\b~              ~0x4000 TRUECLASS~
+  REPLACE_TEXTUALLY ~.*\bBERSERKER\b~              ~0x4001 BERSERKER~
+  REPLACE_TEXTUALLY ~.*\bWIZARDSLAYER\b~           ~0x4002 WIZARDSLAYER~
+  REPLACE_TEXTUALLY ~.*\bKENSAI\b~                 ~0x4003 KENSAI~
+  REPLACE_TEXTUALLY ~.*\bCAVALIER\b~               ~0x4004 CAVALIER~
+  REPLACE_TEXTUALLY ~.*\bINQUISITOR\b~             ~0x4005 INQUISITOR~
+  REPLACE_TEXTUALLY ~.*\bUNDEADHUNTER\b~           ~0x4006 UNDEADHUNTER~
+  REPLACE_TEXTUALLY ~.*\bMAGESCHOOL_ABJURER\b~     ~0x0040 MAGESCHOOL_ABJURER~
+  REPLACE_TEXTUALLY ~.*\bMAGESCHOOL_CONJURER\b~    ~0x0080 MAGESCHOOL_CONJURER~
+  REPLACE_TEXTUALLY ~.*\bMAGESCHOOL_DIVINER\b~     ~0x0100 MAGESCHOOL_DIVINER~
+  REPLACE_TEXTUALLY ~.*\bMAGESCHOOL_ENCHANTER\b~   ~0x0200 MAGESCHOOL_ENCHANTER~
+  REPLACE_TEXTUALLY ~.*\bMAGESCHOOL_ILLUSIONIST\b~ ~0x0400 MAGESCHOOL_ILLUSIONIST~
+  REPLACE_TEXTUALLY ~.*\bMAGESCHOOL_INVOKER\b~     ~0x0800 MAGESCHOOL_INVOKER~
+  REPLACE_TEXTUALLY ~.*\bMAGESCHOOL_NECROMANCER\b~ ~0x1000 MAGESCHOOL_NECROMANCER~
+  REPLACE_TEXTUALLY ~.*\bMAGESCHOOL_TRANSMUTER\b~  ~0x2000 MAGESCHOOL_TRANSMUTER~
+  REPLACE_TEXTUALLY ~.*\bMAGESCHOOL_GENERALIST\b~  ~0x4000 MAGESCHOOL_GENERALIST~
+  REPLACE_TEXTUALLY ~.*\bFERALAN\b~                ~0x4007 FERALAN~
+  REPLACE_TEXTUALLY ~.*\bSTALKER\b~                ~0x4008 STALKER~
+  REPLACE_TEXTUALLY ~.*\bBEASTMASTER\b~            ~0x4009 BEASTMASTER~
+  REPLACE_TEXTUALLY ~.*\bASSASIN\b~                ~0x400A ASSASIN~
+  REPLACE_TEXTUALLY ~.*\bBOUNTYHUNTER\b~           ~0x400B BOUNTYHUNTER~
+  REPLACE_TEXTUALLY ~.*\bSWASHBUCKLER\b~           ~0x400C SWASHBUCKLER~
+  REPLACE_TEXTUALLY ~.*\bBLADE\b~                  ~0x400D BLADE~
+  REPLACE_TEXTUALLY ~.*\bJESTER\b~                 ~0x400E JESTER~
+  REPLACE_TEXTUALLY ~.*\bSKALD\b~                  ~0x400F SKALD~
+  REPLACE_TEXTUALLY ~.*\bGODTALOS\b~               ~0x4013 GODTALOS~
+  REPLACE_TEXTUALLY ~.*\bGODHELM\b~                ~0x4014 GODHELM~
+  REPLACE_TEXTUALLY ~.*\bGODLATHANDER\b~           ~0x4015 GODLATHANDER~
+  REPLACE_TEXTUALLY ~.*\bTOTEMIC\b~                ~0x4010 TOTEMIC~
+  REPLACE_TEXTUALLY ~.*\bSHAPESHIFTER\b~           ~0x4011 SHAPESHIFTER~
+  REPLACE_TEXTUALLY ~.*\bBEASTFRIEND\b~            ~0x4012 BEASTFRIEND~
+  REPLACE_TEXTUALLY ~.*\bBARBARIAN\b~              ~0x0000 BARBARIAN~
+  REPLACE_TEXTUALLY ~.*\bWILDMAGE\b~               ~0x0000 WILDMAGE~
+  BUT_ONLY_IF_IT_CHANGES
+
+APPEND ~kit.ids~ ~0x4000 TRUECLASS~
+  UNLESS ~\bTRUECLASS\b~
+APPEND ~kit.ids~ ~0x0000 BARBARIAN~
+  UNLESS ~\bBARBARIAN\b~
+APPEND ~kit.ids~ ~0x0000 WILDMAGE~
+  UNLESS ~\bWILDMAGE\b~
+  
+/* compiling dialogue */
+COMPILE ~fadingpromises/dialogue/b!aidan.d~
+COMPILE ~fadingpromises/dialogue/b!selma.d~
+COMPILE ~fadingpromises/dialogue/b!udtrap04.d~
+
+/* compiling script */
+COMPILE ~fadingpromises/script/b!aidanm.baf~
+COMPILE ~fadingpromises/script/b!aidann.baf~
+COMPILE ~fadingpromises/script/b!aidans.baf~
+COMPILE ~fadingpromises/script/b!selmas.baf~
+EXTEND_BOTTOM ~baldur.bcs~ ~fadingpromises/script/b!baldur.baf~
+EXTEND_TOP ~ar0800.bcs~ ~fadingpromises/script/b!ar0800.baf~
+EXTEND_BOTTOM ~ar0900.bcs~ ~fadingpromises/script/b!ar0900.baf~
+EXTEND_BOTTOM ~ar1401.bcs~ ~fadingpromises/script/b!ar1401.baf~
+EXTEND_BOTTOM ~cleanse.bcs~ ~fadingpromises/script/b!cleanse.baf~
+
+/* items */ 
+COPY ~fadingpromises/item/b!minhp.itm~ ~override~ 
+COPY ~fadingpromises/item/b!amacec.bam~ ~override~
+COPY ~fadingpromises/item/b!amacei.bam~ ~override~
+COPY ~fadingpromises/item/b!amace.itm~ ~override~
+  SAY NAME1 @1
+  SAY NAME2 @1
+  SAY UNIDENTIFIED_DESC @2
+  SAY DESC @3
+ 
+/* sound */
+COPY ~fadingpromises/music~ ~override~
+
+COPY_EXISTING ~songlist.2da~ ~override~
+REPLACE_TEXTUALLY CASE_INSENSITIVE EXACT_MATCH
+~0       No_music        ****~
+~0       BLANK           blank.mus~
+
+ACTION_IF ("%WEIDU_ARCH%" STRING_COMPARE_CASE "x86" = 0) THEN BEGIN // if Windows
+
+  AT_NOW                   ~fadingpromises/fadingpromisesaudioinstall.bat~   // install...
+  AT_INTERACTIVE_UNINSTALL ~fadingpromises/fadingpromisesaudiouninstall.bat~ // ... and uninstall
+
+END ELSE BEGIN // linux or OS X
+
+  AT_NOW                   ~sh fadingpromises/fadingpromises-audio-install.sh~   // install...
+  AT_INTERACTIVE_UNINSTALL ~sh fadingpromises/fadingpromises-audio-uninstall.sh~ // ... and uninstall
+
+END
+
+/* creatures */
+COPY ~fadingpromises/bmp~ ~override~
+
+COPY_EXISTING ~kamir.cre~ ~override/b!aidan.cre~
+  ADD_CRE_ITEM ~sw2h01~ #0 #0 #0 ~IDENTIFIED~ ~WEAPON1~ EQUIP
+  ADD_CRE_ITEM ~b!minhp~ #0 #0 #0 ~IDENTIFIED~ ~AMULET~
+  ADD_CRE_ITEM ~ghost~ #0 #0 #0 ~IDENTIFIED~ ~LRING~
+  WRITE_ASCII 0x248 ~b!aidans~ #8 // assign override script
+  WRITE_ASCII 0x250 ~fighter2~ #8 // assign class script
+  WRITE_ASCII 0x2cc ~b!aidan~ #8 // assign dialogue file
+  WRITE_ASCII 0x280 ~b!aidan~ #32 // assign DV
+  WRITE_ASCII 0X34 ~b!aidans~ #8 //small portrait
+  WRITE_BYTE 0x2c 105  //metal color (white)
+  WRITE_BYTE 0x2d 105  //minor color (white)
+  WRITE_BYTE 0x2e 105  //major color (white)
+  WRITE_BYTE 0x2f 13   //skin color (light pure silver)
+  WRITE_BYTE 0x30 105  //leather color (white)
+  WRITE_BYTE 0x31 105  //armor color (white)
+  WRITE_BYTE 0x32 10   //hair color (light pure gold)
+  SAY NAME1 @4
+  SAY NAME2 @4
+  SAY INITIAL_MEETING @5 
+
+COPY_EXISTING ~UDTRAP04.cre~ ~override~
+  ADD_CRE_ITEM ~b!amace~ #0 #0 #0 ~IDENTIFIED~ ~INV16~
+
+COPY_EXISTING ~CLMOM.cre~ ~override/b!selma.cre~
+  ADD_CRE_ITEM ~misc07~ #5 #0 #0 ~IDENTIFIED~ ~INV16~
+  WRITE_ASCII 0x248 ~b!selmas~ #8 // override
+  WRITE_ASCII 0x2cc ~b!selma~ #8 // dialogue
+  WRITE_ASCII 0x280 ~b!selma~ #32 //DV
+  WRITE_ASCII 0X34 ~b!selmas~ #8 //small portrait
+  WRITE_BYTE 0x2c 10   //metal color (light pure gold)
+  WRITE_BYTE 0x2d 66  //minor color (faded black)
+  WRITE_BYTE 0x2e 19   //major color (dark rose red)
+  WRITE_BYTE 0x2f 12   //skin color (light carnation pink
+  WRITE_BYTE 0x30 99   //leather color (dark gold)
+  WRITE_BYTE 0x31 81   //armor color (faded gold)
+  WRITE_BYTE 0x32 02   //hair color (dark gold)
+  SAY NAME1 @6
+  SAY NAME2 @6
+
+/* movie */
+COPY ~fadingpromises/movie/b!aidtxt.mos~ ~override~
+COPY ~fadingpromises/movie/b!aidtxt.2da~
+     ~override/b!aidtxt.2da~
+    REPLACE ~9599~ @7
+
+/* Compatibility with Vic's BG2 Improvements */ 
+
+ACTION_IF FILE_EXISTS_IN_GAME ~lyddial.dlg~ THEN BEGIN 
+    COPY_EXISTING ~udtrap04.cre~ ~override/viclydia.cre~ 
+    COPY ~fadingpromises/creatures/udtrap04.cre~ ~override~ 
+        ADD_CRE_ITEM ~b!amace~ #0 #0 #0 ~IDENTIFIED~ ~INV16~
+    
+    COPY_EXISTING ~dwface04.bcs~ ~override~ 
+        DECOMPILE_BCS_TO_BAF 
+            REPLACE_TEXTUALLY CASE_INSENSITIVE ~TriggerActivation("Face4",FALSE)~ ~~ 
+        COMPILE_BAF_TO_BCS 
+        
+    EXTEND_BOTTOM ~dwface04.bcs~ ~fadingpromises/script/b!dwface04.baf~ 
+END 
