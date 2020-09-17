@@ -947,3 +947,8 @@ J'ai peine à croire qu'Aidan, le paladin déchu d'Amaunator, ait pu être assez cr
 @896  = ~Mon amour, le moment approche, et je suis réconforté d’avoir fait ma confession.~
 @897  = ~Mon ami, le moment approche, et je suis soulagé d’avoir fait ma confession.~
 @898  = ~Alors que la dernière heure de la nuit se profile, ne nous attardons pas en de tristes adieux. Puisse la bénédiction d'une longue vie et de mille joies vous accompagner et puissent les dieux vous garder sauf. Adieu.~ ~Alors que la dernière heure de la nuit se profile, ne nous attardons pas en de tristes adieux. Puisse la bénédiction d'une longue vie et de mille joies vous accompagner et puissent les dieux vous garder sauve. Adieu.~
+
+/* new for v9 */
+@890  = ~I'm in pursuit of Irenicus, who tortured my friends and me. He can threaten me all he wants, but I can't be sure my friend Imoen will be safe before we do not defeat him!~
+/* @484 rephrased to match the new line @890 */
+@891  = ~A most wholesome charge, I deem! That thou and thy childhood companion shouldst be tortured is most cruel, and that thou shouldst seek to protect her most natural.~
