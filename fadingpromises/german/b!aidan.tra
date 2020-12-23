@@ -1,41 +1,41 @@
-@0    = ~Heil, Reisender! Was bringt Euch in dieses düstere Viertel?~ [baidan03] ~Heil, Reisende! Was bringt Euch in dieses düstere Viertel?~ [baidan03]
+@0    = ~Seid gegrüßt, Reisender! Was bringt Euch in dieses düstere Viertel?~ [baidan03] ~Heil, Reisende! Was bringt Euch in dieses düstere Viertel?~ [baidan03]
 @1    = ~Wer seid Ihr?~
 @2    = ~Was seid Ihr?~
-@3    = ~Ich habe Friedhöfe immer schon bevorzugt!~
-@4    = ~Das selbe könnte ich Euch auch fragen.~
+@3    = ~Ich fand Friedhöfe immer sehr geruhsam.~
+@4    = ~Dasselbe könnte ich Euch auch fragen.~
 @5    = ~Seid Ihr der Geist, der Selma erschreckt hat?~
-@6    = ~In der Tat ist es wohl angebracht, alles zu erklären, wenn die Toten mit den Lebenden sprechen.~
-@7    = ~Zu meinen Lebzeiten wurde ich Aidan genannt, obwohl die Toten ja keine Namen mehr brauchen. Ich bin ein Schatten, die Erinnerung an einen Mann, der einst das Land der Lebenden unter Amaunators Segen bereiste. Ich habe eine gewisse Art Frieden unter diesen verrottenden Grüften gefunden.~
-@8    = ~Aber was ist mit Euch? Ihr seid lebendig und müsstet eigentlich einen Namen haben. Wollt Ihr ihn mir verraten?~
+@6    = ~In der Tat ist ene Erklärung wohl angebracht, wenn die Toten mit den Lebenden sprechen.~
+@7    = ~Zu meinen Lebzeiten wurde ich Aidan genannt, doch die Toten brauchen keine Namen mehr. Ich bin ein Schatten, die Erinnerung an einen Mann, der einst das Land der Lebenden unter Amaunators Segen bereiste. Ich habe eine gewisse Art Frieden zwischen diesen verrottenden Grüften gefunden.~
+@8    = ~Aber was ist mit Euch? Ihr seid lebendig und müsstet eigentlich einen Namen haben. Wollt Ihr ihn mir nicht verraten?~
 @9    = ~Ich bin <CHARNAME>. Warum findet Ihr keine Ruhe?~
 @10   = ~<CHARNAME> ist mein Name. Seid Ihr in Nöten, Geist?~
 @11   = ~Mein Name ist <CHARNAME>. Weswegen sprecht Ihr eigentlich mit mir?~
 @12   = ~Die Toten müssen die Namen der Lebenden auch nicht unbedingt wissen.~
-@13   = ~Seid Ihr der Geist, der Selma erschreckte, eine Frau aus dem Tempelbezirk?~
+@13   = ~Seid Ihr der Geist, der Selma erschien, einer Frau aus dem Tempelbezirk?~
 @14   = ~Nein, das werde ich nicht. Ihr habt die Lebenden lange genug erschreckt! Bereitet Euch darauf vor, gerichtet zu werden!~
-@15   = ~Wenn ich nur das selbe sagen könnte. Doch es gibt keine Ruhe für mich bis zum Ende aller Tage, wenn die Welt nicht mehr ist.~
-@16   = ~Mann, das sind aber trübe Aussichten. Könnt Ihr keine Ruhe finden?~
+@15   = ~Wenn ich nur dasselbe sagen könnte. Doch es gibt keine Ruhe für mich bis zum Ende aller Tage, wenn die Welt nicht mehr ist.~
+@16   = ~Na, das sind aber trübe Aussichten. Könnt Ihr keine Ruhe finden?~
 @17   = ~Es könnte eine Möglichkeit geben. Ein Priester könnte Euch erlösen.~
 @18   = ~Ich habe keine Zeit, mich mit Geistern zu unterhalten.~
 @19   = ~Ich würde Euch gerne helfen, Geist. Kann ich etwas für Euch tun?~
 @20   = ~Seid Ihr der Geist, der sich im Tempelbezirk herumgetrieben hat?~
-@21   = ~Vielleicht. Hier fand ich diese Ruhestätte. Ich wanderte durch die Strassen der Stadt. Eine Frau begenete mir dort und hielt mich für einen bösen Geist. Sie bekam Angst vor mir und floh.~
+@21   = ~Vielleicht. Bevor ich diesen Zufluchtsort fand, wanderte ich durch die Straßen der Stadt. Eine Frau begenete mir dort und hielt mich für einen bösen Geist. Sie bekam Angst vor mir und floh.~
 @22   = ~Jedoch war es nicht mein Ansinnen, sie zu erschrecken.~
 @23   = ~Der Frieden wird mir lange versagt bleiben, durch meine eigene Torheit.~
-@24   = ~(seufz) Wie Ihr wünscht. Zeit bedeutet nichts für einen Geist, da alle Ewigkeit vor ihm liegt. Vielleicht liegt Eure Torheit darin, unter den Lebenden zu sein. Ich werde die Einsamkeit der Wildnis aufsuchen und Euch nicht mehr belästigen.~
+@24   = ~(seufz) Wie Ihr wünscht. Zeit bedeutet nichts für einen Geist, da alle Ewigkeit vor ihm liegt. Vielleicht ist es vermessen, unter den Lebenden zu weilen. Ich werde die Einsamkeit der Wildnis aufsuchen und Euch nicht mehr belästigen.~
 @25   = ~Ein uralter und ruheloser Geist
 
 Heute Nacht traf ich einen Geist im Friedhofsviertel. Ich bin sicher, er wollte etwas von mir, aber ich habe ihn weggeschickt.~
-@26   = ~Was können die Lebenden den Toten schon antun? Ein grosser und mächtiger Priester könnte mich in der Tat verbannen, aber das würde mir nicht helfen. Würde meine letzte Aufgabe beendet werden, dann könnte ich meinem toten Gott in die Vergessenheit und Ewigkeit folgen!~
+@26   = ~Was können die Lebenden den Toten schon antun? Ein großer und mächtiger Priester könnte mich in der Tat verbannen, aber das würde mir nicht helfen. Ich wünschte meine letzte Aufgabe könnte beendet werden, dann könnte ich meinem toten Gott in die Vergessenheit und Ewigkeit folgen!~
 @27   = ~Ich werde Euch helfen, wenn ich kann. Sprecht, Aidan, und sagt mir, wie ich Eure letzte Aufgabe erledigen kann.~
-@28   = ~Ihr hattet lange genug Spass, die Lebenden zu erschrecken. Ich schicke Euch diesen Priester.~
+@28   = ~Ihr hattet lange genug Spaß, die Lebenden zu erschrecken. Ich schicke Euch einen Priester.~
 @29   = ~Was war das für eine Aufgabe? Vielleicht kann ich helfen.~
 @30   = ~Nun, das ist ziemlich traurig, aber ich fürchte ich kann Euch nicht helfen.~
 @31   = ~Ich könnte Euch vielleicht helfen, aber ich kann es jetzt nicht gleich tun. Werdet Ihr warten?~
-@32   = ~Ich weiss es nicht. Ihr solltet Euch zuerst meine Geschichte anhören, ehe Ihr mir versprecht, mir zu helfen.~
+@32   = ~Ich weiß es nicht. Ihr solltet Euch zuerst meine Geschichte anhören, ehe Ihr mir versprecht, mir zu helfen.~
 @33   = ~Doch ich habe sie beunruhigt, daher sind einige Erklärungen von Nöten.~
 @34   = ~Man nannte mich Aidan.~
-@35   = ~Wenn Ihr mir helfen wollt, dann werde ich wieder zur Mitternachtsstunde hierher kommen. Willigt Ihr ein?~
+@35   = ~Wenn Ihr mir helfen wollt, dann werde ich wieder zur Mitternachtsstunde zu Euch kommen. Willigt Ihr ein?~
 @36   = ~Ja, ich werde Euch helfen.~
 @37   = ~Ich werde Euch helfen, aber Ihr müsst mir versprechen, mich nicht zu erschrecken.~
 @38   = ~Vielleicht. Sagt mir, was ich tun soll und ich sage Euch, ob ich bereit dazu bin.~
@@ -45,37 +45,37 @@ Heute Nacht traf ich einen Geist im Friedhofsviertel. Ich bin sicher, er wollte 
 @42   = ~Das habe ich befürchtet.~
 @43   = ~Ich werde gehen und die Lebenden nicht länger belästigen.~
 @44   = ~Was bedeutet schon Zeit für die Toten?~
-@45   = ~In meinem Leben war ich einst ein Paladin, ein Diener des Gottes Amaunator von Netheril, das nicht jetzt mehr existiert.~
-@46   = ~Ich fiel in Ungnade, als ich mich von den Annehmlichkeiten dieser Welt verführen und mich von meinen Pflichten ablenken liess, und ich starb hier und suchte Sühne. Das rechtschaffene Urteil fürchtend, das meine Strafe war, flüchtete ich in dieses Zwischenreich, aus dessen süßen Brunnen ich nie wieder trinken konnte.~
+@45   = ~In meinem Leben war ich einst ein Paladin, ein Diener des Gottes Amaunator von Netheril, das jetzt nicht mehr existiert.~
+@46   = ~Ich fiel in Ungnade, als ich mich von den Annehmlichkeiten dieser Welt verführen und mich von meinen Pflichten ablenken ließ, und ich starb bevor ich Sühne suchen konnte. Das rechtschaffene Urteil fürchtend, das meine Strafe wäre, flüchtete ich in dieses Zwischenreich - schwebend zwischen Leben, aus dessen süßem Brunnen ich nie wieder trinken werde, und dem wahren Tod, dessen dunkle Wasser ich gebeutelt mit meiner Schuld nicht zu kosten wage.~
 @47   = ~Welche Pflicht hattet Ihr denn zu erfüllen?~
 @48   = ~Kann man denn nichts für Euch mehr tun?~
 @49   = ~Vielleicht kann Euch ja ein Priester erlösen.~
 @50   = ~Ich habe ja kaum Zeit, den Lebenden zu helfen. Ich habe absolut keine Zeit, um sie mit den Toten zu verschwenden.~
-@51   = ~Ah, nun, dann mal los.~
+@51   = ~Ah, nun, ich muss dann mal los.~
 @52   = ~Ich bin Euch sehr dankbar! Damit meine plötzliche Erscheinung Euch nicht zu Tode erschreckt, wird das Läuten von Glöckchen meine Ankunft ankündigen.~
 @53   = ~Ein uralter und ruheloser Geist
 
 Ich traf einen seltsamen Geist im Friedhofsviertel. Er sprach von einer Aufgabe, die ich für ihn erledigen sollte. Er versprach mir, sich um Mitternacht wieder zu zeigen.~
 @54   = ~Ich werde bald mit Euch sprechen. Wenn Ihr mir helfen würdet, lehne ich keine Hilfe ab. Doch ich bestehe nicht darauf, falls andere Sorgen meine Bitte ungelegen machen sollten. Ein Läuten von Glöckchen wird meine Ankunft ankündigen.~
-@55   = ~Frohe Kunde, mein <PRO_LADYLORD>! Ihr habt die Faust des Amaunator gefunden!~ [baidan04]
-@56   = ~Im Ernst?~
+@55   = ~Frohe Kunde, <PRO_LADYLORD>! Ihr habt die Faust des Amaunator gefunden!~ [baidan04]
+@56   = ~Ohne Scherz.~
 @57   = ~Sie zu bekommen, war keine leichte Aufgabe, das kann ich Euch sagen!~
 @58   = ~Und, was ist sie Euch wert?~
-@59   = ~Das habe ich! Jetzt ist alles, was ich noch tun muss, zur Oberfläche zurückzukehren und es zu erledigen, wie Ihr es mir auftrugt.~
-@60   = ~Das habe ich! Jetzt bleibt nur noch zu tun, was Ihr mir aufgetragen habt.~
+@59   = ~Das habe ich! Jetzt ist alles, was ich noch tun muss, zur Oberfläche zurückzukehren und sie zu entsorgen, wie Ihr es mir auftrugt.~
+@60   = ~Das habe ich! Jetzt bleibt nur noch sie zu entsorgen, wie Ihr mir aufgetragen habt.~
 @61   = ~Das ist wahr, aber ich habe entschieden, sie zu behalten.~
-@62   = ~Jetzt, wo die heilige Reliquie in Eurem Besitz ist, werdet Ihr noch die letzte Aufgabe erfüllen?~
+@62   = ~Jetzt, wo die heilige Reliquie in Eurem Besitz ist, werdet Ihr die letzte Aufgabe erfüllen?~
 @63   = ~Natürlich. Sobald ich wieder aus diesem Loch herausgekommen bin.~
 @64   = ~Natürlich.~
-@65   = ~Ich habe mich noch nicht entschieden. Ich glaube, ich werde sie für eine Weile ausprobieren und ergründen, ob sie mir gefällt.~
+@65   = ~Ich habe mich noch nicht entschieden. Ich glaube, ich werde sie für eine Weile ausprobieren und sehen, ob sie mir gefällt.~
 @66   = ~Habt Ihr wirklich geglaubt, dass ich sie so einfach aufgeben werde?~
 @67   = ~Ich habe kaum zu hoffen gewagt, dass es geschehen würde. Doch meine Dankbarkeit Euch gegenüber ist grenzenlos!~
 @68   = ~Wert? Wie kann man so etwas überhaupt bewerten?! Endlich Frieden zu haben...~
-@69   = ~Ihr seid sehr freundlich, mein <PRO_LADYLORD>. Ich freue mich, wie ich es zuvor nie getan habe, dass meine Seele bald die lang ersehnte Ruhe finden wird.~
-@70   = ~Soll das heissen, dass Ihr nicht mehr kommen werdet?~
+@69   = ~Ihr seid sehr freundlich, <PRO_LADYLORD>. Ich freue mich, wie ich es zuvor nie getan habe, dass meine Seele bald die lang ersehnte Ruhe finden wird.~
+@70   = ~Soll das heißen, dass Ihr nicht mehr kommen werdet?~
 @71   = ~Ich bin froh, dass ich helfen konnte.~
 @72   = ~Ich tue dies nicht um Euretwillen! Ich tue es, damit Ihr mich endlich in Ruhe lasst!~
-@73   = ~Ihr gemeiner Verbrecher! Mein Vertrauen auf diese Art zu missbrauchen! Hätte ich Euch bloss niemals gesagt, wo sie gefunden werden kann!~
+@73   = ~Ihr gemeiner Verbrecher! Mein Vertrauen auf diese Art zu missbrauchen! Hätte ich Euch bloß niemals gesagt, wo sie gefunden werden kann!~
 @74   = ~Läge es in meiner Macht, dann würde ich Euch zu ewiger Qual verdammen. Aber meine Macht und meine Essenz sind verschwunden. Ich kann Euch nur wünschen, dass Ihr im Untod niemals Ruhe finden werdet.~
 @75   = ~Ein uralter und ruheloser Geist
 
@@ -83,12 +83,12 @@ Dieser Narr von einem Geist führte mich zu der Faust des Amaunator! Wie erfreuli
 @76   = ~Seid Ihr in der Lage sie zu schwingen?~
 @77   = ~Nein, aber einer meiner Gefährten kann es.~
 @78   = ~Klar, natürlich.~
-@79   = ~Das macht doch nichts. Ich kann sie verkaufen, wenn ich sie nicht schwingen kann.~
-@80   = ~Was hat das denn damit zu tun? Ihr seid gefangen, es sei denn ich befreie Euch, und das ist alles worum ich mir Sorgen mache.~
-@81   = ~(seufz) Es gibt nur wenig, das ich tun kann, um Euch aufzuhalten. Dennoch würde ich es begrüssen, wenn Ihr nochmals Euer Herz erforscht, und Erbarmen walten lasst und mich befreit, wenn Ihr vor dem Altar stehen solltet.~
+@79   = ~Das macht nichts. Ich kann sie verkaufen, wenn ich sie nicht schwingen kann.~
+@80   = ~Was hat das denn damit zu tun? Ihr seid gefangen es sei denn ich befreie Euch, und das ist alles was für mich zählt.~
+@81   = ~(seufz) Es gibt nur wenig, das ich tun kann, um Euch aufzuhalten. Dennoch würde ich es begrüßen, wenn Ihr nochmals Euer Herz erforscht, und Erbarmen walten lasst und mich befreit, wenn Ihr vor dem Altar stehen solltet.~
 @82   = ~Ich hatte gehofft, dass Ihr Mitleid walten lassen würdet.~
 @83   = ~Es ist wahrscheinlich, aber es ist eine mächtige Waffe. Dürfte ich sie benutzen, bis es Zeit ist, sie auf den Altar zu legen?~
-@84   = ~Es könnte sein, aber ich will den Streitkolben für eine Weile ausprobieren, bevor ich damit einverstanden bin, ihn aufzugeben.~
+@84   = ~Es könnte sein, aber ich will den Streitkolben für eine Weile ausprobieren, bevor ich einwillige, ihn aufzugeben.~
 @85   = ~Dann habt Ihr vergeblich gehofft.~
 @86   = ~"Mitleid"? So etwas kenne ich nicht!~
 @87   = ~Nein, es sei denn, Ihr würdet sie haben. Ich habe gesagt, dass ich Euch dreizehnmal besuchen würde, doch so viele Male sind noch nicht geschehen.~
@@ -100,23 +100,23 @@ Dieser Narr von einem Geist führte mich zu der Faust des Amaunator! Wie erfreuli
 @93   = ~...wie Ihr wünscht.~
 @94   = ~Ihr würdet die heilige Reliquie des Amaunator zu Geld machen?!~
 @95   = ~Ich werde Euch nicht mehr erscheinen, damit meine Gegenwart Euch nicht mehr stört.~
-@96   = ~In der Tat dürft Ihr das! Ich würde nie zwischen Euch und der Erfüllung der Aufgabe stehen und wenn diese Waffe Euch von Nutzen ist, werde ich Euch dies auch nicht verweigern.~
+@96   = ~In der Tat dürft Ihr das! Ich würde nie zwischen Euch und der Erfüllung der Aufgabe stehen. Wenn diese Waffe Euch hiebei von Nutzen ist, werde ich Euch dies auch nicht verweigern.~
 @97   = ~Die Antwort berührt mich. Es ist sehr schön, am Ende meiner Wanderungen Eure Freundschaft erlangt zu haben. Aber die Nacht neigt sich ihrem Ende zu und ich muss gehen.~
 @98   = ~Dann lebt wohl.~
 @99   = ~Lebt wohl, bis zu unserem nächsten Treffen!~
-@100  = ~Ihr habt einen starken Feind besiegt. Seid Ihr so stark?~ [baidan05]
+@100  = ~Ihr habt einen starken Feind besiegt. Geht es Euch gut?~ [baidan05]
 @101  = ~Das war kein einfacher Kampf.~
-@102  = ~Der Preis war ziemlich hoch, Aidan. Ich habe den Körper meiner Geliebten bei mir.~ ~Der Preis war ziemlich hoch, Aidan. Ich habe den Körper meines Geliebten bei mir.~
+@102  = ~Der Preis war ziemlich hoch, Aidan. Ich habe den Körper der Person bei mir, die ich liebe.~
 @103  = ~Nur ein weiterer Tag im Leben des kühnsten Abenteurers von Faerûn.~
 @104  = ~Das war ein guter Test meiner Fähigkeiten. Mein Sieg gab mir Hoffnung, meinen schlimmsten Feind zu besiegen.~
 @105  = ~Ein Kinderspiel, Aidan. Bodhi war schwach!~
-@106  = ~Ihr habt das gemeine untote Ding besiegt und seid siegreich daraus hervor gegangen! Eure Tapferkeit ist wirklich wundersam.~
-@107  = ~Aidan, ich habe vorgehabt Euch zu fragen. Fühltet Ihr Euch jemals mit einigen der Untoten verbunden, die wir töteten?~
-@108  = ~Und meine Geliebte zahlte einen hohen Preis für meinen Sieg.~
+@106  = ~Ihr habt das gemeine untote Ding besiegt und seid siegreich daraus hervor gegangen! Eure Fähigkeiten und Eure Tapferkeit ist wirklich wundersam.~
+@107  = ~Aidan, ich habe vorgehabt Euch zu fragen. Fühltet Ihr Euch jemals eine Verbindung zu den Untoten, die wir töteten?~
+@108  = ~Und die von mir geliebte Person zahlte einen hohen Preis für meinen Sieg.~ 
 @109  = ~Ich spüre, dass Ihr mich bitten wollt, etwas zu tun.~
 @110  = ~Und jetzt hat Imoen ihre Seele zurück.~
-@111  = ~Danke, dass Ihr dies gesagt habt.~
-@112  = ~Ich trauere mit Euch, wegen des Verlustes Eurer Geliebten.~
+@111  = ~Danke, dass Ihr das so sagt.~
+@112  = ~Ich trauere mit Euch, wegen des Verlustes Eurer Liebe.~
 @113  = ~Das ist nicht fair, Aidan. Ihr seid vor tausenden von Jahren gestorben und Ihr treibt Euch immer noch hier herum, aber...~
 @114  = ~Und jetzt habe ich vor, zu tun, was auch immer ich tun muss, um das Leben wieder herzustellen.~
 @115  = ~Danke, Aidan.~
@@ -131,30 +131,30 @@ Dieser Narr von einem Geist führte mich zu der Faust des Amaunator! Wie erfreuli
 @124  = ~Dafür freue ich mich! Es erfreut mich, dass sie nicht länger durch diesen Zustand des Untodes gequält wird.~
 @125  = ~Jetzt, da Eure erste Aufgabe erfüllt ist, würdet Ihr noch tun, um was ich Euch gebeten hatte? Meine letzte Aufgabe erfüllen?~
 @126  = ~Ich bin ziemlich in Eile, Aidan. Ich muss diese Elfenstadt retten.~
-@127  = ~Ich dachte, dass ich lieber versuchen sollte, zuerst meine Geliebte wieder ins Leben zurückzuholen.~
+@127  = ~Ich dachte, dass ich lieber versuchen sollte, zuerst meine Liebe wieder ins Leben zurückzuholen.~
 @128  = ~Ja, ich werde es jetzt versuchen.~
-@129  = ~Ich hätte sie lieber noch eine Weile bei mir gehabt, Aidan.~
+@129  = ~Ich behalte die Faust lieber noch eine Weile bei mir, Aidan.~
 @130  = ~Nein, ich werde Eure Bitte wohl nicht erfüllen.~
-@131  = ~Sagt nichts mehr, <PRO_LADYLORD> <CHARNAME>. Es bringt nichts mehr, sich an den schmerzlichen Verlust zu erinnern, oder mich selbst an die dauernden Qualen zu erinnern. Ich mache Euch keine Vorwürfe, Euer Kummer hat Eure Emotionen beeinflusst.~
-@132  = ~Es ist nur natürlich, dass Ihr Eure Geliebte wieder ins Leben zurückholen wollt. Wenn der Tod zur rechten Zeit erscheint, dann ist er eine willkommene Erlösung von den Sorgen der Welt, aber jetzt ist die Zeit noch nicht gekommen.~
-@133  = ~Ich verlange nicht von Euch, über meine Bitte nachzudenken vor den Ansprüchen Eures Herzens, aber sollte sich Euch die Möglichkeit eröffnen, die Aufgabe, die ich Euch gestellt habe, zu vollenden, ergreift sie, ich bitte Euch. Aber mehr werde ich nicht sagen.~
-@134  = ~Könnte ich noch mehr dazu sagen.~
-@135  = ~In der Tat! Im Leben war ich bestrebt, tugendhaft und rein zu sein. Die Belohnung für meinen Misserfolg war der Tod, aber ich bin immer noch bestrebt, tugendhaft zu sein. Aber ich rede immer noch über meine eigene Notlage, obwohl andere in Not sind.~
+@131  = ~Sprecht nicht weiter, <PRO_LADYLORD> <CHARNAME>. Es bringt nichts als Schmerz, wenn Ihr Euch Euren Verlust vor Augen haltet oder mich an mein Martyrium erinnert. Ich mache Euch jedoch keine Vorwürfe, denn Trauer erweckt leicht sehr starke Gefühle.~
+@132  = ~Es ist nur natürlich, dass Ihr Eure Liebe wieder ins Leben zurückholen wollt. Wenn der Tod zur rechten Zeit erscheint, dann ist er eine willkommene Erlösung von den Sorgen der Welt, aber diese Zeit war noch nicht gekommen.~
+@133  = ~Ich werde nicht von Euch verlangen, meine Bitte über die Ansprüche Eures Herzens zu stellen. Sollte sich Euch aber die Möglichkeit eröffnen, die Aufgabe, die ich Euch gestellt habe, zu vollenden, ergreift sie, ich bitte Euch. Aber mehr werde ich nicht sagen.~
+@134  = ~Ich wünschte, ich könnte mehr Trost spenden.~
+@135  = ~In der Tat! Im Leben war ich bestrebt, tugendhaft und rein zu sein. Die Belohnung für mein Versagen war der Tod, aber ich bin immer noch bestrebt, tugendhaft zu sein. Aber ich rede zu viel über mein eigenes Mühsal, wo Ihr doch von dem Euren gebeutelt seid.~
 @136  = ~Wie wenig Ihr mich doch kennt!~
 @137  = ~Ihr stellt ziemlich verwirrende Fragen.~
 @138  = ~Reiz?! Eure Perversionen beherrschen Euch! Aber ich werde nicht länger an die Lüste denken, die Ihr vielleicht beherbergt.~
-@139  = ~In der Tat! Nichtsdestotrotz, vielleicht findet Ihr ein Mittel, beides zu tun. Aber ich werde nichts mehr dazu sagen.~
-@140  = ~Lebt wohl, mein gnädiger Gefährte. Und mögen Euch Eure Schritte zu dem verfallenen Tempel des Amaunator bei den Umar Hügeln führen. Wo die Faust des Amaunator in den Armen der Statue für ewig ruhen soll.~ ~Lebt wohl, meine gnädige Gefährtin. Und mögen Euch Eure Schritte zu dem verfallenen Tempel des Amaunator bei den Umar Hügeln führen. Wo die Faust des Amaunator in den Armen der Statue für ewig ruhen soll.~
+@139  = ~In der Tat! Nichtsdestoweniger, vielleicht findet Ihr ein Mittel, beides zu tun. Aber ich werde nichts mehr dazu sagen.~
+@140  = ~Lebt wohl, mein Segensgenosse. Mögen Euch Eure Schritte zu dem verfallenen Tempel des Amaunator bei den Umar Hügeln führen. Wo die Faust des Amaunator in den Armen der Statue für ewig ruhen soll.~ ~Lebt wohl, meine Segensgenossin. Und mögen Euch Eure Schritte zu dem verfallenen Tempel des Amaunator bei den Umar Hügeln führen. Wo die Faust des Amaunator in den Armen der Statue für ewig ruhen soll.~
 @141  = ~Ein uralter und ruheloser Geist
 
-Jetzt, da Bodhi besiegt ist und ich die Faust des Amaunator habe, sagte mir Aidan, dass es an der Zeit ist, die Aufgabe zu beenden, die er mir aufgetragen hatte. Ich muss zu dem verfallenen Tempel von Amaunator in den Umar Hügeln aufbrechen und den Streitkolben in die Arme der Statue legen.~
+Jetzt, da Bodhi besiegt ist und ich die Faust des Amaunator habe, sagte mir Aidan, dass es an der Zeit ist, die Aufgabe zu beenden, die er mir aufgetragen hat. Ich muss zu dem verfallenen Tempel von Amaunator in den Umar Hügeln aufbrechen und den Streitkolben in die Arme der Statue legen.~
 @142  = ~Dann habt Ihr meinen Dank!~
 @143  = ~Ihr quält mich! Wenn Ihr meine Aufgabe lösen wollt, dann tut es, aber erzählt mir nichts mehr von Euren Plänen, mich betrügen zu wollen. Ich bitte Euch darum! Ich gehe.~
 @144  = ~Ein uralter und ruheloser Geist
 
 Ich habe es mit Aidan wahrscheinlich zu weit getrieben. Ich sagte ihm, dass ich den Streitkolben wahrscheinlich behalten werde. Das brachte ihn sehr durcheinander, und er ging. Ich sollte wahrscheinlich nicht erwarten, ihn wieder zu sehen.~
-@145  = ~Leider! Dem Ziel so nahe zu sein und durch Eure Habgier fehlzuschlagen! Leider ist meine Tapferkeit vergangen und ich bin ohnmächtig in meiner Wut.~
-@146  = ~Möge der Fluch der Untoten Euch treffen und möge Eure Aufgabe sich ebenso als sinnlos erweisen, wie die meine.~
+@145  = ~Leider! Dem Ziel so nahe zu sein und durch Eure Habgier fehlzuschlagen! Leider ist meine Kampffähigkeit vergangen und ich bin ohnmächtig in meiner Wut.~
+@146  = ~Möge der Fluch als Untoter Euch treffen und möge Eure Aufgabe sich ebenso als sinnlos erweisen, wie die meine.~
 @147  = ~Ein uralter und ruheloser Geist
 
 Jetzt, da Bodhi besiegt wurde, bat mich Aidan seine Aufgabe zu vollenden und die Faust des Amaunator zu dem verfallenen Tempel in den Umar Hügeln zu bringen. Dieser Idiot! Hat er wirklich gedacht, dass ich das tun würde? Egal, seine Drohungen und Verwünschungen sind so machtlos wie er selbst.~
@@ -162,15 +162,15 @@ Jetzt, da Bodhi besiegt wurde, bat mich Aidan seine Aufgabe zu vollenden und die
 @149  = ~Das war das mindeste, was ich tun konnte.~
 @150  = ~Wir haben so viel miteinander durchgemacht, deswegen kann ich es kaum ablehnen, Euch jetzt zu helfen.~
 @151  = ~Ich muss zugeben, dass ein Teil von mir gar nicht glücklich ist, Euch nicht mehr zu sehen.~
-@152  = ~Ich habe festgestellt, dass ich inzwischen genug von Euch gesehen habe und möchte dies jetzt alles beenden.~
+@152  = ~Ich habe gemerkt, dass ich genug von Euren besuchen habe und dies jetzt beenden möchte.~
 @153  = ~Das war es nicht. Ihr hättet mich einfach meinem Schicksal überlassen können. Aber Ihr tatet es nicht.~
 @154  = ~Ihr wart mein beständiger Freund und einziger Begleiter in diesen einsamen Stunden, den letzten Tagen meines untoten Daseins, und daher kennt meine Dankbarkeit keine Grenzen. Ich habe nichts, um es Euch wieder gut zu machen. Vor langer Zeit habe ich aufgehört, mir etwas aus Gütern oder Besitztümern zu machen. Aber wenn Wünsche wahr gemacht werden könnten, würde ich Euch Diamanten und andere wertvolle Dinge geben.~
-@155  = ~Ihr wart mehr als ein Freund für mich. Hätte ich bloss solch eine Liebe gekannt, als ich noch als Mann auf Toril wandelte. Es ist eine bittere Ironie, dass ich es jetzt weiss, bevor ich dahinscheide, aber ich hege dagegen keinen Groll. Vielleicht ist das auch ein Geschenk, dass ich jetzt im Tode weiss, was ich im Leben nicht wusste. Wenn das Schicksal über die Geschichten von Menschen schreibt, soll geschrieben stehen, dass hier <CHARNAME> stand, der edelste Champion des Amaunator, und Aidan, <PRO_HISHER>s Freund. Keinen grösseren Ruhm könnte ich meinem Gott bringen.~
-@156  = ~Dies wird wohl unsere letzte Unterhaltung sein und deswegen bin ich etwas betrübt, aber dennoch möchte ich Euch um eine letzte Gnade bitten.~
-@157  = ~Ihr müsstet wissen, dass das Licht der Sonne mich zerstören würde, aber ich habe diesen geliebten Anblick seit unzähligen Jahren nicht mehr gesehen. Ich möchte ihn noch ein letztes Mal sehen, mit Euch als meinem Gefährten, bis zum eigentlichen Ende.~
-@158  = ~Ihr könnt dies nicht wissen, aber das Licht der Sonne würde mich zerstören. Dennoch habe ich aber diesen geliebten Anblick seit unzähligen Jahren nicht mehr gesehen. Ich möchte ihn noch ein letztes Mal sehen, mit Euch als meinem Gefährten, bis zum eigentlichen Ende.~
-@159  = ~(Ihr verbringt den Rest der Nacht in ruhiger Gesllschaft, manchmal redet ihr miteinander, manchmal geniesst ihr nur einfach die angenehme, friedliche Stille der Nacht. Es könnte vielleicht nur Eure Einbildung sein, aber die Sterne scheinen heller zu leuchten und schöner zu sein, als Ihr es jemals zuvor gesehen habt. Endlich beginnt die indigofarbene Dunkelheit vom östlichen Himmel, sich zu erhellen, erst zu Kobalt dann zu zartem Rose und zu subtilem Gold vom sich nähernden Sonnenaufgang.)~
-@160  = ~Ich danke Euch, dass ihr mir endlich Frieden gebracht habt.~
+@155  = ~Ihr wart mehr als ein Freund für mich. Hätte ich bloß solch eine Liebe gekannt, als ich noch als Mann auf Toril wandelte. Es ist eine bittere Ironie, dass ich sie jetzt kenne, bevor ich dahinscheide, aber ich hege deswegen keinen Groll. Vielleicht ist das auch ein Geschenk, dass ich jetzt im Tode weiß, was ich im Leben nicht wusste. Wenn das Schicksal die Geschichte der Menschheit aufzeichnet, dann soll geschrieben stehen, dass hier <CHARNAME> stand, der edelste Champion des Amaunator, obwohl <PRO_HESHE> ihn nicht kannte, und Aidan, <CHARNAME>s Freund. Mit keinem besseren Nachruf könnte ich meinem Gott gegenüber treten.~
+@156  = ~Dies wird wohl unsere letzte Unterhaltung sein und deswegen bin ich etwas betrübt, aber dennoch möchte ich Euch um eine letzte Wohltat bitten.~
+@157  = ~Ihr müsst wissen, dass das Licht der Sonne mich zerstören würde, aber ich habe diesen geliebten Anblick seit unzähligen Jahren nicht mehr gesehen. Ich möchte sie noch ein letztes Mal sehen, mit Euch an meiner Seite, jetzt, da das Ende da ist.~
+@158  = ~Ihr könnt dies nicht wissen, aber das Licht der Sonne würde mich zerstören. Dennoch habe ich aber diesen geliebten Anblick seit unzähligen Jahren nicht mehr gesehen. Ich möchte sie noch ein letztes Mal sehen, mit Euch an meiner Seite, jetzt, da das Ende da ist.~
+@159  = ~(Ihr verbringt den Rest der Nacht in ruhiger Gesllschaft, manchmal redet ihr miteinander, manchmal genießt ihr nur einfach die angenehme, friedliche Stille der Nacht. Vielleicht ist es nur Eure Einbildung, aber die Sterne scheinen heller zu leuchten und schöner zu sein, als Ihr es jemals zuvor gesehen habt. Endlich beginnt die indigofarbene Dunkelheit vom östlichen Himmel sich zu erhellen, erst zu Kobalt dann zu zartem Rosa und zu subtilem Gold vom sich nähernden Sonnenaufgang.)~
+@160  = ~Ich danke Euch, dass Ihr mir endlich Frieden gebracht habt.~
 @161  = ~Ein uralter und ruheloser Geist
 
 Ich habe dem gefallenen Paladin Aidan versprochen, dass ich seine Aufgabe beenden werde und die Faust des Amaunator in die Arme der Statue in den Tempelruinen legen werde. Ich muss daran denken, mein Wort zu halten.~
@@ -179,13 +179,13 @@ Ich habe dem gefallenen Paladin Aidan versprochen, dass ich seine Aufgabe beende
 Heute erschien mir der Geist wieder, aber ich habe keine Zeit für seine Aufgabe. Ich habe genug mit den Lebenden zu tun.~
 @163  = ~Ein uralter und ruheloser Geist
 
-Es scheint so, dass Aidan, der Geist den ich im Friedhofsviertel traf, von Dryaden verführt wurde und es nicht schaffte, seine letzte Aufgabe zu erfüllen, die Übergabe eines heiligen Streitkolbens, der Faust des Amaunator, zum Tempel von Amaunator. Ich habe zugesagt, es zu tun.~
+Es scheint so, dass Aidan, der Geist den ich im Friedhofsviertel traf, von Dryaden verführt wurde und es nicht schaffte, seine letzte Aufgabe zu erfüllen, die Übergabe eines heiligen Streitkolbens, der Faust des Amaunator, zum Tempel von Amaunator zu bringen. Ich habe zugesagt, es zu tun.~
 @164  = ~Ein uralter und ruheloser Geist
 
-Aidan, der Geist eines gefallenen Paladins, ist mir wieder erschienen. Obwohl ich ich zugestimmt habe, ihm zu helfen, ist mir die Aufgabe jetzt zu unangenehm. Ich habe mein Hilfsangebot wieder zurückgezogen. Er hat es ganz gut verkraftet.~
+Aidan, der Geist eines gefallenen Paladins, ist mir wieder erschienen. Obwohl ich zugestimmt habe, ihm zu helfen, kommt mir die Aufgabe jetzt ungelegen. Ich habe mein Hilfsangebot wieder zurückgezogen. Er schien es gut aufgenommen zu haben.~
 @165  = ~Ein uralter und ruheloser Geist
 
-Endlich mehr Informationen über den Dieb von dem Aidan sprach. Er war zu Lebzeiten ein Hexenmesiter namens Alchra Diagott, doch Aidan ist der Annahme, dass er ein Leichnam wurde. Er wurde zuletzt gesehen, als er das Reich der Dunkelheit betrat, aber Aidan war sich nicht sicher, ob Diagott immer noch dort ist. Er sagte, dass ich meine Augen offen halten sollte.~
+Endlich gibt es mehr Informationen über den Dieb von dem Aidan sprach. Er war zu Lebzeiten ein Hexenmesiter namens Alchra Diagott, doch Aidan ist der Annahme, dass er ein Leichnam wurde. Er wurde zuletzt gesehen, als er das Reich der Dunkelheit betrat, aber Aidan war sich nicht sicher, ob Diagott immer noch dort ist. Er sagte, dass ich meine Augen offen halten sollte.~
 @166  = ~Ein uralter und ruheloser Geist
 
 Es war sehr freundlich von Aidan, mir so viele Informationen über die Faust des Amaunator zu geben, obwohl er nicht sehr erfreut darüber zu sein schien, dass ich sie behalten wollte. Er wünschte mir den Fluch der Untoten, aber sein Fluch macht mir keine Angst. Zumindest werde ich ihn nie wieder sehen.~
@@ -209,66 +209,66 @@ Der verfluchte Geist zeigte sich wieder und wollte sich unterhalten, aber ich ha
 Bei unserer heutigen nächtlichen Unterhaltung riet mir Aidan, den Streitkolben zu dem verfallenen Tempel des Amaunator zu bringen und ihn in die Arme der Statue zu legen. Das sollte nicht zu schwierig werden.~
 @173  = ~Ein uralter und ruheloser Geist
 
-Als ich Aidan sagte, dass ich ihm helfen würde den Streitkolben zurück zu bringen, hatte ich keine Ahnung, dass er mir folgen würde. Heute Nacht wurde es mir zu viel und werde seine Aufgabe wahrscheinlich nicht mehr erledigen.~
+Als ich Aidan sagte, dass ich ihm helfen würde den Streitkolben zurück zu bringen, hatte ich keine Ahnung, dass er mir folgen würde. Heute Nacht wurde es mir zu viel. Ich habe ihn weggeschickt, ohne Bestätigung, dass ich seine Aufgabe erledigen werde.~
 @174  = ~Ein uralter und ruheloser Geist
 
-Der gefallene Paladin des Amaunator erschien mir heute Nacht wieder. Er erzählte mir wieder von seinem traurigen Schicksal und meine Geduld wurde schliesslich überstrapaziert. Ich glaube nicht, dass er wieder erscheinen wird.~
+Der gefallene Paladin des Amaunator erschien mir heute Nacht wieder. Er erzählte mir wieder von seinem traurigen Schicksal und meine Geduld wurde schließlich überstrapaziert. Ich glaube nicht, dass er wieder erscheinen wird.~
 @175  = ~Ein uralter und ruheloser Geist
 
-Der gefallene Paladin des Amaunator erschien mir heute Nacht wieder. Er langweilte mich wieder mit seinen verschrobenen Moralvorstellungen und ich schickte ihn schliesslich weg. Ich glaube nicht, dass er mich wieder belästigen wird.~
+Der gefallene Paladin des Amaunator erschien mir heute Nacht wieder. Er langweilte mich erneut mit seinen verschrobenen Moralvorstellungen und ich schickte ihn schließlich weg. Ich glaube nicht, dass er mich wieder belästigen wird.~
 @176  = ~Ein uralter und ruheloser Geist
 
-Endlich ist Aidan, der einstige Paladin des Amaunator frei. Ich habe ihm geholfen, seine letzte Aufgabe zu erfüllen und habe den heiligen Streitkolben, die Faust des Amaunator, in die Arme der Statue im verfallenen Tempel seinen toten Gottes gelegt. Mit ein wenig Glück wird sein trauriges Schicksal bald zu Ende sein.~
+Endlich ist Aidan, der einstige Paladin des Amaunator, frei. Ich habe ihm geholfen, seine letzte Aufgabe zu erfüllen und habe den heiligen Streitkolben, die Faust des Amaunator, in die Arme der Statue im verfallenen Tempel seinen toten Gottes gelegt. Mit etwas Glück wird sein Schicksal nun gütiger sein als die Zeit des einsamen, langen Umherirrens.~
 @177  = ~Wollt Ihr mir in dieser letzten Nacht nochmals Gesellschaft leisten?~
 @178  = ~Ja, sehr gerne.~
-@179  = ~Das würde ich gerne, Aidan, aber ich muss jetzt wirklich gehen.~
+@179  = ~Das würde ich gerne, Aidan, aber ich muss wirklich gehen.~
 @180  = ~Ich kann nicht.~
-@181  = ~Bester <PRO_LADYLORD> <CHARNAME>, es ist an der Zeit.~ [b!blank]
-@182  = ~Mein Freund, ich danke Euch, dass Ihr mir endlich meinen Frieden gebracht habt und mit mir den letzten Sonnenaufgang ansehen wollt. Mögen die Götter Euch freundlich gesonnen sein und gehabt Euch wohl, mein bester Freund. Lebt wohl.~ [baidan20] ~Meine Freundin, ich danke Euch, dass Ihr mir endlich meinen Frieden gebracht habt und mit mir den letzten Sonnenaufgang ansehen wollt. Mögen die Götter Euch freundlich gesonnen sein und gehabt Euch wohl, meine beste Freundin. Lebt wohl.~ [baidan20]
-@183  = ~Ich grüsse Euch, <PRO_LADYLORD> <CHARNAME>! Meine letzte Hoffnung hatte mich verlassen, aber Ihr habt meine Aufgabe erfüllt und mich endlich erlöst!~ [baidan07]
-@184  = ~Das macht uns nicht zu Freunden oder ähnlichem.~
+@181  = ~Hochgeschätzter <CHARNAME>, <PRO_LADYLORD>, es ist an der Zeit.~ [b!blank] ~Hochgeschätzte <CHARNAME>, <PRO_LADYLORD>, es ist an der Zeit.~ [b!blank] 
+@182  = ~Mein Freund, ich danke Euch, dass Ihr mir meinen lang ersehnten Frieden gebracht habt und mit mir bis zum letzten Sonnenaufgang verblieben seid. Mögen die Götter Euch freundlich gesonnen sein und gehabt Euch wohl, mein bester Freund. Lebt wohl.~ [baidan20] ~Meine Freundin, ich danke Euch, dass Ihr mir meinen lang ersehnten Frieden gebracht habt und mit mir bis zum letzten Sonnenaufgang verblieben seid. Mögen die Götter Euch freundlich gesonnen sein und gehabt Euch wohl, meine beste Freundin. Lebt wohl.~ [baidan20]
+@183  = ~Ich grüße Euch, <PRO_LADYLORD> <CHARNAME>! Meine letzte Hoffnung hatte mich verlassen, aber Ihr habt meine Aufgabe erfüllt und mir meine lang ersehnte Erlösung gebracht!~ [baidan07]
+@184  = ~Das macht uns trotzdem nicht zu Freunden.~
 @185  = ~Zu diesem Zeitpunkt schien es mir eine gute Idee zu sein.~
-@186  = ~Nach langem Nachdenken entschied ich mich dafür, dass es das Richtige war.~
-@187  = ~Nichtsdestotrotz bin ich dankbar.~
+@186  = ~Nach langem Nachdenken kam ich zu dem Schluss, dass es das Richtige war.~
+@187  = ~Trotzdem bin ich dankbar.~
 @188  = ~Ich bin froh, dass Eure impulsive Natur dieses glückliche Resultat hervorbrachte. Und meine Dankbarkeit ist grenzenlos.~
-@189  = ~Ich danke Euch für Eure Grosszügigkeit und Freundlichkeit. Ich fürchte, ich werde einen wertvollen Freund vermissen, aber wenn die Wünsche eines Geistes Euch etwas bedeuten, dann wünsche ich Euch nur das Beste.~
+@189  = ~Ich danke Euch für Eure Großzügigkeit und Freundlichkeit. Ich habe leider verpasst, in Euch den wertvollen Freund zu finden, der Ihr anscheinend hättet sein können, aber wenn der Segen eines Geistes Euch auch nur das geringste bedeutet, dann soll Euch der meine bis ans Ende Eurer Tage begleiten.~
 @190  = ~Mögen die Götter Euch segnen und Euch beschützen. Lebt wohl.~
 @191  = ~Ein uralter und ruheloser Geist
 
 Endlich ist Aidan, der einstige Paladin des Amaunator erlöst. Entgegen meiner früheren Neigung diese Aufgabe nicht zu erledigen, habe ich ihm geholfen seine letzte Aufgabe zu erfüllen und den heiligen Streitkolben, die Faust des Amaunator, in die Arme der Statue im verfallenen Tempel seines toten Gottes gelegt. Mit ein wenig Glück wird sein trauriges Schicksal bald zu Ende sein.~
-@192  = ~Ich grüsse Euch, <PRO_LADYLORD>! Ihr kennt mich nicht, aber Ihr habt mir einen grossen Gefallen erwiesen, und ich möchte Euch hier dafür danken, bevor ich diese Welt verlasse.~ [baidan08]
+@192  = ~Ich grüße Euch, <PRO_LADYLORD>! Ihr kennt mich nicht, aber Ihr habt mir einen großen Gefallen erwiesen, und ich möchte Euch hier dafür danken, bevor ich diese Welt verlasse.~ [baidan08]
 @193  = ~Es schien mir das Richtige zu diesem Zeitpunkt zu sein.~
-@194  = ~Stellt Euch das einmal vor!~
+@194  = ~Sowas aber auch!~
 @195  = ~Was habe ich getan?~
 @196  = ~Ihr habt mich von der ewigen Wanderung befreit, durch Eure Freundlichkeit die Faust des Amaunator auf dem heiligen Altar zu plazieren.~
-@197  = ~Vor langer Zeit versagte ich in meiner Pflicht das selbe zu tun. Im Leben war ich ein Paladin von Amaunator und hatte den Auftrag, den Streitkolben zu dem Tempel zu bringen. In der Annahme, dass die mir gestellte Aufgabe irgendwie unter meiner Würde war, verweilte ich auf meinem Weg und wurde in meiner Torheit bestraft.~
+@197  = ~Vor langer Zeit versagte ich in meiner Pflicht ebendies zu tun. Im Leben war ich ein Paladin von Amaunator und hatte den Auftrag, den Streitkolben zu dem Tempel zu bringen. In der Annahme, dass die mir gestellte Aufgabe irgendwie unter meiner Würde war, verweilte ich auf meinem Weg und wurde durch meine Torheit bestraft.~
 @198  = ~Ihr habt die Faust des Amaunator gefunden und sie zu ihrem letzten Ruheplatz gebracht.~
-@199  = ~Ich weiss zwar nicht welche Beweggründe Euch dazu getrieben haben die Reliquie zu finden, aber ich danke Euch. Eure Grosszügigkeit hat mir eine Ewigkeit der Ruhelosigkeit erspart. Dafür danke ich Euch sehr herzlich.~
+@199  = ~Ich kenne die Versuchung nicht, die Euch verleitet hat, die Reliquie mitzunehmen, aber ich danke Euch. Eure Großzügigkeit hat mir eine Ewigkeit der Ruhelosigkeit erspart. Dafür danke ich Euch sehr herzlich.~
 @200  = ~Aber sagt mir, wenn Ihr wollt... Woher wusstet Ihr, dass man die Reliquie auf den heiligen Altar legen muss?~
-@201  = ~Es schien mir, das Richtige zu sein. Ich kann es nicht anders erklären.~
+@201  = ~Es schien mir das Richtige zu sein. Ich kann es nicht anders erklären.~
 @202  = ~Ich glaube, ich habe darüber in einem religiösen Text gelesen.~
 @203  = ~Es war ein Versehen, wirklich. Ich wollte etwas anderes dorthin legen.~
 @204  = ~Nennt es eine göttlich Eingebung, wenn Ihr wollt, weil ich absolut keine Ahnung hatte.~
 @205  = ~Zu Lebzeiten nannte man mich Aidan und das antike Netheril war meine Heimat.~
-@206  = ~Vielleicht befindet sich das Vermächtnis Amaunators immer noch in dieser Welt, welches Eure Schritte leitete. Ich werde Eure Liebenswürdigkeit nicht ablehnen und das Geschenk, das Ihr mir gegeben habt nicht ablehnen.~
+@206  = ~Vielleicht befindet sich das Vermächtnis Amaunators immer noch in dieser Welt, welches Eure Schritte leitete. Ich werde Eure Güte nicht verneinen und das Geschenk, das Ihr mir gegeben habt, nicht ablehnen.~
 @207  = ~Alt und verstaubt muss dieser Text gewesen sein, der von solch einer alten und fast vergessenen Reliquie berichtete. Dennoch bin ich den Umständen dankbar, welche auch immer Eure Handlungen beeinflusst haben.~
-@208  = ~Dann danke ich dem Schicksal, welches Eure Hand geführt hat und diese Tat vollbringen liesset.~
-@209  = ~Ich bedanke mich bei Euch für meine Freiheit und wünsche Euch Gesundheit und Glück bis zum Ende aller Tage.~
+@208  = ~Dann danke ich dem Schicksal, welches Eure Hand geführt hat, denn in Eurer Unbekümmertheit habt Ihr mich erlöst.~
+@209  = ~Ich bedanke mich bei Euch für meine Freiheit und wünsche Euch Gesundheit und Glück bis zum Ende Eurer Tage.~
 @210  = ~Ein uralter und ruheloser Geist
 
 Meine Intuition hat sich bezahlt gemacht. Ich habe Aidan, dem einstigen Paladin des Amaunator dabei geholfen, seine letzte Aufgabe zu erfüllen und habe den heiligen Streitkolben, die Faust des Amaunator, in die Arme der Statue in dem verfallenen Tempel seines toten Gottes gelegt. Über seine Überraschung werde ich noch einige Zeit schmunzeln.~
-@211  = ~Mein <PRO_LADYLORD> <CHARNAME>, wollt ihr mich selbst jetzt noch betrügen? Ihr wart in dem Tempel, habt aber immer noch den Streitkolben.~ [baidan09]
+@211  = ~<CHARNAME>, <PRO_LADYLORD>, wollt Ihr mich selbst jetzt noch betrügen? Ihr wart in dem Tempel, habt aber immer noch den Streitkolben.~ [baidan09]
 @212  = ~Ja, das war der Plan.~
 @213  = ~Kann ich zuerst rasten?~
 @214  = ~Nein, ich plane zurückzukehren, aber ich muss damit zuerst etwas erledigen.~
-@215  = ~Verzeiht mir, Aidan, ich vergass! Ich gehe jetzt zurück und lege ihn dorthin.~
-@216  = ~Ihr widerwärtiger Abschaum! Mögen die Flüche aller Götter Euch treffen!~
+@215  = ~Verzeiht mir, Aidan, ich vergaß! Ich gehe jetzt zurück und lege ihn dorthin.~
+@216  = ~Ihr widerwärtiger Abschaum! Mögen die Götter Euch verfluchen!~
 @217  = ~Ein uralter und ruheloser Geist
 
 Ich kann selbst kaum glauben, dass Aidan wirklich geglaubt haben könnte, dass ich seine idiotische Aufgabe für ihn erledige. Ich habe den Streitkolben für mich selbst behalten und Aidan weggeschickt. Er schien nicht sehr erfreut gewesen zu sein.~
 @218  = ~Dann werde ich noch ein wenig länger geduldig sein.~
 @219  = ~Natürlich. Ich werde noch etwas länger geduldig sein.~
-@220  = ~Ich grüsse Euch, <PRO_LADYLORD> <CHARNAME>. Kann ich mit Euch über mein Anliegen sprechen?~ [baidan10]
+@220  = ~Ich grüße Euch, <PRO_LADYLORD> <CHARNAME>. Kann ich mit Euch über mein Anliegen sprechen?~ [baidan10]
 @221  = ~Nein, ich habe es mir anders überlegt. Jeder will von mir, dass ich Probleme löse und das geht mir langsam auf die Nerven.~
 @222  = ~Jetzt ist nicht gerade die richtige Zeit für eine Unterhaltung.~
 @223  = ~Ich dachte schon, Ihr würdet nicht mehr erscheinen. Was kann ich für Euch tun?~
@@ -285,29 +285,29 @@ Ich kann selbst kaum glauben, dass Aidan wirklich geglaubt haben könnte, dass ic
 @234  = ~Der Sonnengott aus Netheril? Ja, ich habe von ihm gehört. Ihr sagtet, dass Ihr sein Paladin wart. Oder gibt es da noch mehr?~
 @235  = ~Ausser, dass Ihr sein Anhänger wart, nichts.~
 @236  = ~Was hat das mit Eurer Aufgabe zu tun?~
-@237  = ~Wenn das in einer Theologiestunde enden sollte, werde ich nicht weiter zuhören.~
+@237  = ~Wenn das eine Lektion über Theologie wird, werde ich nicht weiter zuhören.~
 @238  = ~Würdet Ihr bitte zur Sache kommen? Die Zeit drängt.~
-@239  = ~Eine mächtige Waffe wurde für Amaunator geschaffen, ein Streitkolben von grosser Macht. In ihm war die Macht gebündelt, jene zu zerstören, die zwischen Leben und Tod umherwandeln, so wie ich es tue, aber auch die Macht Sonnenstrahlen zweimal am Tag zu erzeugen.~
-@240  = ~Dieser Streitkolben, die Faust des Amaunator genannt, wurde in meine Obhut gegeben, um ihn zu seinen Dienern in einem Tempel nicht weit von hier zu bringen. Der Tempel ist aber schon längst in Vergessenheit geraten.~
-@241  = ~In meinem Stolz ignorierte ich die Wichtigkeit der Aufgabe die mir gestellt wurde und dachte, dass dies eine Aufgabe für die niedereren Diener meines Gottes war. Anstatt mich gleich an meine Aufgabe zu machen, liess ich die Zeit verstreichen und bewunderte die Orte an denen ich verbeikam.~
-@242  = ~Es kam wie es kommen musste. Ich kam an eine Lichtung in den Wäldern, die heute Tethyr heissen und wurde von musizierenden, wunderschönen Mädchen aufgehalten. Sie waren unwiderstehlich und anziehend, als wären sie ein Teil des Waldes. Ich hielt inne, um ihnen zu lauschen und geriet in den Bann ihrer wunderschönen Gesänge. Es ging etwas magisches von ihnen aus und ich war gebannt! Sehr lange verweilte ich unter diesen Bäumen, unzählige Tage, während die Mädchen weiter unter den Bäumen tanzten und sangen.~
-@243  = ~Meine Untätigkeit wurde mir zum Schicksal, denn ein böser Hexenmeister fand mich dort und nahm das an sich, was ich behütete.~
-@244  = ~Und in einem Moment der Unachtsamkeit streckte er mich nieder wo ich lag, und nahm mir das, was ich abliefern sollte.~
-@245  = ~Seit diesem Tag konnte ich keine Ruhe mehr finden, da ich dazu verdammt wurde, durch die Lande zu streifen, bis die Faust des Amaunator in den Händen der Statue des Tempels liegt.~
-@246  = ~Und dies ist die Aufgabe um die ich Euch bitten möchte: Das verlorene heilige Artefakt wiederzufinden und zu dem Tempel der in die Schatten eingetaucht ist zurückzubringen.~
+@239  = ~Eine mächtige Waffe wurde für Amaunator geschaffen, ein Streitkolben von großer Macht. In ihm war die Macht gebündelt, jene zu zerstören, die zwischen Leben und Tod umherwandeln, so wie ich es tue, aber auch die Macht Sonnenstrahlen zweimal am Tag zu erzeugen.~
+@240  = ~Dieser Streitkolben, die Faust des Amaunator genannt, wurde in meine Obhut gegeben, um ihn zu seinen Anhängern in einem Tempel nicht weit von hier zu bringen. Der Tempel ist aber schon längst in Vergessenheit geraten.~
+@241  = ~In meinem Stolz ignorierte ich die Wichtigkeit des Unterfangens das mir zugeteilt war und dachte, dass dies eher eine Aufgabe für die niedereren Diener meines Gottes wäre. Anstatt mich gleich an die Erfüllung zu machen, ließ ich Zeit verstreichen und verweilte an vielen Orten, an denen ich verbeikam.~
+@242  = ~So geschah es, dass ich an eine Lichtung in den Wäldern kam, die heute Tethyr heißen und auf musizierende, wunderschöne junge Frauen traf. Sie waren anziehend und magisch, als wären sie dem Wald selbst entsprungen. Ich hielt inne, um ihnen zu lauschen und ihnen beim Weben ihrer Zauber zuzusehen. Und Zauber waren es, ich war gebannt! Sehr lange verweilte ich unter diesen Bäumen, unzählige Tage, während die Maiden weiter unter den Bäumen tanzten und sangen.~
+@243  = ~Die Freiheit die ich mir nahm wurde mir zum Schicksal, denn ein böser Hexenmeister fand mich dort und wurde dem gewahr, das ich behüten sollte, und wusste, dass es Verderben für seine Art bedeutete.~
+@244  = ~So unvorbereitet, wie er mich vorfand, so streckte er mich nieder wo ich lag und nahm mir das, was abzuliefern meine Aufgabe war.~
+@245  = ~Seit diesem Tag konnte ich keine Ruhe mehr finden, dazu verdammt durch die Lande zu streifen, bis die Faust des Amaunator in den Händen der Statue des Tempels liegt.~
+@246  = ~Und dies ist die Aufgabe um die ich Euch bitten möchte: Das heilige Artefakt zurück zu dem vergessenen Tempel zu bringen.~
 @247  = ~Was sagt Ihr dazu? Ja oder Nein?~
 @248  = ~Ja.~
 @249  = ~Nein.~
 @250  = ~Weder das Eine noch das Andere.~
 @251  = ~Amaunator war der Sonnengott, der in den Reichen angebetet wurde, denn er brachte Ordnung in das Chaos und Gerechtigkeit anstatt Anarchie. Seine Hand war es, die anordnete, dass seine Anhänger alle Verträge aufzeichneten, besiegelten und beglaubigten. Seine Diener wahrten das Gesetz. Es wurde erzählt, dass er selbst über die Zeit Einfluss gehabt haben soll.~
-@252  = ~Als Netherils Städte mit den vielen Türmen nach der Torheit von Karsus vom Himmel fielen, wurde Amaunator von seinen Anhängern verlassen, weil er diese Katastrophe zuliess. Nur eine handvoll treuer Gefolgsleute, die Bruderschaft der Sonne, blieb ihm bis zum heutigen Tag treu ergeben.~
+@252  = ~Als Netherils Städte mit den vielen Türmen nach der Torheit von Karsus vom Himmel fielen, wurde Amaunator von seinen Anhängern verlassen, weil er diese Katastrophe zuließ. Nur eine handvoll treuer Gefolgsleute, die Bruderschaft der Sonne, blieb ihm bis zum heutigen Tag treu ergeben, doch sie dienen auch anderen Göttern neben Amaunator.~
 @253  = ~Jetzt, da Ihr über Amaunator etwas mehr wisst, habt Ihr vielleicht Interesse daran, Euch die Aufgabe anzuhören, die ich Euch stellen möchte?~
 @254  = ~Sicher doch.~
 @255  = ~Nein, Ihr habt schon zu viel von meiner Zeit verschwendet.~
 @256  = ~Müsst Ihr mir dies jetzt erzählen? Es ist schon ziemlich spät.~
 @257  = ~Nein, <PRO_LADYLORD>, Ihr braucht nichts über Amaunator zu wissen um mir zu helfen, aber meine Geschichte solltet Ihr Euch anhören.~
 @258  = ~Oh, fahrt fort.~
-@259  = ~Für Euch vielleicht und natürlich für mich. Ich werde es Euch erzählen.~
+@259  = ~Für Euch vielleicht und ja, für mich auch. Ich werde es Euch erzählen.~
 @260  = ~Das sind wundersame Neuigkeiten! Ihr seid mir in der Tat in der Stunde der Not geschickt worden! Ich danke Euch, freundlicher Fremder!~ ~Das sind wundersame Neuigkeiten! Ihr seid mir in der Tat in der Stunde der Not geschickt worden! Ich danke Euch, freundliche Fremde!~
 @261  = ~Ich werde Euch wieder wie in dieser Nacht erscheinen. Wenn die Zeit des alten Tages zu Ende geht und zu dem neuen Tag wechselt, werde ich Euch wieder erscheinen. Ein Läuten von Glöckchen wird mich ankündigen, um Euch nicht zu erschrecken.~
 @262  = ~Wartet einen Moment, Geist! Dürfte ich Euch eine Frage stellen?~
@@ -315,7 +315,7 @@ Ich kann selbst kaum glauben, dass Aidan wirklich geglaubt haben könnte, dass ic
 @264  = ~Lebt wohl, Geist.~
 @265  = ~Und redet das nächste Mal bitte nicht mehr so geschwollen.~
 @266  = ~Wenn ich es mir recht überlege, möchte ich Euch diesen Gefallen eigentlich nicht tun.~
-@267  = ~Dann werden meine Wanderungen wohl kein Ende mehr finden. Ich entbiete Euch ein lebe wohl.~
+@267  = ~Dann werden meine Wanderungen wohl kein Ende mehr finden. Ich sage Euch Lebewohl.~
 @268  = ~Dann werde ich wie in dieser Nacht zu Euch zurückkehren, wenn die Zeit zwischen dem alten und dem neuen Tag steht, und vielleicht werdet Ihr mein Anliegen nochmals überdenken. Ein Läuten von Glöckchen wird mich ankündigen, um Euch nicht zu erschrecken.~
 @269  = ~Was bedeutet schon Zeit für einen Geist? Doch ich werde mich darum bemühen, mich kurz zu fassen.~
 @270  = ~Was möchtet Ihr über mich wissen?~
@@ -327,19 +327,19 @@ Ich kann selbst kaum glauben, dass Aidan wirklich geglaubt haben könnte, dass ic
 @276  = ~Das ist alles, was ich wissen wollte.~
 @277  = ~Friede sei mit Euch, <PRO_LADYLORD>, bis zu unserem nächsten Treffen.~
 @278  = ~Ich habe nie gelernt, anders zu sprechen. Alle Kreaturen die unter der Sonne wandeln wachsen, gedeihen und lernen. Ich jedoch nicht mehr. Die Zeit schreitet nicht für mich voran. Die Sprachen haben sich geändert, aber ich habe nicht die Macht, die meine zu ändern.~
-@279  = ~Netheril war schon sehr alt, als ich geboren wurde, <PRO_LADYLORD>. Es war ein Imperium, das von den Göttern errichtet wurde, und wie es scheinte, nur durch die Macht der Magie entstanden war. Es war in der Tat in den Himmeln geboren, da ihre Städte auf den Schultern von Bergen ruhten, die getrennt von der Erde, im Himmel schwebten.~
+@279  = ~Netheril war schon sehr alt, als ich geboren wurde, <PRO_LADYLORD>. Es war ein Imperium, das von den Göttern errichtet wurde, und wie es scheinte, nur durch die Macht der Magie entstanden war. Es war in der Tat in den Himmeln geboren, da ihre Städte auf den Schultern von Bergen ruhten, die getrennt von der Erde im Himmel schwebten.~
 @280  = ~Die Magie befreite ihre Bewohner von allen Lasten und Netheril schlief. Und während sie schlief, träumte sie.~
 @281  = ~Unstillbar war der Durst nach Magie in Netheril und es war ihre Dekadenz, die den Zorn der Phaerimm erweckten, die sie bekriegten. Die Phaerimm entzogen Netheril die Magie und die Länder wurden öde.~
-@282  = ~Und Karsus, der selbst ein Gott sein wollte, versuchte von Mystra die Göttlichkeit zu stehlen, wobei jeglich Magie Netheril verliess. Ohne die Magie, die sie in den Lüften hielt, stürzten die Städte Netherils vom Himmel und vergingen.~
+@282  = ~Und dann versuchte Karsus, der sich selbst mit einem Gott verglich, die Göttlichkeit von Mystral zu stehlen, worauf jeglich Magie Netheril verließ. Ohne die Magie, die sie in den Lüften hielt, stürzten die Städte Netherils vom Himmel und erschlugen dabei alle, die sich darin befanden.~
 @283  = ~Ich bedauere es, dass ich die Zerstörung meines Volkes überdauert habe, denn sie sind gegangen und ich verweile immer noch hier.~
-@284  = ~Ihr kennt Amaunator nicht, sonst würdet Ihr nicht danach fragen. Er ist der Herr der Gerechtigkeit und ich habe bei meiner Aufgabe versagt. Gnade ist nicht gerade seine Natur, <PRO_LADYLORD>, aber er ist sehr gerecht. Das Urteil, welches ich bekommen habe, ist dennoch in der Tat sehr hart.~
+@284  = ~Ihr kennt Amaunator nicht, sonst würdet Ihr nicht danach fragen. Er ist der Herr der Gerechtigkeit und ich habe bei meiner Aufgabe versagt. Gnade ist nicht seine Natur, <PRO_LADYLORD>, aber er ist überaus gerecht. Das Urteil, welches mich nach meiner Verfehlung erwartet, ist in der Tat sehr hart.~
 @285  = ~Das werde ich Euch das nächste Mal erzählen, wenn wir uns wieder treffen.~
-@286  = ~Wir befinden uns an einem Ort ausserhalb jeglicher Zeit, <PRO_LADYLORD>, wo sie nicht existiert und Eure treuen Gefährten der Situation nicht gewahr werden. Wenn unsere Zeit vorüber ist, ist kaum ein Lidschlag vergangen.~
-@287  = ~Ihr wollt wissen, warum ich traurig bin? Ein Mann, der zusehen musste wie seine Mission fehlschlug, die Zerstörung seiner Nation mit ansehen musste und den Tod seines Gottes verarbeiten musste?~
-@288  = ~Ja, <PRO_LADYLORD>, und Ihr könntet es wohl, denn ich, ich trauere um all diese Dinge, trotzdem dass keines meiner Hand entsprungen ist, außer der ersten. Es ist die Ewigkeit vor mir, die ich beklage und die Furcht die mich um den Schlaf bringt, all die vielen langen Jahre.~
+@286  = ~Wir befinden uns an einem Ort außerhalb jeglicher Zeit, <PRO_LADYLORD>, wo sie nicht existiert und Eure treuen Gefährten der Situation nicht gewahr werden. Wenn unsere gemeinsame Zeit vorüber ist, wird kaum ein Moment vergangen sein.~
+@287  = ~Ihr wollt wissen, warum ich traurig bin? Ein Mann, der den Fehlschlag seiner Mission erlebte, der Zerstörung seiner Nation zusehen musste und Zeuge wurde, wie sein Gott starb?~
+@288  = ~Ja, <PRO_LADYLORD>, und Ihr fragt Euch zu Recht, denn obwohl ich um all diese Dinge trauere, so ist doch keines davon durch meine Hand geschehen, außer dem ersten. Es ist die Ewigkeit vor mir, die ich beklage und die Furcht die mich all die vielen langen Jahre um den Schlaf gebracht hat.~
 @289  = ~Wollt Ihr sonst noch etwas wissen?~
 @290  = ~Nein, das war alles.~
-@291  = ~Heil Euch, <PRO_LADYLORD>. Soll ich Euch mehr von der Faust des Amaunator erzählen?~ [baidan11]
+@291  = ~Seid gegrüßt, <PRO_LADYLORD>. Soll ich Euch mehr von der Faust des Amaunator erzählen?~ [baidan11]
 @292  = ~Ihr habt mich erschreckt!~
 @293  = ~Ja, erzählt mir mehr.~
 @294  = ~Könnt Ihr nicht zu einer günstigeren Zeit kommen?~
@@ -348,13 +348,13 @@ Ich kann selbst kaum glauben, dass Aidan wirklich geglaubt haben könnte, dass ic
 @297  = ~Als wir das letzte Mal miteinander sprachen, erzählte ich Euch von der Faust des Amaunator und ihrem Diebstahl. Jedoch habe ich Euch noch nicht erzählt, wo sie sich zurzeit befindet. Seid Ihr immer noch gewillt, mir zu helfen?~
 @298  = ~Ja, ich werde Euch helfen. Sagt mir, wo sie ist.~
 @299  = ~Warum sagt Ihr mir nicht wo sie ist und ich werde Euch sagen, wenn ich sie gefunden habe?~
-@300  = ~Könnt Ihr denn nicht jetzt schon damit herausrücken?~
+@300  = ~Warum sagt Ihr mir nicht einfach alles?~
 @301  = ~Ich werde ehrlich zu Euch sein. Ich möchte Euch nicht mehr helfen.~
 @302  = ~Meine Macht ist nicht unbegrenzt, <PRO_LADYLORD>. Es liegt nicht in meiner Macht zu kommen und zu gehen wann ich will. In der Mitternachtsstunde, wo der Schleier zwischen der Welt der Lebenden und der Toten am dünnsten ist, kann ich die Barriere für kurze Zeit durchdringen.~
 @303  = ~Dann werde ich Euch nicht mehr behelligen. Geht in Frieden.~
-@304  = ~Sehr schön. Ihr werdet Euch daran erinnern, dass ich durch einen bösen Hexenmeister starb? Ich war in den Tagen, die meinem Tod folgten, nicht müßig. Sogar als mein sterblicher Körper verwesend unter den Blättern lag, verfolgte ihn mein Geist.~
-@305  = ~Mit der Zeit bekam ich auch seinen Namen heraus: Alchra Diagott. Seine Macht wurde immer grösser, ebenso auch sein Wissen. Er überlistete sogar den Tod, indem er in seinem Machtdurst ein Untoter wurde. In diesem Stadium entdeckte er mich schliesslich, denn kein Geist kann sich vor einem Untoten verstecken, und hinderte mich an meinen nächtlichen Beobachtungen.~
-@306  = ~Ich folgte ihm dennoch für einige Zeit und floh sobald er mich bemerkte. Doch sein untotes Dasein war anders wie meines. Ich war ganz sicher tot und wurde zu einem Schatten, aber er lebte immer noch und wurde nicht eins mit der Astralebene, in der ich mich befinde. Er ging in ein gewaltiges Reich, wo das Licht der Sonne niemals die Dunkelheit zerstreut.~
+@304  = ~Nun gut. Ihr werdet Euch daran erinnern, dass ich durch einen bösen Hexenmeister starb? Ich war in den Tagen, die meinem Tod folgten, nicht müßig. Sogar als mein sterblicher Körper verwesend unter den Blättern lag, verfolgte ihn mein Geist.~
+@305  = ~Mit der Zeit erfuhr ich auch seinen Namen: Alchra Diagott. Seine Macht wurde immer größer, ebenso auch sein Wissen. Er überlistete sogar den Tod, indem er in seinem Machtdurst ein Untoter wurde. In diesem Stadium entdeckte er mich schließlich, denn kein Geist kann sich vor einem Untoten verstecken, und hinderte mich an meinen nächtlichen Beobachtungen.~
+@306  = ~Ich folgte ihm dennoch für einige Zeit und floh sobald er mich bemerkte. Doch sein untotes Dasein war anders als meines. Ich war ganz sicher tot bevor ich zu einem Schatten wurde, aber er lebte immer noch und wurde nicht eins mit der Astralebene, in der ich mich befinde. Er ging in ein gewaltiges Reich, wo das Licht der Sonne niemals die Dunkelheit zerstreut.~
 @307  = ~In dieser Zuflucht traute ich mich nicht, ihn weiter zu verfolgen und ich verlor seine Spur. Ob er sich noch dort befindet oder nicht, kann ich nicht sagen, aber ich würde ihn dort suchen, falls Ihr Euch einmal dort befinden solltet.~
 @308  = ~Findet ihn und Ihr werdet auch die Reliquie finden! Werdet Ihr nach ihr suchen?~
 @309  = ~Nein, ich glaube nicht.~
@@ -366,109 +366,109 @@ Ich kann selbst kaum glauben, dass Aidan wirklich geglaubt haben könnte, dass ic
 @315  = ~Verzeiht. War ein schlechter Scherz. Ich werden diesen untoten Hexenmeister für Euch finden.~
 @316  = ~Das tue ich tatsächlich!~
 @317  = ~Im Moment nicht, aber wenn ich dazu komme, werde ich nach Eurer Reliquie suchen.~
-@318  = ~Ich weiss nicht, warum ich mich darum kümmern sollte.~
+@318  = ~Ich wüsste nicht, warum ich mich darum kümmern sollte.~
 @319  = ~Hört zu, Aidan. Wenn es sich um einen Leichnam handeln sollte, dann übersteigt dies meine Fähigkeiten. Ich fürchte, ich kann Euch nicht helfen.~
-@320  = ~Und wenn ich mich als mächtig genug erweise, Euren Hexenmeister zu besiegen... Wer sagt Euch, dass ich nicht dasselbe tue und die Reliquie selbst behalte?~
-@321  = ~Ich danke Euch recht herzlich! Ich würde Euch ja gerne den Weg zu ihm weisen, aber ich verlor seine Spur, als er mich zuletzt verjagte. Er könnte sich natürlich auch wo anders befinden, seid also auf der Hut. Ich werde in einer anderen Nacht wieder zu Euch zurückkehren, um Euch über die Reliquiue etwas zu erzählen, nach der Ihr suchen sollt. Dann könnt Ihr sie von allen anderen Streitkolben unterscheiden.~
+@320  = ~Und wenn ich mich als mächtig genug erweise, Euren Totenbeschwörer zu besiegen... Wie wollt Ihr sicher sein, dass ich Euch nicht dasselbe antue und die Reliquie für mich behalte?~
+@321  = ~Ich danke Euch recht herzlich! Ich würde Euch ja gerne den Weg zu ihm weisen, aber ich verlor seine Spur, als er mich zuletzt verjagte. Er könnte sich natürlich auch wo anders befinden, seid also auf der Hut. Ich werde in einer anderen Nacht wieder zu Euch zurückkehren, um Euch über die Reliquie etwas zu erzählen, nach der Ihr suchen sollt. Dann könnt Ihr sie von allen anderen Streitkolben unterscheiden.~
 @322  = ~Möchtet Ihr noch etwas länger bleiben, Geist?~
 @323  = ~Lebt wohl, Aidan.~
 @324  = ~(seufz) Ich schätze, wir werden uns dann wohl bald wieder sehen.~
 @325  = ~Könnt Ihr mir nicht alles auf einmal erzählen, anstatt mir das Ganze in kleinen Häppchen zu servieren?~
 @326  = ~Was auch immer. Lasst mich einfach das tun, was ich vor Eurem Erscheinen getan hatte.~
-@327  = ~Grossartig! Dann wisst Ihr ja bereits, wo Ihr suchen müsst. Solltet Ihr den Streitkolben dort finden, dann seid so freundlich und säubert ihn, bevor Ihr ihn auf den Altar legt.~
-@328  = ~Ich würde mir wünschen, dass Ihr es tut, um einem ruhelosen Geist Frieden zu geben und ein heiliges Artefakt an seinen rechtmässigen Platz zu bringen.~
+@327  = ~Großartig! Dann wisst Ihr ja bereits, wo Ihr suchen müsst. Solltet Ihr den Streitkolben dort finden, dann seid so freundlich und säubert ihn, bevor Ihr ihn auf den Altar legt.~
+@328  = ~Ich würde mir wünschen, dass Ihr es tut, um einem ruhelosen Geist Frieden zu geben, sollte Euch der Gedanke, ein heiliges Artefakt an seinen rechtmässigen Platz zu bringen nicht genug Motivation sein.~
 @329  = ~Ihr habt Recht. Ich werde es tun.~
 @330  = ~Nein, ich habe nicht vor, Leichname zu jagen, geschweige denn, Euch zu helfen.~
-@331  = ~Keineswegs, würde ich denken. Ihr wisst was ich suche und Ihr wisst, dass ich auf der materiellen Ebene keine Macht habe. Wenn Ihr mich betrügen würdet, hätte ich keine Handhabe, Euch daran zu hindern. Aber ich würde Euch bis ans Ende Eurer Tage verfluchen. Ist dies wirklich das was Ihr wollt?~
+@331  = ~Das kann ich nicht, fürchte ich. Ihr wisst was ich suche und Ihr wisst, dass ich auf der materiellen Ebene keine Macht habe. Wenn Ihr mich betrügen würdet, hätte ich keine Handhabe, Euch daran zu hindern. Aber ich würde Euch bis ans Ende Eurer Tage verfluchen. Wollt Ihr das wirklich?~
 @332  = ~Nein, Aidan, ich werde Euch helfen.~
 @333  = ~Wir werden es sehen.~
 @334  = ~Dann habt Ihr Euch zum zweiten Male selbst betrogen, den genau das plane ich zu tun.~
-@335  = ~Ich wandelte lange durch diese Welt, bis meine Torheit mich ihr entriss. Zu meinen Lebzeiten konnte ich mit Witzen noch etwas anfangen. Jetzt, in meinem untoten Dasein, kenne ich nichts anderes als das lange, stille Dahingehen der Jahre. Macht Euch nicht über mich lustig.~
+@335  = ~Ich wandelte lange durch diese Welt, bis meine Torheit mich ihr entriss, <PRO_LADYLORD>. Zu meinen Lebzeiten konnte ich mit Witzen noch etwas anfangen. Jetzt, in meinem untoten Dasein, kenne ich nichts anderes als das lange, stille Dahingehen der Jahre. Bitte, macht Euch nicht über mich lustig.~
 @336  = ~Wollt Ihr mir denn helfen, oder mich beschämen?~
 @337  = ~Ich werde Euch helfen, Aidan.~
 @338  = ~Warum sollte ich Euch helfen?~
 @339  = ~Ich habe genug von Euch. Ihr könnt für immer durch die Welt streifen, aber tut es irgendwo anders.~
-@340  = ~Was hättet Ihr davon?~
-@341  = ~Unterhaltung, Aidan. Möchtet Ihr mir von Eurem Leben erzählen... vor Eurem Missgeschick?~
-@342  = ~Mehr Informationen. Ihr könnt mir sicherlich mehr über diesen Hexenmeister erzählen, der Euch die Reliquie gestohlen hat.~
+@340  = ~Was möchtet Ihr von mir?~
+@341  = ~Konversation, Aidan. Möchtet Ihr mir von Eurem Leben erzählen... vor Eurem Missgeschick?~
+@342  = ~Mehr Informationen. Ihr könnt mir sicherlich mehr über den erzählen, der Euch die Reliquie gestohlen hat.~
 @343  = ~Nein, da gibt es nichts.~
 @344  = ~Nochmals danke ich Euch für die Mühen, die Ihr in meinem Namen übernehmen würdet. Und ich werde bald zurückkehren, um Euch weitere Instruktionen zu geben.~
 @345  = ~Nein, denn unsere Zeit ist jetzt zu kurz, um es Euch zu erzählen.~
-@346  = ~Das mag seltsam klingen, aber da ist nichts das ich tun kann, ausser Euch Frieden zu entbieten.~
-@347  = ~Niederträchtig! Zu Lebzeiten hätte ich Euch dort wo Ihr steht niedergestreckt! Aber die Schneide meines Schwertes ist genauso unfähig wie ich!~
-@348  = ~Möge der Tod der Euch irgendwann einmal ereilen wird, Euch keinen Schlaf bringen, aber das endlose Leiden und die Einsamkeit der Untoten, denn es kann keinen schlimmeren Fluch geben. Geht mir aus den Augen!~
-@349  = ~Ihr möchtet etwas über mein Leben erfahren? Was soll ich Euch erzählen? Dass ich Soldat und Ritter war? Dass ich tapfer und rechtschaffen war? In Wahrheit war ich nichts von alle dem, zu meiner Schande.~
+@346  = ~Das klingt bedrohlich, aber ich kann nichts anderes tun, als Euch Frieden zu wünschen.~
+@347  = ~Hinterhältiger Feigling! Zu Lebzeiten hätte ich Euch dort wo Ihr steht niedergestreckt! Leider ist die Schneide meines Schwertes nun genauso machtlos wie ich!~
+@348  = ~Möge der Tod der Euch irgendwann einmal ereilen wird Euch keinen Schlaf bringen, sondern das endlose Leiden und die Einsamkeit der Untoten, denn einen schlimmeren Fluch gibt es nicht. Geht mir aus den Augen!~
+@349  = ~Ihr möchtet etwas über mein Leben erfahren? Was soll ich Euch erzählen? Dass ich Soldat und Ritter war? Dass ich ein tapferer Mann war und immer aufrichtig? Ich war so nicht in meinem Glauben zu meinem Gott, zu meiner Schande.~
 @350  = ~Ich glaube, Ihr neigt dazu, Euch in einem ungünstigen Licht darzustellen. Man wird kein Paladin, wenn man feige ist.~
 @351  = ~Ihr habt keine Jungfrauen in Not gerettet?~
 @352  = ~Wart Ihr im Leben genauso hoffnungslos, wie Ihr es nun im Tod seid? Kein Wunder, dass Ihr Euer Urteil fürchtet.~
 @353  = ~Ha! So viel zu den Paladinen und ihren Idealen!~
-@354  = ~Gibt es denn etwas Positives, das Ihr mir über Eure Vergangenheit erzählen könnt? Irgendetwas?~
+@354  = ~Gibt es denn gar nichts Schönes, das Ihr mir über Eure Vergangenheit erzählen könnt? Überhaupt nichts?~
 @355  = ~Nein, da gibt es nur wenig zu erzählen. Selbst das Land welches er selbst einmal bewohnte ist nicht mehr, so wie mein eigenes Land ebenso zerstört ist.~
-@356  = ~Dann entbiete ich Euch ein lebe wohl.~
-@357  = ~Ihr tut gut daran, meine Selbstverachtung nicht mit der Wahrheit zu verwechseln.~
-@358  = ~(seufz) Es gab vielerlei Siege und natürlich auch glückliche Momente. Wie lange ist es her, dass ich meine Arme zum Gebet an Amaunator erhob? Oder wie lange ist es her, daß ich mit meinen Brüdern zusammen Met trank, als wir unsere Sache feierten?~
-@359  = ~Die Jahrhunderte haben den Schmerz von meinem Misserfolg abgestumpft, aber sie haben auch alles andere, außer ein paar bruchstückhaften Erinnnerungen an früheres Glück gestohlen.~
+@356  = ~Dann sage ich Euch Lebewohl.~
+@357  = ~Ihr habt Recht, meinen Selbsthass nicht mit der Wahrheit zu verwechseln.~
+@358  = ~(seufz) Es gab vielerlei Siege und natürlich auch glückliche Momente. Wie lange ist es her, dass ich das letzte Mal meine Arme zum Lob Amaunators erhob, im flüchtigen Kontakt mit dem Göttlichen schwelgend? Wie lange, dass ich mit meinen Glaubensbrüdern zusammen Met trank, zur Feier unserer Bruderschaft und unserer Sache?~
+@359  = ~Die Jahrhunderte haben den Schmerz von meinem Misserfolg gedämpft, aber sie haben auch alles andere, außer ein paar bruchstückhaften Erinnerungen an früheres Glück gestohlen.~
 @360  = ~Aber kommt! Ihr seid wirklich geduldig, dem Klagen eines melancholischen Schattens zuzuhören! Ihr solltet rasten, solange Ihr es noch könnt, sonst wird der Tagesanbruch uns überraschen und ich mich in Nichts auflösen.~
-@361  = ~(seufz) Ihr wisst nichts von solchen Dingen. Und so wie ich meine Scham erdulden muss, werde ich Euch nicht tadeln.~
+@361  = ~(seufz) Ihr wisst nichts von solchen Dingen. Und so wie ich meine Schande erdulden muss, werde ich Euch nicht tadeln.~
 @362  = ~Vielleicht ein anderes Mal...~
-@363  = ~Ich grüsse Euch! Darf ich Euch von der Faust des Amaunator erzählen?~ [baidan12]
+@363  = ~Ich grüße Euch, <PRO_LADYLORD>! Darf ich Euch von der Faust des Amaunator erzählen?~ [baidan12]
 @364  = ~Deswegen seid Ihr doch erschienen, oder?~
 @365  = ~Ja, bitte.~
-@366  = ~Da Ihr es anscheinend nicht fertigbringt zu einer passenderen Stunde zu kommen, solltet Ihr Euch kurz fassen.~
-@367  = ~Wie viele Male wollt Ihr mich noch bei wichtigen Dingen unterbrechen, um mir zu erscheinen?~
+@366  = ~Da Ihr es anscheinend nicht fertigbringt zu einer passenderen Stunde zu kommen, solltet Ihr wohl besser.~
+@367  = ~Wie viele Male wollt Ihr mich noch mit Euren kurzen Besuchen bei meinem Tun unterbrechen?~
 @368  = ~Ich glaube, ich werde sie schon selbst erkennen.~
 @369  = ~Ich bin nicht mehr daran interessiert, Euch zu helfen.~
 @370  = ~Die Faust des Amaunator ist für einen Streitkolben sehr lang. Ihr Kopf besteht aus Gold und magische Runen sind in ihrem Schaft eingraviert.~
 @371  = ~Habt Ihr Euch extra dafür aufgemacht, um mir dies zu sagen?~
-@372  = ~Gibt es noch etwas, das an ihr besonders ist?~
-@373  = ~Zum einen dies und zum anderen wird sie sich in der Hand eines Leichnams befinden. Sie wird kaum zu verfehlen sein.~
+@372  = ~Gibt es noch etwas, das an diesem Streitkolben besonders ist?~
+@373  = ~Zum einen dies und zum anderen wird sich die Faust Amaunators im Besitz eines Leichnams befinden. Sie wird kaum zu übersehen sein.~
 @374  = ~In Ordnung. Dann verschwindet jetzt. Ich muss mich jetzt um andere Dinge kümmern.~
-@375  = ~Dreizehn Mal darf ich Euch erscheinen und dreizehn Mal darf ich mit Euch sprechen. Wenn Ihr jedoch diese Besprechung ungelegen finden solltet, werde ich aufhören Euch in dieser Stunde zu stören. Wünscht Ihr dies?~
+@375  = ~Dreizehn Mal darf ich Euch erscheinen und dreizehn Mal darf ich mit Euch sprechen. Wenn Ihr jedoch diese Besprechung ungelegen finden solltet, werde ich noch in dieser Stunde aufhören Euch zu stören. Wünscht Ihr dies?~
 @376  = ~Nicht bevor Ihr mir alles was ich über den Streitkolben wissen muss erzählt habt.~
-@377  = ~Verzeiht mir, wenn ich so kurz angebunden geklungen habe, Aidan. Bitte erläutert mir, was Ihr zu sagen habt.~
+@377  = ~Verzeiht mir, wenn ich so kurz angebunden geklungen habe, Aidan. Bitte erzählt mir, wofür Ihr gekommen seid.~
 @378  = ~Warum dreizehn Mal? Wieso nicht zwölf, oder vier oder achtundsiebzig Mal?~
 @379  = ~Ja, Aidan, ich habe genug von Euren unheilvollen, starren Blicken. Verschwindet.~
 @380  = ~Na schön. Soll ich Euch dann nicht mehr erscheinen?~
-@381  = ~Nein, Aidan, ich habe mich versprochen. Ihr dürft mir natürlich weiterhin erscheinen.~
-@382  = ~Sagt mir zuerst, was ich damit tun soll, wenn ich sie finde.~
+@381  = ~Nein, Aidan, ich habe zu hastig gesprochen. Bitte erscheint mir auch weiterhin.~
+@382  = ~Sagt mir zuerst, was ich damit tun soll, wenn ich die Faust Amaunators finde.~
 @383  = ~Das wäre wohl das Beste.~
 @384  = ~Wenn ich Euch nie wieder sehen würde, wäre das eine Erleichterung. Ihr und Eure Aufgabe seid eine Bürde, die ich mir nicht aufhalsen möchte.~
-@385  = ~Dann werde ich Euch nicht mehr länger belästigen. Geht in Frieden, denn ich werde ihn wohl niemals bekommen.~
-@386  = ~Dennoch werdet Ihr auf Euren Reisen möglicherweise auf verschiedene Streitkolben stossen. Dieser ist jedoch zerlegt.~
-@387  = ~Der Griff ist mit einer silbernen Kordel umgeben und sie ist für ihre Grösse ziemlich leicht. Die Untoten werden das Feuer des Amaunator in ihr spüren und vor ihr die Flucht ergreifen. Ist sie in den Händen einer rechtschaffenen Person, beginnt sie zu dieser zu singen...~
+@385  = ~Dann werde ich Euch nicht mehr länger belästigen. Geht in Frieden, denn ich werde ihn wohl niemals finden.~
+@386  = ~Dennoch werdet Ihr auf Euren Reisen möglicherweise auf verschiedene Streitkolben stoßen. Dieser ist jedoch besonders.~
+@387  = ~Der Griff ist mit einer silbernen Kordel umgeben und die Faust Amaunators ist für ihre Grösse ziemlich leicht. Die Untoten werden das Feuer des Amaunator in ihr spüren und vor ihr die Flucht ergreifen. Ist sie in den Händen einer rechtschaffenen Person, beginnt sie zu dieser zu singen...~
 @388  = ~Ihr klingt so, als würdet Ihr sie gerne wieder einmal schwingen.~
 @389  = ~Könnte der Leichnam sie gegen uns verwenden?~
-@390  = ~Und wenn ich ihn gefunden habe? Was dann?~
+@390  = ~Und wenn ich die Faust gefunden habe? Was dann?~
 @391  = ~Ich glaube, ich werde sie sehr leicht identifizieren können.~
 @392  = ~Und was sollte mich davon abhalten, sie nicht für mich selbst zu benutzen?~
-@393  = ~Ich habe noch nicht zugestimmt, dass ich den Streitkolben für Euch suchen werde.~
-@394  = ~Ich glaube nicht, denn kein Untoter kann sie berühren und ihre Zertörungskraft ist gewaltig. Diese Waffe erkennt, wer sie schwingen möchte. Nein, dieser Feind hat keine Verwendung für eine solche Waffe und kann sie auch nicht einsetzen. Er ist untot und voll von unheiliger Magie.~
-@395  = ~Dann wollt Ihr mehr über den Streitkolben erfahren?~
+@393  = ~Ich habe noch nicht mal zugestimmt, dass ich den Streitkolben für Euch überhaupt suchen werde.~
+@394  = ~Ich glaube nicht, denn kein Untoter kann sie berühren ohne ihre Zertörungskraft auf sich selbst zu lenken. Nein, dieser Feind hat keine Verwendung für eine solche Waffe. Er ist untot und voll von unheiliger Magie.~
+@395  = ~Dann wollt Ihr mehr über den Streitkolben erfahren, bevor ich Euch verlasse?~
 @396  = ~Ja, erzählt mir mehr darüber.~
 @397  = ~Erzählt mir lieber etwas mehr von Euch selbst.~
-@398  = ~Ich werde Euch helfen, Aidan. Und ich glaube ich weiss jetzt genug, um sie zu finden.~
+@398  = ~Ich werde Euch helfen, Aidan. Und ich glaube ich weiß jetzt genug, um sie zu finden.~
 @399  = ~Sehr schön.~
-@400  = ~Es könnte wohl viermal oder auch zwölfmal sein, wenn ich Eure Worte aufgreifen darf. Aber mehr als dreizehmal darf ich nicht mit Euch sprechen. Nennt es einen Vertrag mit den Toten, wenn Ihr wollt, aber die Anzahl ist festgelegt und unveränderbar als wäre sie in Stein gemeißelt. Dreizehn Mal dürfen die Toten mit einer lebenden Seele sprechen, und nicht mehr.~
+@400  = ~Es könnte wohl viermal oder auch zwölfmal sein, wenn Ihr es mir sagt, dann belästige ich Euch kein weiteres mal. Aber mehr als dreizehmal darf ich nicht mit Euch sprechen. Nennt es einen Vertrag mit den Toten, wenn Ihr wollt, aber die Anzahl ist festgelegt und unveränderbar als wäre sie in Stein gemeißelt. Dreizehn Mal dürfen die Toten mit einer lebenden Seele sprechen, und nicht mehr.~
 @401  = ~Dann könntet Ihr mich so oft besuchen wie Ihr wollt, so lange Ihr nicht sprecht?~
 @402  = ~Wer setzt diese Anordnung durch?~
-@403  = ~Das ist mehr als genug. Ich würde sagen, dass Ihr alles gesagt habt, was von Nöten ist.~
+@403  = ~Das ist mehr als genug. Ich würde sagen, dass Ihr alles gesagt habt, was nötig ist.~
 @404  = ~Wenn Ihr es so wünscht. Dann werde ich Euch nicht mehr erscheinen, bis Ihr die Faust des Amaunator in Eurem Besitz habt.~
-@405  = ~Wenn ich es nur könnte! Die alleinige Berührung würde mich vernichten. Ich weiss nicht wie Diagott in der Lage war sie zu behalten, da keine untote Hand sie berühren kann. Aber er hat sie nicht aus seinem Besitz gegeben, das weiss ich durch meine Beobachtungen. Möglicherweise hatte er sie in etwas eingewickelt, damit er die Berührung vermeidet. Ich weiss es nicht.~
+@405  = ~Wenn ich es nur könnte! Die alleinige Berührung würde mich vernichten. Ich weiß nicht wie Diagott in der Lage war sie zu behalten, da keine untote Hand sie berühren kann. Aber er hat sie nicht aus seinem Besitz gegeben, das weiß ich durch meine Beobachtungen. Möglicherweise hatte er sie in etwas eingewickelt, damit er die Berührung vermeidet. Ich weiß es nicht.~
 @406  = ~Wenn Ihr die Faust findet, bringt sie zum Altar des vergessenen Tempels. Aber darüber werde ich in einer anderen Nacht sprechen.~
 @407  = ~Wenn Ihr es so wünscht.~
 @408  = ~Nichts, würde ich denken. Es jedoch zu tun, wäre das Grundlegendste jeglichen Verrats. Für Euer Seelenheil solltet Ihr nicht diesen bösen Weg gehen.~
 @409  = ~In der Tat, obwohl ich hoffe, dass Ihr meine Bitte noch erhört.~
-@410  = ~Ihr wollt etwas über mich erfahren? Vergebt mir, <PRO_LADYLORD>, aber ich weiss nicht was ich antworten soll.~
-@411  = ~Die Lebenden haben Hoffnungen und Ängste, jedoch habe ich nichts des ersten und zu viel des letzten. Dass Ihr, ohne Zweifel zu den Lebenden gehört und mit beiden Dingen reichlich ausgestattet seid, mir eine solche Frage stellt, ist seltsam. Aber versuchen werde ich es, damit nicht die kalte Welt des Todes mich von sogar der Erinnerung an die Menschheit beraubt.~
+@410  = ~Ihr wollt etwas über mich erfahren? Vergebt mir, <PRO_LADYLORD>, aber ich weiß nicht wie ich antworten soll.~
+@411  = ~Die Lebenden haben Hoffnungen und Ängste, jedoch habe ich nichts des ersten und zu viel des letzteren. Dass Ihr, ohne Zweifel zu den Lebenden gehört und mit beiden Dingen reichlich ausgestattet seid, mir eine solche Frage stellt, mutet seltsam an. Aber ich werde es versuchen, damit die kalte Welt des Untodes mir nicht sogar die Erinnerung an die Menschlichkeit raubt.~
 @412  = ~Soll ich Euch von Netheril und ihrem Fall erzählen?~
 @413  = ~Ich bitte darum.~
 @414  = ~Wie wäre es mit etwas Persönlicherem?~
-@415  = ~Ich will mich jetzt eigentlich gar nicht unterhalten.~
-@416  = ~Vielleicht, aber würde mein geisterhaftes Antlitz Euch Freude bringen? Ich denke nicht, denn es würde mir keinen Trost bringen, stumm und unsichtbar herumzuwandern, während die Welt sich weiter dreht. Ich werde meine Zeit abwarten und zu Euch kommen, wenn ich mit Euch sprechen kann.~
+@415  = ~Ich will mich doch eher nicht unterhalten.~
+@416  = ~Vielleicht, aber würde mein geisterhaftes Antlitz Euch Freude bringen? Ich denke eher nicht, und mir würde es keinen Trost bringen, stumm und in Geisterform neben Euch zu stehen, während die Welt sich weiter dreht. Ich werde meine Zeit abwarten und zu Euch kommen, wenn ich mit Euch sprechen kann.~
 @417  = ~Eure Frage verwirrt mich. Es ist das Gesetz. Was würde wohl ohne Gesetze geschehen?~
 @418  = ~Dann werde ich mich zurückziehen. Friede sei mit Euch bis zu unserem nächsten Treffen.~
 @419  = ~Aber die Nacht neigt sich dem Ende zu und ich muss Euch verlassen.~
-@420  = ~Wünscht Ihr sonst noch etwas, ausser dass ich gehe?~
+@420  = ~Wünscht Ihr sonst noch etwas, bevor ich gehe?~
 @421  = ~Da Ihr jetzt schon einmal hier seid, könnten wir uns auch ein wenig unterhalten.~
 @422  = ~Nein. Wir sehen uns das nächste Mal wieder.~
 @423  = ~Einst war Netheril ein fruchtbares, grünes Land, ähnlich wie die westlichen Herzlande es jetzt sind. Magiekundige wurden sehr hoch geschätzt und sie bauten ihre Stadtstaaten, die sie dann auch regierten. Sie bauten in den Himmel ragende Türme, durch die sie den Sternen Fragen stellen konnten und hoben ganze Berge aus ihren Grundfesten, die dann in den Lüften schwebten.~
@@ -525,14 +525,14 @@ Ich kann selbst kaum glauben, dass Aidan wirklich geglaubt haben könnte, dass ic
 @474  = ~Das wäre in der Tat sehr erfreulich.~
 @475  = ~Leider denkt Ihr so. Ich werde Euch verlassen und Euch nicht mehr belästigen, bis Ihr die Faust des Amaunator in Euren Händen haltet.~
 @476  = ~Dieser Verbrecher! Dass er Euch so auf diese Art behandelt hat! Ich fürchte, ich kenne seinen Namen nicht, aber er muss sehr mächtig gewesen sein, um Euch in seine Gewalt zu bekommen.~
-@477  = ~Ihr seid Rechtschaffen in Eurem Streben, diejenigen zu bestrafen die andere quälen und leiden lassen. Sie müssen aufgehalten werden, damit sie sich nicht an Schwächeren vergreifen.~
+@477  = ~Ihr seid rechtschaffen in Eurem Streben, diejenigen zu bestrafen die andere quälen und leiden lassen. Sie müssen aufgehalten werden, damit sie sich nicht an Schwächeren vergreifen.~
 @478  = ~Rechtschaffen ist ein starkes Wort, Aidan. Ich weiss nicht, ob ich Rache glorifizieren würde.~
 @479  = ~Ich danke Euch, Aidan. Ich bin froh, dass Ihr meine Motive versteht.~
 @480  = ~Die Vergangenheit ist geschehen, Aidan! Ich will die Macht, die er mir versprochen hat!~
 @481  = ~In der Tat! Was hat er Euch denn gestohlen?~
 @482  = ~Das sage ich lieber nicht.~
 @483  = ~Meine Seele.~
-@484  = ~Eine ziemlich üble Geschichte! Es ist grausam, dass Ihr von Eurer Kindheitsfreundin getrennt wurdet. Dass Ihr nach ihr sucht, ist mehr als natürlich. Wurde sie Euch unrechtmässig entzogen?~
+@484  = ~Ein äußerst angemessenes Ansinnen! Es ist grausam, dass Ihr von Eurer Kindheitsfreundin getrennt wurdet. Dass Ihr nach ihr sucht, ist mehr als natürlich. Wurde sie Euch unrechtmässig entzogen?~
 @485  = ~So einfach ist das nicht. Sie brach ein Gesetz, als sie einen Zauberspruch in Athkatla benutzte, jedoch wusste sie nicht, dass solch ein Gesetz existiert.~
 @486  = ~Ich bin mir nicht ganz sicher. Aufgrund der Gesetze der Stadt durfte sie keine Magie anwenden, aber das wusste sie nicht. Und jeder andere der es tat, bekam vorher eine Verwarnung. Sie nahmen sie aber ohne jegliche Verwarnung mit.~
 @487  = ~Ja! Sie wurde gefangen genommen, weil der Magier der zur selben Zeit gefangen genommen wurde ebenfalls Magie gegen sie anwandte.~
@@ -849,7 +849,7 @@ Ich kann selbst kaum glauben, dass Aidan wirklich geglaubt haben könnte, dass ic
 @798  = ~Ich schäme mich dies jetzt zuzugeben, aber die freundlichen Worte und die Verbundenheit mit meinen Brüdern des Ordens bedeuteten mir nur wenig. Ich genoss sie, dies ist wahr, aber ich wusste nicht, wie gesegnet ich durch sie war. Was würde ich jetzt dafür geben Pallons Lachen noch einmal zu hören!~
 @799  = ~Aber meine Zunge rennt vor mir.~
 @800  = ~Als ich niedergestreckt wurde, war ich ein wenig traurig, dass ich meine Freunde zurücklassen musste, obwohl ich so viel mehr verloren hatte. Dann, als die Monate zu Jahren wurden, erkannte ich die Einsamkeit meines Schicksals. Ich war für immer von ihnen getrennt. Bei ihrem Tod würden sie in die Arme von Amaunator eingehen und mit ihm wieder vereint sein. Weder bot der Tod mir Trost, noch konnte ich zum Leben zurückkehren. Mein Geist hätte Amaunators Urteil entgegennehmen können... aber ich habe diese letzte Reise niemals angetreten. Und jetzt ist es zu spät sie antreten zu wollen.~
-@801  = ~Dann, als die Jahre zu Jahrhunderten wurden, vergass ich was es bedeutet nicht allein zu sein. Ich war tot in der Einsamkeit tot und fühlte nichts.~
+@801  = ~Dann, als die Jahre zu Jahrhunderten wurden, vergaß ich was es bedeutet nicht allein zu sein. Ich war tot in der Einsamkeit tot und fühlte nichts.~
 @802  = ~Eure Gegenwart und Eure Freundschaft die Ihr mir gegeben habt, haben mir erneut gezeigt wie einsam ich bin. Noch einmal fühle ich die Einsamkeit, so wie ich es tat, als ich noch auf Erden wandelte.~
 @803  = ~Das klingt so, als wäre unsere Freundschaft nicht gut für Euch gewesen.~
 @804  = ~Aber warum kommt Ihr dann immer wieder zurück?~
@@ -947,3 +947,8 @@ Ich kann selbst kaum glauben, dass Aidan wirklich geglaubt haben könnte, dass ic
 @896  = ~Meine Liebe, es ist an der Zeit, und es tröstet mich, mein Geständnis gemacht zu haben.~
 @897  = ~Mein Freund, es ist an der Zeit, und es tröstet mich, mein Geständnis gemacht zu haben.~ ~Meine Freundin, es ist an der Zeit, und es tröstet mich, mein Geständnis gemacht zu haben.~
 @898  = ~Obwohl die letzte der Stunden herannaht, sollten wir uns nicht mit Verabschiedungen aufhalten. Möget Ihr ein gesegnetes Leben voller Freude führen und Eure Götter mögen ein wachsames Auge auf Euch haben. Lebt wohl.~
+
+/* new for v9 */
+@900  = ~Ich verfolge Irenicus, der meine Freunde und mich gefangen gehalten und gefoltert hat. Ich möchte vor allem meine Freundin Imoen in Sicherheit wissen, und das wird erst der Fall sein, wenn wir ihn gestellt haben!~
+/* @484 rephrased to match the new line @890 */
+@901  = ~Ein äußerst angemessenes Ansinnen! Es ist grausam, dass Ihr und Eure Kindheitsfreundin misshandelt wurdet. Dass Ihr sie beschützen möchtet, ist mehr als natürlich.~

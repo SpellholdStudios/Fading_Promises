@@ -947,3 +947,8 @@ Me cuesta creer que Aidan, el paladín caído de Amaunator, haya sido tan ingenuo 
 @896  = ~Mi amor, el tiempo se acerca, y me consuela haber hecho mi confesión.~
 @897  = ~Mi amigo, el tiempo se acerca, y me consuela haber hecho mi confesión.~ ~Mi amiga, el tiempo se acerca, y me consuela haber hecho mi confesión.~
 @898  = ~Como la hora final está cerca, no tardemos en decirnos adiós. Que las bendiciones de una vida larga y alegre os sigan, y que los dioses os mantengan a salvo. Adiós.~
+
+/* new for v9 */
+@900  = ~Estoy persiguiendo a Irenicus, quien nos torturó a mis amigos y a mí. Puede amenazarme todo lo que quiera, ¡pero no puedo tener la certeza de que mi amiga Imoen esté a salvo si antes no lo derrotamos!~
+/* @484 rephrased to match the new line @890 */
+@901  = ~¡Un encargo de lo más loable, creo! Que tú y tu compañera de la infancia sean torturados es de lo más cruel, y que busques protegerla, lo más natural.~

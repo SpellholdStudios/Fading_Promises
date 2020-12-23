@@ -299,7 +299,7 @@ I can hardly believe that Aidan, the fallen paladin of Amaunator would have been
 @248  = ~Yea.~
 @249  = ~Nay.~
 @250  = ~I do not wish to commit to either.~
-@251  = ~Amaunator was the god of the sun, worshiped throughout the Realms, for he brought order out of chaos and law out of anarchy. His was the hand that directed his followers to ensure that all contracts were recorded, sealed and witnessed, and by his hand and through his servants was the law upheld. It was said that he held sway over time itself.~
+@251  = ~Amaunator was the god of the sun, worshipped throughout the Realms, for he brought order out of chaos and law out of anarchy. His was the hand that directed his followers to ensure that all contracts were recorded, sealed and witnessed, and by his hand and through his servants was the law upheld. It was said that he held sway over time itself.~
 @252  = ~When Netheril's many-domed cities fell from the sky, after the folly of Karsus, Amaunator was abandoned by his fold for allowing that disaster, save for some small handful, the Brotherhood of the Sun, that remain faithful even unto this very day, though they bend their knee to gods besides Amaunator.~
 @253  = ~Now that thou knowest of Amaunator, wilt thou hear of the quest I would set upon thee?~
 @254  = ~Sure.~
@@ -947,3 +947,8 @@ I can hardly believe that Aidan, the fallen paladin of Amaunator would have been
 @896  = ~My love, the time doth approach, and I am comforted to have made my confession.~
 @897  = ~My friend, the time doth approach, and I am comforted to have made my confession.~
 @898  = ~As the final hour is nigh at hand, let us not linger over goodbyes. May the blessings of long life and joy follow thee, and the gods keep thee safe. Farewell.~
+
+/* new for v9 */
+@900  = ~I'm in pursuit of Irenicus, who tortured my friends and me. He can threaten me all he wants, but I can't be sure my friend Imoen will be safe unless we defeat him!~
+/* @484 rephrased to match the new line @890 */
+@901  = ~A most wholesome charge, I deem! That thou and thy childhood companion shouldst be tortured is most cruel, and that thou shouldst seek to protect her most natural.~

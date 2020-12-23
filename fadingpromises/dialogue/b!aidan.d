@@ -1441,7 +1441,12 @@ IF ~~ BA4.30
 SAY @515
 + ~GlobalLT("Chapter","GLOBAL",%bg2_chapter_5%) Global("B!AidanIrenicus","LOCALS",0)~ + @516 DO ~SetGlobal("B!AidanIrenicus","LOCALS",1)~ + BA4.18
 + ~GlobalGT("Chapter","GLOBAL",%bg2_chapter_4%) Global("B!AidanIrenicus","LOCALS",0)~ + @517 DO ~SetGlobal("B!AidanIrenicus","LOCALS",1)~ + BA4.19
-+ ~GlobalLT("Chapter","GLOBAL",%bg2_chapter_5%) Global("B!AidanImoen","LOCALS",0)~ + @518 DO ~IncrementGlobal("B!AidanLove","GLOBAL",1) SetGlobal("B!AidanImoen","LOCALS",1)~ + BA4.20
++ ~OR(2)
+Global("C#IM_ImoenStays","GLOBAL",0)
+Global("C#IM_ImoenStays","GLOBAL",2)
+GlobalLT("Chapter","GLOBAL",%bg2_chapter_5%) Global("B!AidanImoen","LOCALS",0)~ + @518 DO ~IncrementGlobal("B!AidanLove","GLOBAL",1) SetGlobal("B!AidanImoen","LOCALS",1)~ + BA4.20
++ ~Global("C#IM_ImoenStays","GLOBAL",1)
+GlobalLT("Chapter","GLOBAL",%bg2_chapter_5%) Global("B!AidanImoen","LOCALS",0)~ + @900 DO ~IncrementGlobal("B!AidanLove","GLOBAL",1) SetGlobal("B!AidanImoen","LOCALS",1)~ + BA4.60
 + ~GlobalGT("Chapter","GLOBAL",%bg2_chapter_4%) Global("B!AidanImoen","LOCALS",0)~ + @519 DO ~IncrementGlobal("B!AidanLove","GLOBAL",1) SetGlobal("B!AidanImoen","LOCALS",1)~ + BA4.21
 + ~Global("Chapter","GLOBAL",%bg2_chapter_6%) Global("B!AidanRhynnLanthorn","LOCALS",0)~ + @520 DO ~SetGlobal("B!AidanRhynnLanthorn","LOCALS",1)~ + BA4.22
 + ~Global("B!AidanDarkForces","LOCALS",0)~ + @521 DO ~IncrementGlobal("B!AidanLove","GLOBAL",1) SetGlobal("B!AidanDarkForces","LOCALS",1)~ + BA4.23
@@ -1601,6 +1606,7 @@ IF ~~ BA4.59
 SAY @561
 IF ~~ THEN + BA4.30
 END
+
 END
 
 /* Talk 5 - a singular being */
@@ -2575,5 +2581,13 @@ END
 IF ~~ BA10.24
 SAY @898
 IF ~~ THEN DO ~DestroySelf()~ EXIT
+END
+
+
+/* new for v10 */
+
+IF ~~ BA4.60
+SAY @901
+IF ~~ THEN + BA4.59
 END
 END
