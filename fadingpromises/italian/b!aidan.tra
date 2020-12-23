@@ -948,7 +948,6 @@ Stento a credere che Aidan, il paladino caduto di Amaunator sia stato tanto inge
 @897  = ~Amico mio, il tempo si avvicina, e mi conforta aver fatto la mia confessione.~
 @898  = ~Come l'ultima ora è a portata di mano, cerchiamo di non soffermarci sugli addii. Che le benedizioni di lunga vita e di gioia ti seguano, e che gli dei ti tengano al sicuro. Addio.~
 
-/* new for v9 */
-@890  = ~I'm in pursuit of Irenicus, who tortured my friends and me. He can threaten me all he wants, but I can't be sure my friend Imoen will be safe before we do not defeat him!~
-/* @484 rephrased to match the new line @890 */
-@891  = ~A most wholesome charge, I deem! That thou and thy childhood companion shouldst be tortured is most cruel, and that thou shouldst seek to protect her most natural.~
+@900 = ~Sto inseguendo Irenicus, che ha torturato me e i miei amici. Può minacciarmi quanto vuole, ma non posso essere certo che la mia amica Imoen sarà al sicuro a meno che non lo sconfiggiamo!~ ~Sto inseguendo Irenicus, che ha torturato me e i miei amici. Può minacciarmi quanto vuole, ma non posso essere certa che la mia amica Imoen sarà al sicuro a meno che non lo sconfiggiamo!~
+@901 = ~Un incarico molto salutare, credo! Che tu e la tua compagna d'infanzia siate stati torturati è estremamente crudele e che cerchi di proteggerla è naturale.~
+

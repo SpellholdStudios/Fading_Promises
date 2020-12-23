@@ -104,7 +104,7 @@ Cet imbécile de fantôme m'a pratiquement guidé jusqu'au Poing d'Amaunator ! Quel
 @97   = ~Votre réponse me procure grand plaisir. C'est chose merveilleuse que d'avoir trouvé votre amitié au terme de mes errances. Mais la nuit poursuit sa course, et je dois m'en aller.~
 @98   = ~Adieu, dès lors.~
 @99   = ~Adieu, jusqu'à notre prochaine rencontre !~
-@100  = ~Vous avez défait un puissant adversaire. Etes-vous sauf ?~ [baidan05] ~Vous avez défait un puissant adversaire. Etes-vous sauve ?~ [baidan05]
+@100  = ~Vous avez défait un puissant adversaire. Êtes-vous sauf ?~ [baidan05] ~Vous avez défait un puissant adversaire. Êtes-vous sauve ?~ [baidan05]
 @101  = ~Ce n'était pas un combat facile.~
 @102  = ~Le prix a été élevé, Aidan. Je porte le corps de mon aimée.~ ~Le prix a été élevé, Aidan. Je porte le corps de mon aimé.~
 @103  = ~Un jour comme un autre dans la vie de l'aventurier le plus brave de Féérune.~ ~Un jour comme un autre dans la vie de l'aventurière la plus brave de Féérune.~ 
@@ -137,7 +137,7 @@ Cet imbécile de fantôme m'a pratiquement guidé jusqu'au Poing d'Amaunator ! Quel
 @130  = ~Non, je ne pense pas que je vais faire ce que tu m'as demandé, finalement.~
 @131  = ~N'ajoutez rien, <PRO_LADYLORD> <CHARNAME>. Seul le chagrin peut surgir, à raviver votre perte, ou à me reprocher mon tourment permanent. Je ne vous reproche rien, car le deuil induit si aisément les émotions les plus viles.~
 @132  = ~Il est naturel que vous espériez votre amour ramené à la vie. Quand la mort nous rend visite au moment opportun, c'est un soulagement bienvenu des turpitudes du monde, mais ce moment n'est pas venu.~
-@133  = ~Je ne veux point vous charger de penser à ma requête avant les exigences de votre coeur, mais si les moyens de mettre fin à la quête que je vous ai présentée survenaient, saisissez-vous-en, je vous en supplie. Mais je ne parlerai pas davantage.~
+@133  = ~Je ne veux point vous charger de penser à ma requête avant les exigences de votre cœur, mais si les moyens de mettre fin à la quête que je vous ai présentée survenaient, saisissez-vous-en, je vous en supplie. Mais je ne parlerai pas davantage.~
 @134  = ~J'aimerais pouvoir en dire davantage.~
 @135  = ~En effet ! Quand j'étais en vie, je m'efforçais d'être pur et vertueux. Mon échec me valut la mort, mais je m'efforce toujours d'être vertueux. Ah, je me répands sur ma propre souffrance alors que vos besoins vous pressent !~
 @136  = ~Comme vous me connaissez mal !~
@@ -243,7 +243,7 @@ Enfin, Aidan, autrefois paladin d'Amaunator, est libre. Malgré mes affirmations 
 @196  = ~Vous m'avez épargné une éternité d'errance, par cet acte de bonté qui a consisté à placer le Poing d'Amaunator sur l'autel sacré.~
 @197  = ~Il y a bien longtemps, j'ai manqué à mon devoir de le faire moi-même. J'étais paladin d'Amaunator, de mon vivant, et on m'a chargé de porter la masse au temple. J'ai pensé que la tâche qu'on m'avait assignée était indigne de ma valeur, j'ai traîné en chemin, et ai été fauché par ma bêtise.~
 @198  = ~Vous avez sans le savoir retrouvé le Poing d'Amaunator et l'avez enfin ramené dans son ultime lieu de repos.~
-@199  = ~J'ignore si la tentation de conserver la relique vous a hanté, mais je vous remercie. Votre générosité m'a épargné une éternité de tourments. Pour ceci, je vous remercie de tout coeur.~ ~J'ignore si la tentation de conserver la relique vous a hantée, mais je vous remercie. Votre générosité m'a épargné une éternité de tourments. Pour ceci, je vous remercie de tout coeur.~
+@199  = ~J'ignore si la tentation de conserver la relique vous a hanté, mais je vous remercie. Votre générosité m'a épargné une éternité de tourments. Pour ceci, je vous remercie de tout cœur.~ ~J'ignore si la tentation de conserver la relique vous a hantée, mais je vous remercie. Votre générosité m'a épargné une éternité de tourments. Pour ceci, je vous remercie de tout cœur.~
 @200  = ~Mais dites-moi, si vous le voulez bien, comment avez-vous su qu'il fallait placer la relique sur l'autel sacré ?~
 @201  = ~Cela m'a semblé être la chose à faire. Je ne peux pas l'expliquer autrement.~
 @202  = ~Je pense que j'ai dû le lire quelque part, dans un texte religieux.~
@@ -367,9 +367,9 @@ J'ai peine à croire qu'Aidan, le paladin déchu d'Amaunator, ait pu être assez cr
 @316  = ~En fait, oui.~
 @317  = ~Pas pour l'instant, mais si j'en trouve un, je chercherai ta relique.~
 @318  = ~Je ne sais pas pourquoi je me soucie de ceci.~
-@319  = ~Ecoute, Aidan, si c'est une liche, il est bien au-delà de mes compétences. Je suis désolé, je ne peux pas t'aider.~ ~Ecoute, Aidan, si c'est une liche, il est bien au-delà de mes compétences. Je suis désolée, je ne peux pas t'aider.~
+@319  = ~Écoute, Aidan, si c'est une liche, il est bien au-delà de mes compétences. Je suis désolé, je ne peux pas t'aider.~ ~Écoute, Aidan, si c'est une liche, il est bien au-delà de mes compétences. Je suis désolée, je ne peux pas t'aider.~
 @320  = ~Et si je m'avère assez puissant pour vaincre ton nécromant, qu'est-ce qui te dit que je ne pourrai pas faire la même chose avec toi, et garder cette relique pour moi ?~
-@321  = ~Je vous remercie de tout coeur. J'aimerais pouvoir vous dessiner une carte menant à sa porte, mais il m'a perdu quand il m'a finalement fui. Il pourrait résider n'importe où, soyez donc toujours prudent. Je reviendrai une autre nuit, pour vous parler de l'objet que vous recherchez, et de comment vous pourrez le distinguer des autres masses en ce bas monde.~
+@321  = ~Je vous remercie de tout cœur. J'aimerais pouvoir vous dessiner une carte menant à sa porte, mais il m'a perdu quand il m'a finalement fui. Il pourrait résider n'importe où, soyez donc toujours prudent. Je reviendrai une autre nuit, pour vous parler de l'objet que vous recherchez, et de comment vous pourrez le distinguer des autres masses en ce bas monde.~
 @322  = ~Resterais-tu un peu plus longtemps, esprit ?~
 @323  = ~Au revoir, Aidan.~
 @324  = ~(soupir) Je suppose que je te reverrai, dès lors.~
@@ -532,7 +532,7 @@ J'ai peine à croire qu'Aidan, le paladin déchu d'Amaunator, ait pu être assez cr
 @481  = ~En effet ! Que vous a-t-il dérobé ?~
 @482  = ~J'aimerais autant ne rien en dire.~
 @483  = ~Mon âme.~
-@484  = ~Une mission des plus salutaires, j'en suis convaincu ! Que vous deviez être séparé de votre compagne d’enfance est bien cruel, et que vous cherchiez à la retrouver des plus naturels. Mais vous a-t-elle été enlevée de manière illégale ?~ ~Une mission des plus salutaires, j'en suis convaincu ! Que vous deviez être séparée de votre compagne d’enfance est bien cruel, et que vous cherchiez à la retrouver des plus naturels. Mais vous a-t-elle été enlevée de manière illégale ?~
+@484  = ~Une mission des plus salutaires, j'en suis convaincu ! Que vous deviez être séparé de votre amie d’enfance est bien cruel, et que vous cherchiez à la retrouver des plus naturels. Mais vous a-t-elle été enlevée de manière illégale ?~ ~Une mission des plus salutaires, j'en suis convaincu ! Que vous deviez être séparée de votre amie d’enfance est bien cruel, et que vous cherchiez à la retrouver des plus naturels. Mais vous a-t-elle été enlevée de manière illégale ?~
 @485  = ~Pas vraiment. Elle a enfreint la loi, en lançant un sortilège dans la ville d’Athkatla, mais elle ne savait même pas qu’une telle loi existait.~
 @486  = ~Je ne sais pas. Elle n’était pas sensée user de magie à l’intérieur des limites de la ville, mais elle l’ignorait. Et toutes les autres personnes que j’ai vues le faire ont d’abord écopé d’un avertissement. Ils l’ont emportée absolument sans prévenir !~
 @487  = ~Oui ! Elle a été emportée car le mage qui a été capturé en même temps qu’elle a insisté pour qu’elle le soit.~
@@ -557,7 +557,7 @@ J'ai peine à croire qu'Aidan, le paladin déchu d'Amaunator, ait pu être assez cr
 @506  = ~Eh bien, en mettant mes talents à disposition de quiconque en fait la demande, bien sûr.~
 @507  = ~Je ne sais pas, Aidan, mais je te ferai savoir si je pense à quelque chose.~
 @508  = ~Je n'en ai pas la moindre idée. J'ai juste dit ça pour faire la conversation.~
-@509  = ~Voilà qui est des plus fâcheux. Vous êtes aussi désoeuvré dans la vie que je le suis dans la mort.~
+@509  = ~Voilà qui est des plus fâcheux. Vous êtes aussi désœuvré dans la vie que je le suis dans la mort.~
 @510  = ~(soupir) Tu pourrais avoir raison.~
 @511  = ~Il y a de l'espoir, Aidan. On ne sait jamais quand les choses vont s'éclaircir.~
 @512  = ~Et je m'en fiche complètement.~
@@ -608,7 +608,7 @@ J'ai peine à croire qu'Aidan, le paladin déchu d'Amaunator, ait pu être assez cr
 @557  = ~En toute bonne foi, le gouffre entre dire et faire est souvent large, en effet.~
 @558  = ~Il vous reste du temps pour changer vos manières, et vous décider pour une cause valable. Je n'en dirai pas plus, mais pensez-y.~
 @559  = ~En effet ! Et jamais plus tôt que lorsque vous vous choisirez une voie vertueuse !~
-@560  = ~Quelle honte, que vous deviez être si désoeuvré.~
+@560  = ~Quelle honte, que vous deviez être si désœuvré.~
 @561  = ~Mais voulez-vous encore parler ?~
 @562  = ~<PRO_LADYLORD>, je viens pour vous saluer.~ [baidan14]
 @563  = ~Et quel sera le sujet de notre conversation aujourd'hui ?~
@@ -675,7 +675,7 @@ J'ai peine à croire qu'Aidan, le paladin déchu d'Amaunator, ait pu être assez cr
 @624  = ~En effet, vous avez peut-être raison. Mais la nuit s'écoule.~
 @625  = ~Je vous dis au revoir. Je reviendrai, si vous le désirez, une autre nuit, à l’heure qui sépare un jour du suivant.~
 @626  = ~Adieu, et puisse votre tâche toucher rapidement à son terme !~
-@627  = ~En vérité ! Etranges sont les noms de ces dieux récents, et encore plus étrange est le fait qu’ils puissent engendrer une progéniture mortelle.~
+@627  = ~En vérité ! Étranges sont les noms de ces dieux récents, et encore plus étrange est le fait qu’ils puissent engendrer une progéniture mortelle.~
 @628  = ~Pourtant, mon point de vue demeure inchangé. Votre nature ne me cause nulle vexation. Si j’étais vivant, peut-être vous aurais-je pourchassé pour purger votre chair mortelle de la vilénie de votre sang, mais ces passions me sont étrangères désormais.~ ~Pourtant, mon point de vue demeure inchangé. Votre nature ne me cause nulle vexation. Si j’étais vivant, peut-être vous aurais-je pourchassée pour purger votre chair mortelle de la vilénie de votre sang, mais ces passions me sont étrangères désormais.~
 @629  = ~Et peut-être la non-mort m’a-t-elle octroyé la sagesse qui me faisait défaut de mon vivant, à savoir de juger les êtres selon leurs actes, et non leur sang ou les failles de leur personnalité, que mes pouvoirs détectaient. Mon amitié pour vous est intacte.~
 @630  = ~Et pourtant, il se fait tard.~
@@ -688,7 +688,7 @@ J'ai peine à croire qu'Aidan, le paladin déchu d'Amaunator, ait pu être assez cr
 @637  = ~C’est vrai. Je suis vivant, je suis en bonne santé, et je me rapproche de plus en plus de mon objectif.~ ~C’est vrai. Je suis vivante, je suis en bonne santé, et je me rapproche de plus en plus de mon objectif.~
 @638  = ~As-tu l’intention de parler du temps, ce soir ?~
 @639  = ~(grognement)~
-@640  = ~Etes-vous en bonne santé ?~
+@640  = ~Êtes-vous en bonne santé ?~
 @641  = ~Globalement.~
 @642  = ~J’ai été mieux.~
 @643  = ~Je suis pas d’humeur à te parler ce soir.~
@@ -773,7 +773,7 @@ J'ai peine à croire qu'Aidan, le paladin déchu d'Amaunator, ait pu être assez cr
 @722  = ~M-mais vous êtes paladin ! Comment est-ce possible ?!~ ~M-mais vous êtes paladine ! Comment est-ce possible ?!~
 @723  = ~Désolé, Aidan. Je plaisantais.~ ~Désolée, Aidan. Je plaisantais.~
 @724  = ~J'appartiens à un Ordre très libéral.~
-@725  = ~Les temps ont changé, Aidan. Le devoir et l’honneur ne sont plus au coeur de la vocation de paladin, désormais.~
+@725  = ~Les temps ont changé, Aidan. Le devoir et l’honneur ne sont plus au cœur de la vocation de paladin, désormais.~
 @726  = ~(soupire) Ce que vous dites est vrai. Et un homme sans honneur est un homme perdu. Je le ressens amèrement.~
 @727  = ~Désolé, Aidan. Je ne voulais pas te causer de chagrin. Mais tu as posé la question.~ ~Désolée, Aidan. Je ne voulais pas te causer de chagrin. Mais tu as posé la question.~
 @728  = ~Comment étais-je censé répondre à cette question tout en épargnant tes sentiments ? Si j’avais dit que cela ne représentait rien pour moi, tu aurais été tout aussi fâché.~ ~Comment étais-je censée répondre à cette question tout en épargnant tes sentiments ? Si j’avais dit que cela ne représentait rien pour moi, tu aurais été tout aussi fâché.~
@@ -789,7 +789,7 @@ J'ai peine à croire qu'Aidan, le paladin déchu d'Amaunator, ait pu être assez cr
 @738  = ~Non.~
 @739  = ~Alors je vous souhaite de réussir. Quel dommage qu'il n'y ait point davantage de gens de votre trempe.~
 @740  = ~Mais comment est-ce possible ? N’êtes-vous pas un roublard ?~ ~Mais comment est-ce possible ? N’êtes-vous pas une roublarde ?~
-@741  = ~Ne te laisse pas abuser par cette cape ombragée et ces outils de crochetage, Aidan. Dans mon coeur, je sais ce qui est bien et ce qui est mal.~
+@741  = ~Ne te laisse pas abuser par cette cape ombragée et ces outils de crochetage, Aidan. Dans mon cœur, je sais ce qui est bien et ce qui est mal.~
 @742  = ~J’apprécie cela chez les autres. Cela en fait des cibles plus faciles.~
 @743  = ~J’essaie, Aidan, j’essaie. Parfois, ce n’est pas facile, cependant.~
 @744  = ~Adieu. Nous ne nous reverrons plus.~
@@ -907,7 +907,7 @@ J'ai peine à croire qu'Aidan, le paladin déchu d'Amaunator, ait pu être assez cr
 @856  = ~Maigre réconfort, c'est certain. Mais qu’existe-t-il d’autre, pour un fantôme ?~
 @857  = ~Vous avez raison de me blâmer.~
 @858  = ~Non, c’est moi, pas vous.~
-@859  = ~Je vous salue de lamentations gémissantes sur mes lèvres non-mortes et je m’attends à ce que votre coeur fonde devant moi, et la compréhension d’en couler comme son sang vital. Je vous remercie pour votre patience.~
+@859  = ~Je vous salue de lamentations gémissantes sur mes lèvres non-mortes et je m’attends à ce que votre cœur fonde devant moi, et la compréhension d’en couler comme son sang vital. Je vous remercie pour votre patience.~
 @860  = ~Il me semble à présent que je dois avoir foi dans le fait qu’il existe quelque chose au-delà du Néant.~
 @861  = ~<PRO_LADYLORD> <CHARNAME>, savez-vous ce que c’est qu’aimer ?~ [baidan19]
 @862  = ~Mon aimée marche à mes côtés.~ ~Mon aimé marche à mes côtés.~
@@ -920,11 +920,11 @@ J'ai peine à croire qu'Aidan, le paladin déchu d'Amaunator, ait pu être assez cr
 @869  = ~Je suis heureux que vous ayez eu cette consolation. L’amour est un don qui récompense le donneur.~
 @870  = ~Je... je suis navré que vous deviez connaître un tel chagrin.~
 @871  = ~Je suis désolé, vraiment, que vous connaissiez ce chagrin.~
-@872  = ~En vérité, vous dites vrai. Je n’avais pas pensé que vous connaissiez mon coeur.~
+@872  = ~En vérité, vous dites vrai. Je n’avais pas pensé que vous connaissiez mon cœur.~
 @873  = ~Quelque chose de... particulier ? Oui, car l’amitié est effectivement particulière.~
 @874  = ~Tout amour commence dans l’amitié.~
 @875  = ~Rien ?~
-@876  = ~Je ressens une sorte de connivence entre vous et moi, <PRO_LADYLORD>, de tempérament et d’affection. Pardonnez-moi d’oser vous parler de la sorte, mais notre temps partagé approche de son terme, et j’aimerais confesser les inclinations de mon coeur, avant...~
+@876  = ~Je ressens une sorte de connivence entre vous et moi, <PRO_LADYLORD>, de tempérament et d’affection. Pardonnez-moi d’oser vous parler de la sorte, mais notre temps partagé approche de son terme, et j’aimerais confesser les inclinations de mon cœur, avant...~
 @877  = ~<PRO_LADYLORD>, si nous avions assez de temps, je pense que vous et moi pourrions devenir plus proches, encore, mais...~
 @878  = ~Mais le sable s’écoule inlassablement vers le globe inférieur. Peu de rencontres nous restent, en effet. Néanmoins, je ne voudrais pas qu’il en soit autrement.~
 @879  = ~Aidan ! Mon aimée serait très jalouse de t’entendre parler de la sorte !~ ~Aidan ! Mon aimé serait très jaloux de t’entendre parler de la sorte !~
@@ -949,6 +949,6 @@ J'ai peine à croire qu'Aidan, le paladin déchu d'Amaunator, ait pu être assez cr
 @898  = ~Alors que la dernière heure de la nuit se profile, ne nous attardons pas en de tristes adieux. Puisse la bénédiction d'une longue vie et de mille joies vous accompagner et puissent les dieux vous garder sauf. Adieu.~ ~Alors que la dernière heure de la nuit se profile, ne nous attardons pas en de tristes adieux. Puisse la bénédiction d'une longue vie et de mille joies vous accompagner et puissent les dieux vous garder sauve. Adieu.~
 
 /* new for v9 */
-@890  = ~I'm in pursuit of Irenicus, who tortured my friends and me. He can threaten me all he wants, but I can't be sure my friend Imoen will be safe before we do not defeat him!~
+@900 = ~Je suis à la poursuite d'Irenicus, qui nous a torturés, mes amis et moi. Il peut bien me menacer autant qu'il le souhaite, mais je ne serai jamais certain qu'Imonen sera en sécurité tant que nous ne l'aurons pas vaincu!~ ~Je suis à la poursuite d'Irenicus, qui nous a torturés, mes amis et moi. Il peut bien me menacer autant qu'il le souhaite, mais je ne serai jamais certaine qu'Imonen sera en sécurité tant que nous ne l'aurons pas vaincu!~
 /* @484 rephrased to match the new line @890 */
-@891  = ~A most wholesome charge, I deem! That thou and thy childhood companion shouldst be tortured is most cruel, and that thou shouldst seek to protect her most natural.~
+@901 = ~Une mission des plus salutaires, j'en suis convaincu ! Que vous et votre amie d’enfance ayez été torturés est bien cruel, et que vous cherchiez à la protéger des plus naturels.~ ~Une mission des plus salutaires, j'en suis convaincu ! Que vous et votre amie d’enfance ayez été torturées est bien cruel, et que vous cherchiez à la protéger des plus naturels.~
